@@ -1,7 +1,50 @@
 ## My variables: World Bank @Country Level, not covered by Garrett's variables
 - 
 
-## Variables used by Garrett on the PRIO-Grid Level
+## Garrett'as ariables used by Garrett on the PRIO-Grid Level
+
+### Used by Garret
+- **Cold days**
+- **Cold nights**
+- **Consecutive dry days**
+- **Consecutive wet days**
+- **Diurnal temperature range**
+- **Frost days**
+- **Growing season length**
+- **Heavy precipitation days**
+- **Ice days**
+- **Maximum 1-day precipitation**
+- **Maximum 5-day precipitation**
+- **Maximum value of daily maximum temperature**
+- **Maximum value of daily minimum temperature**
+- **Minimum value of daily maximum temperature**
+- **Minimum value of daily minimum temperature**
+- **Number of wet days**
+- **Simple daily intensity index**
+- **Summer days**
+- **Total wet day precipitation**
+- **Tropical nights**
+- **Very heavy precipitation days**
+- **Warm days**
+- **Warm nights**
+
+
+
+### Further existing variables on the Climate Data Store site
+- Cold spell duration index
+- Extremely wet day precipitation
+- Very wet day precipitation
+- Warm spell duration index
+- Heat index
+- Humidex
+- Indoor universal thermal climate index
+- Wet-bulb temperature
+- Indoor wet-bulb globe temperature
+
+-----------------------
+
+## Archive
+
 ### Taken from his GitHub main.py file
 - **"consecutive_dry_days"**
 - **"consecutive_wet_days"**
@@ -111,7 +154,7 @@
 	- Annual count of days with at least 6 consecutive days when daily maximum temperature is above the calendar day 90th percentile of maximum temperature centered on a 5-day sliding window during the base period. The ETCCDI short name for this variable is "WSDI".
 
 
-####HSI variables
+#### HSI variables
 - Heat index
 	- °C
 	- Heat index is a heat stress indicator used by the US National Oceanic and Atmospheric Administration (NOAA) National Weather Service for issuing heat warnings. It is calculated using multiple linear regression based on daily maximum temperature and relative humidity (calculated from daily mean specific humidity and surface pressure).
