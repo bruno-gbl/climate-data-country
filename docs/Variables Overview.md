@@ -1,7 +1,141 @@
+## Ressources
+- Data Download API: https://climateknowledgeportal.worldbank.org/download-data#htab-1497			
+- Data Catalogue: https://climateknowledgeportal.worldbank.org/download-data#htab-1499
+- Variable List (p. 10 ff.): https://climateknowledgeportal.worldbank.org/media/document/metatag.pdf
+- Project on Notion: https://www.notion.so/Climate-data-ingestion-bab76c3ef377496787583f53fdbdba76?pvs=4											
 ## My variables: World Bank @Country Level, not covered by Garrett's variables
-- 
 
-## Garrett'as ariables used by Garrett on the PRIO-Grid Level
+### Variables that should definitely be adopted.
+- tas
+	- Average Mean Surface Air Temperature
+   	- G: Only relative temperature variables
+- tasmax
+	- Average Maximum Surface Air Temperature
+	- G: Only relative temperature variables
+- tasmin
+	- Average Minimum Surface Air Temperature
+ 	- G: Only relative temperature variables
+- cdd65
+	- Cooling Degree Days (ref-65°F)
+ 	- G: -
+- hd35
+	- Number of Hot Days (Tmax > 35°C)
+ 	- G: - // Only daily maximum temperature per month/year.
+- hd40
+	- Number of Hot Days (Tmax > 40°C)
+	- G: - // Only daily maximum temperature per month/year.
+- hd42
+	- Number of Hot Days (Tmax > 42°C)
+	- G: - // Only daily maximum temperature per month/year.
+- hdd65
+	- Heating degree days (ref-65°F)
+	- G: -
+- hi35
+	- Number of Days with Heat Index > 35°C
+	- G: - // Did not include variable that was available
+- hi37
+	- Number of Days with Heat Index > 37°C
+	- G: - // Did not include variable that was available
+- hurs
+	- Relative Humidity
+	- G: -
+- prpercnt
+	- Precipitation Percent Change
+ 	- G: - // Only absolute values.
+- rx1day
+	- Average Largest 1-Day Precipitation
+	- G: -	
+- rx5day
+	- Average Largest 5-Day Cumulative Precipitation
+	- G: -	
+- tnn
+	- Minimum of Daily Min-Temperature
+ 	- G: -
+- tx84rr
+	- Excess Mortality
+	- G: -
+- txx
+	- Maximum of Daily Max-Temperature
+	- G: -	
+
+### Variables that should probably be adopted.
+- pr
+	- Precipitation
+	- G: "Total wet day precipitation" // similar, not identical // This variable is average precipitation over a given time // Potentially also includes smaller variation of rain below 1mm
+- hd30
+	- Number of Hot Days (Tmax > 30°C)
+	- G: - // Only daily maximum temperature per month/year.
+- hd45
+	- Number of Hot Days (Tmax > 45°C)
+	- G: - // Only daily maximum temperature per month/year.	
+- hd50
+	- Number of Hot Days (Tmax > 50°C)
+	- G: - // Only daily maximum temperature per month/year.	
+- hi39
+	- Number of Days with Heat Index > 39°C
+	- G: - // Did not include variable that was available	
+- hi41
+	- Number of Days with Heat Index > 41°C
+	- G: - // Did not include variable that was available	
+- r50mm
+	- Number of Days with Precipitation >50mm
+	- G: - // Only "Very heavy precipitation days" = days with more than 20mm
+- r95ptot
+	- Precipitation amount during wettest days
+	- G: - // Did not include identical variable "Very wet day precipitation"
+- tr23
+	- Number of Tropical Nights (T-min > 23°C)
+	- [Very similar to "tr"]	
+- tr26
+	- Number of Tropical Nights (T-min > 26°C)
+	- [Very similar to "tr"]	
+- tr29
+	- Number of Tropical Nights (T-min > 29°C)
+	- [Very similar to "tr"]	
+- tr32
+	- Number of Tropical Nights (T-min > 32°C)
+	- [Very similar to "tr"]	
+
+### Variables that should probably not be adopted.
+- fd
+	- Number of Frost Days (Tmin < 0°C)
+	- G: Almost identical variable // G: count variable // Here: Average over time, i.e. data period. Smoothed-out, long-term perspective of Frost Days; Less interesting for forecasting.	
+- id
+	- Number of Ice Days (Tmax < 0°C)
+	- G: Almost identical variable // G: count variable // Here: Average over time, i.e. data period. Smoothed-out, long-term perspective of Ice Days; Less interesting for forecasting.	
+
+### Variables that should definitely not be adopted.
+- cdd
+	- Maximum number of consecutive dry days
+	- G: Identical variable
+- csdi
+	- Cold Spell Duration Index
+	- Only annual data
+- cwd
+	- Max Number of Consecutive Wet Days
+	- G: Identical variable
+- gslend
+	- Growing Season Length End
+	- G: Identical variable
+- gslstart
+	- Growing Season Length Start
+	- G: Identical variable
+- r20mm
+	- Number of Days with Precipitation >20mm
+	- G: Identical variable // "Very heavy precipitation days" = days with more than 20mm
+- sd
+	- Number of Summer Days (Tmax > 25°C)
+	- G: Identical variable.
+- tr
+	- Number of Tropical Nights (T-min > 20°C)
+	- G: Identical Variable
+- wsdi
+	- Warm Spell Duration Index
+	- Only annual data
+
+----
+
+## Variables used by Garrett on the PRIO-Grid Level
 
 ### Used by Garret
 - Cold days
