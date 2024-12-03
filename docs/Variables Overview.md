@@ -2,7 +2,10 @@
 - Data Download API: https://climateknowledgeportal.worldbank.org/download-data#htab-1497			
 - Data Catalogue: https://climateknowledgeportal.worldbank.org/download-data#htab-1499
 - Variable List (p. 10 ff.): https://climateknowledgeportal.worldbank.org/media/document/metatag.pdf
-- Project on Notion: https://www.notion.so/Climate-data-ingestion-bab76c3ef377496787583f53fdbdba76?pvs=4											
+- Project on Notion: https://www.notion.so/Climate-data-ingestion-bab76c3ef377496787583f53fdbdba76?pvs=4
+
+---
+
 ## My variables: World Bank @Country Level, not covered by Garrett's variables
 
 ### Variables that should definitely be adopted.
