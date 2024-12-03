@@ -4,31 +4,29 @@
 ## Garrett'as ariables used by Garrett on the PRIO-Grid Level
 
 ### Used by Garret
-- **Cold days**
-- **Cold nights**
-- **Consecutive dry days**
-- **Consecutive wet days**
-- **Diurnal temperature range**
-- **Frost days**
-- **Growing season length**
-- **Heavy precipitation days**
-- **Ice days**
-- **Maximum 1-day precipitation**
-- **Maximum 5-day precipitation**
-- **Maximum value of daily maximum temperature**
-- **Maximum value of daily minimum temperature**
-- **Minimum value of daily maximum temperature**
-- **Minimum value of daily minimum temperature**
-- **Number of wet days**
-- **Simple daily intensity index**
-- **Summer days**
-- **Total wet day precipitation**
-- **Tropical nights**
-- **Very heavy precipitation days**
-- **Warm days**
-- **Warm nights**
-
-
+- Cold days
+- Cold nights
+- Consecutive dry days
+- Consecutive wet days
+- Diurnal temperature range
+- Frost days
+- Growing season length
+- Heavy precipitation days
+- Ice days
+- Maximum 1-day precipitation
+- Maximum 5-day precipitation
+- Maximum value of daily maximum temperature
+- Maximum value of daily minimum temperature
+- Minimum value of daily maximum temperature
+- Minimum value of daily minimum temperature
+- Number of wet days
+- Simple daily intensity index
+- Summer days
+- Total wet day precipitation
+- Tropical nights
+- Very heavy precipitation days
+- Warm days
+- Warm nights
 
 ### Further existing variables on the Climate Data Store site
 - Cold spell duration index
