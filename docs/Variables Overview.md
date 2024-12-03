@@ -6,7 +6,7 @@
 
 ---
 
-## My variables: World Bank @Country Level, not covered by Garrett's variables
+## New variables: World Bank @country Level, not covered by Garrett's PRIO-GRID variables
 
 ### Variables that should definitely be adopted.
 - tas
