@@ -9,6 +9,8 @@
 - Examples: [Folder](https://github.com/UppsalaConflictDataProgram/ingester3_loaders)
 	- [WDI, Malika](https://github.com/UppsalaConflictDataProgram/ingester3_loaders/blob/main/WDI_master/World_bank_loader.ipynb)
  	- [KCMD, Maxine](https://github.com/UppsalaConflictDataProgram/ingester3_loaders/blob/main/mig_loaders/KCMD_loader.ipynb)
+  	- [ACLED](https://github.com/UppsalaConflictDataProgram/ingester3_loaders/blob/gadm_pg/ACLED_loader.ipynb)
+
 
 ---
 
