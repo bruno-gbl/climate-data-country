@@ -1,8 +1,14 @@
 ## Ressources
-- Data Download API: https://climateknowledgeportal.worldbank.org/download-data#htab-1497			
-- Data Catalogue: https://climateknowledgeportal.worldbank.org/download-data#htab-1499
-- Variable List (p. 10 ff.): https://climateknowledgeportal.worldbank.org/media/document/metatag.pdf
-- Project on Notion: https://www.notion.so/Climate-data-ingestion-bab76c3ef377496787583f53fdbdba76?pvs=4
+- [Data Download API](https://climateknowledgeportal.worldbank.org/download-data#htab-1497)
+- [Data Catalogue](https://climateknowledgeportal.worldbank.org/download-data#htab-1499)
+- [Variable List (p. 10 ff.)](https://climateknowledgeportal.worldbank.org/media/document/metatag.pdf)
+- [Project on Notion](https://www.notion.so/Climate-data-ingestion-bab76c3ef377496787583f53fdbdba76?pvs=4)
+
+- [Documentation, climate data ingestion](https://www.notion.so/VIEWS-PIN-CRAF-D-8e9666d1bbaa455ead5608c7f256a354?pvs=4)
+- [Documentation, Ingester3](https://github.com/UppsalaConflictDataProgram/ingester3_loaders/blob/gadm_pg/Ingester3_documentation.ipynb)
+- Examples: [Folder](https://github.com/UppsalaConflictDataProgram/ingester3_loaders)
+	- [WDI, Malika](https://github.com/UppsalaConflictDataProgram/ingester3_loaders/blob/main/WDI_master/World_bank_loader.ipynb)
+ 	- [KCMD, Maxine](https://github.com/UppsalaConflictDataProgram/ingester3_loaders/blob/main/mig_loaders/KCMD_loader.ipynb)
 
 ---
 
