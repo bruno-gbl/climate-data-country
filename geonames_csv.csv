@@ -1,0 +1,3498 @@
+Country Code,Country Name,Subnational Code,Subnational Name
+AFG,Afghanistan,AFG.11,Badakhshan
+AFG,Afghanistan,AFG.12,Badghis
+AFG,Afghanistan,AFG.13,Baghlan
+AFG,Afghanistan,AFG.14,Balkh
+AFG,Afghanistan,AFG.15,Bamyan
+AFG,Afghanistan,AFG.16,Daykundi
+AFG,Afghanistan,AFG.17,Farah
+AFG,Afghanistan,AFG.18,Faryab
+AFG,Afghanistan,AFG.19,Ghazni
+AFG,Afghanistan,AFG.110,Ghor
+AFG,Afghanistan,AFG.111,Hilmand
+AFG,Afghanistan,AFG.112,Hirat
+AFG,Afghanistan,AFG.113,Jawzjan
+AFG,Afghanistan,AFG.114,Kabul
+AFG,Afghanistan,AFG.115,Kandahar
+AFG,Afghanistan,AFG.116,Kapisa
+AFG,Afghanistan,AFG.117,Khost
+AFG,Afghanistan,AFG.118,Kunar
+AFG,Afghanistan,AFG.119,Kunduz
+AFG,Afghanistan,AFG.120,Laghman
+AFG,Afghanistan,AFG.121,Logar
+AFG,Afghanistan,AFG.122,Nangarhar
+AFG,Afghanistan,AFG.123,Nimroz
+AFG,Afghanistan,AFG.124,Nuristan
+AFG,Afghanistan,AFG.125,Paktika
+AFG,Afghanistan,AFG.126,Paktya
+AFG,Afghanistan,AFG.127,Panjsher
+AFG,Afghanistan,AFG.128,Parwan
+AFG,Afghanistan,AFG.129,Samangan
+AFG,Afghanistan,AFG.130,Sar-e-Pul
+AFG,Afghanistan,AFG.131,Takhar
+AFG,Afghanistan,AFG.132,Uruzgan
+AFG,Afghanistan,AFG.133,Wardak
+AFG,Afghanistan,AFG.134,Zabul
+ALB,Albania,ALB.3305,Berat
+ALB,Albania,ALB.3306,Bulqize
+ALB,Albania,ALB.3307,Delvine
+ALB,Albania,ALB.3308,Devoll
+ALB,Albania,ALB.3309,Diber
+ALB,Albania,ALB.3310,Durres
+ALB,Albania,ALB.3311,Elbasan
+ALB,Albania,ALB.3312,Fier
+ALB,Albania,ALB.3313,Gjirokaster
+ALB,Albania,ALB.3314,Gramsh
+ALB,Albania,ALB.3315,Has
+ALB,Albania,ALB.3316,Kavaje
+ALB,Albania,ALB.3317,Kolonje
+ALB,Albania,ALB.3318,Korce
+ALB,Albania,ALB.3319,Kruje
+ALB,Albania,ALB.3320,Kucove
+ALB,Albania,ALB.3321,Kukes
+ALB,Albania,ALB.3322,Kurbin
+ALB,Albania,ALB.3323,Lezhe
+ALB,Albania,ALB.3324,Librazhd
+ALB,Albania,ALB.3325,Lushnje
+ALB,Albania,ALB.3326,Malesi E Madhe
+ALB,Albania,ALB.3327,Mallakaster
+ALB,Albania,ALB.3328,Mat
+ALB,Albania,ALB.3329,Mirdite
+ALB,Albania,ALB.3330,Peqin
+ALB,Albania,ALB.3331,Permet
+ALB,Albania,ALB.3332,Pogradec
+ALB,Albania,ALB.3333,Puke
+ALB,Albania,ALB.3334,Sarande
+ALB,Albania,ALB.3335,Shkoder
+ALB,Albania,ALB.3336,Skrapar
+ALB,Albania,ALB.3337,Tepelene
+ALB,Albania,ALB.3338,Tirane
+ALB,Albania,ALB.3339,Tropoje
+ALB,Albania,ALB.3340,Vlore
+AND,Andorra,AND.7391,Andorra La Vella
+AND,Andorra,AND.7392,Canillo
+AND,Andorra,AND.7393,Encamp
+AND,Andorra,AND.7394,Escaldes-engordany
+AND,Andorra,AND.7395,La Massana
+AND,Andorra,AND.7396,Ordino
+AND,Andorra,AND.7397,Sant Julia De Loria
+ARE,United Arab Emirates,ARE.2553173,Abu Dhabi
+ARE,United Arab Emirates,ARE.255149626,Ajman
+ARE,United Arab Emirates,ARE.2553177,Dubai
+ARE,United Arab Emirates,ARE.255149627,Fujairah
+ARE,United Arab Emirates,ARE.2553179,Ras Al Khaimah
+ARE,United Arab Emirates,ARE.2553180,Sharjah
+ARE,United Arab Emirates,ARE.2553181,Umm AL Quwain
+ARG,Argentina,ARG.12429,Buenos Aires
+ARG,Argentina,ARG.12430,Buenos Aires D.f.
+ARG,Argentina,ARG.12431,Catamarca
+ARG,Argentina,ARG.12432,Chaco
+ARG,Argentina,ARG.12433,Chubut
+ARG,Argentina,ARG.12434,Cordoba
+ARG,Argentina,ARG.12435,Corrientes
+ARG,Argentina,ARG.12436,Entre Rios
+ARG,Argentina,ARG.12437,Formosa
+ARG,Argentina,ARG.12438,Jujuy
+ARG,Argentina,ARG.12439,La Pampa
+ARG,Argentina,ARG.12440,La Rioja
+ARG,Argentina,ARG.12441,Mendoza
+ARG,Argentina,ARG.12442,Misiones
+ARG,Argentina,ARG.12443,Neuquen
+ARG,Argentina,ARG.12444,Rio Negro
+ARG,Argentina,ARG.12445,Salta
+ARG,Argentina,ARG.12446,San Juan
+ARG,Argentina,ARG.12447,San Luis
+ARG,Argentina,ARG.12448,Santa Cruz
+ARG,Argentina,ARG.12449,Santa Fe
+ARG,Argentina,ARG.12450,Santiago Del Estero
+ARG,Argentina,ARG.12451,Tierra Del Fuego
+ARG,Argentina,ARG.12452,Tucuman
+ARM,Armenia,ARM.13453,Aragatsotn
+ARM,Armenia,ARM.13454,Ararat
+ARM,Armenia,ARM.13455,Armavir
+ARM,Armenia,ARM.13456,Gergharkunik
+ARM,Armenia,ARM.13457,Kotayk
+ARM,Armenia,ARM.13458,Lori
+ARM,Armenia,ARM.13460,Shirak
+ARM,Armenia,ARM.13461,Syunik
+ARM,Armenia,ARM.13462,Tavush
+ARM,Armenia,ARM.13463,Vayots Dzor
+ARM,Armenia,ARM.13464,Yerevan
+ATG,Antigua and Barbuda,ATG.1140206,Barbuda
+ATG,Antigua and Barbuda,ATG.1140207,Name Unknown
+ATG,Antigua and Barbuda,ATG.1140208,St. George
+ATG,Antigua and Barbuda,ATG.1140209,St. John
+ATG,Antigua and Barbuda,ATG.1140210,St. Mary
+ATG,Antigua and Barbuda,ATG.1140211,St. Paul
+ATG,Antigua and Barbuda,ATG.1140212,St. Peter
+ATG,Antigua and Barbuda,ATG.1140213,St. Philip
+AUS,Australia,AUS.16467,Administrative unit not available
+AUS,Australia,AUS.17468,Australian Capital Territory
+AUS,Australia,AUS.17469,Coral Sea Islands Territory
+AUS,Australia,AUS.17470,New South Wales
+AUS,Australia,AUS.17471,Northern Territory
+AUS,Australia,AUS.17472,Other Territories
+AUS,Australia,AUS.17473,Queensland
+AUS,Australia,AUS.17474,South Australia
+AUS,Australia,AUS.17475,Tasmania
+AUS,Australia,AUS.17476,Victoria
+AUS,Australia,AUS.17477,Western Australia
+CXR,Christmas Island (Aus.),CXR.54931,Administrative unit not available
+CCK,Cocos (Keeling) Islands (Aus.),CCK.56933,Administrative unit not available
+HMD,Heard Island and McDonald Islands (Aus.),HMD.1091418,Administrative unit not available
+NFK,Norfolk Island (Aus.),NFK.1842242,Administrative unit not available
+AUT,Austria,AUT.18478,Burgenland
+AUT,Austria,AUT.18479,Karnten
+AUT,Austria,AUT.18480,Niederosterreich
+AUT,Austria,AUT.18481,Oberosterreich
+AUT,Austria,AUT.18482,Salzburg
+AUT,Austria,AUT.18483,Steiermark
+AUT,Austria,AUT.18484,Tirol
+AUT,Austria,AUT.18485,Vorarlberg
+AUT,Austria,AUT.18486,Wien
+AZE,Azerbaijan,AZE.19147297,Absheron
+AZE,Azerbaijan,AZE.19147298,Aran
+AZE,Azerbaijan,AZE.19147299,Daghlig Shirvan
+AZE,Azerbaijan,AZE.19147300,Ganja-Gazakh
+AZE,Azerbaijan,AZE.19147301,Guba-Khachmaz
+AZE,Azerbaijan,AZE.19147302,Kalbajar-Lachin
+AZE,Azerbaijan,AZE.19147303,Lankaran
+AZE,Azerbaijan,AZE.19147304,Nakhchivan
+AZE,Azerbaijan,AZE.19147305,Shaki-Zaqatala
+AZE,Azerbaijan,AZE.19147306,Yukhari Garabakh
+BDI,Burundi,BDI.4340542,Bubanza
+BDI,Burundi,BDI.4340543,Bujumbura Mairie
+BDI,Burundi,BDI.4340544,Bujumbura Rural
+BDI,Burundi,BDI.4340545,Bururi
+BDI,Burundi,BDI.4340546,Cankuzo
+BDI,Burundi,BDI.4340547,Cibitoke
+BDI,Burundi,BDI.4340548,Gitega
+BDI,Burundi,BDI.4340549,Karuzi
+BDI,Burundi,BDI.4340550,Kayanza
+BDI,Burundi,BDI.4340551,Kirundo
+BDI,Burundi,BDI.4340552,Makamba
+BDI,Burundi,BDI.4340553,Muramvya
+BDI,Burundi,BDI.4340554,Muyinga
+BDI,Burundi,BDI.4340555,Mwaro
+BDI,Burundi,BDI.4340556,Ngozi
+BDI,Burundi,BDI.4340557,Rutana
+BDI,Burundi,BDI.4340558,Ruyigi
+BEL,Belgium,BEL.27600,Region de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewes
+BEL,Belgium,BEL.27602,Region wallonne
+BEL,Belgium,BEL.27601,Vlaams Gewest
+BEN,Benin,BEN.29609,Alibori
+BEN,Benin,BEN.29610,Atakora
+BEN,Benin,BEN.29611,Atlantique
+BEN,Benin,BEN.29612,Borgou
+BEN,Benin,BEN.29613,Collines
+BEN,Benin,BEN.29614,Couffo
+BEN,Benin,BEN.29615,Donga
+BEN,Benin,BEN.29616,Littoral
+BEN,Benin,BEN.29617,Mono
+BEN,Benin,BEN.29618,Oueme
+BEN,Benin,BEN.29619,Plateau
+BEN,Benin,BEN.29620,Zou
+BFA,Burkina Faso,BFA.4240276,Boucle Du Mouhoun
+BFA,Burkina Faso,BFA.4240277,Cascades
+BFA,Burkina Faso,BFA.4240278,Centre
+BFA,Burkina Faso,BFA.4240279,Centre-est
+BFA,Burkina Faso,BFA.4240280,Centre-nord
+BFA,Burkina Faso,BFA.4240281,Centre-ouest
+BFA,Burkina Faso,BFA.4240282,Centre-sud
+BFA,Burkina Faso,BFA.4240283,Est
+BFA,Burkina Faso,BFA.4240284,Hauts-bassins
+BFA,Burkina Faso,BFA.4240285,Nord
+BFA,Burkina Faso,BFA.4240286,Plateau Central
+BFA,Burkina Faso,BFA.4240287,Sahel
+BFA,Burkina Faso,BFA.4240288,Sud-ouest
+BGD,Bangladesh,BGD.231,Barishal
+BGD,Bangladesh,BGD.232,Chattogram
+BGD,Bangladesh,BGD.233,Dhaka
+BGD,Bangladesh,BGD.234,Khulna
+BGD,Bangladesh,BGD.235,Mymensingh
+BGD,Bangladesh,BGD.236,Rajshahi
+BGD,Bangladesh,BGD.237,Rangpur
+BGD,Bangladesh,BGD.238,Sylhet
+BGR,Bulgaria,BGR.41702,Blagoevgrad
+BGR,Bulgaria,BGR.41703,Burgas
+BGR,Bulgaria,BGR.41704,Dobrich
+BGR,Bulgaria,BGR.41705,Gabrovo
+BGR,Bulgaria,BGR.41706,Haskovo
+BGR,Bulgaria,BGR.41707,Jambol
+BGR,Bulgaria,BGR.41708,Kardzhali
+BGR,Bulgaria,BGR.41709,Kustendil
+BGR,Bulgaria,BGR.41710,Lovech
+BGR,Bulgaria,BGR.41711,Montana
+BGR,Bulgaria,BGR.41712,Pazardzhik
+BGR,Bulgaria,BGR.41713,Pernik
+BGR,Bulgaria,BGR.41714,Pleven
+BGR,Bulgaria,BGR.41715,Plovdiv
+BGR,Bulgaria,BGR.41716,Razgrad
+BGR,Bulgaria,BGR.41717,Ruse
+BGR,Bulgaria,BGR.41718,Shumen
+BGR,Bulgaria,BGR.41719,Silistra
+BGR,Bulgaria,BGR.41720,Sliven
+BGR,Bulgaria,BGR.41721,Smoljan
+BGR,Bulgaria,BGR.41722,Sofia
+BGR,Bulgaria,BGR.41723,Sofia-city
+BGR,Bulgaria,BGR.41724,Stara Zagora
+BGR,Bulgaria,BGR.41725,Targovishte
+BGR,Bulgaria,BGR.41726,Varna
+BGR,Bulgaria,BGR.41727,Veliko Tarnovo
+BGR,Bulgaria,BGR.41728,Vidin
+BGR,Bulgaria,BGR.41729,Vratca
+BHR,Bahrain,BHR.21562,Central Region
+BHR,Bahrain,BHR.21563,Hamad Town
+BHR,Bahrain,BHR.21564,Hawar Island
+BHR,Bahrain,BHR.21565,Hidd
+BHR,Bahrain,BHR.21566,Isa Town
+BHR,Bahrain,BHR.21567,Jidhafs
+BHR,Bahrain,BHR.21568,Manama
+BHR,Bahrain,BHR.21569,Muharraq
+BHR,Bahrain,BHR.21570,Northern Region
+BHR,Bahrain,BHR.21571,Riffa
+BHR,Bahrain,BHR.21572,Sitra
+BHR,Bahrain,BHR.21573,Western Region
+BHS,The Bahamas,BHS.20561,Administrative unit not available
+BIH,Bosnia and Herzegovina,BIH.34652,Federacija Bosne I Hercegovine
+BIH,Bosnia and Herzegovina,BIH.34653,Republika Srpska
+BLR,Belarus,BLR.26593,Brest
+BLR,Belarus,BLR.26594,Gomel
+BLR,Belarus,BLR.26595,Grodno
+BLR,Belarus,BLR.26596,Minsk
+BLR,Belarus,BLR.26597,Minsk City
+BLR,Belarus,BLR.26598,Mogilev
+BLR,Belarus,BLR.26599,Vitebsk
+BLZ,Belize,BLZ.28603,Belize
+BLZ,Belize,BLZ.28604,Cayo
+BLZ,Belize,BLZ.28605,Corozal
+BLZ,Belize,BLZ.28606,Orange Walk
+BLZ,Belize,BLZ.28607,Stann Creek
+BLZ,Belize,BLZ.28608,Toledo
+BOL,Bolivia,BOL.3340443,Beni
+BOL,Bolivia,BOL.3340444,Chuquisaca
+BOL,Bolivia,BOL.3340445,Cochabamba
+BOL,Bolivia,BOL.3340446,La Paz
+BOL,Bolivia,BOL.3340447,Oruro
+BOL,Bolivia,BOL.33648,Pando
+BOL,Bolivia,BOL.3340448,Potosi
+BOL,Bolivia,BOL.3340449,Santa Cruz
+BOL,Bolivia,BOL.3340450,Tarija
+BRA,Brazil,BRA.37665,Acre
+BRA,Brazil,BRA.37666,Alagoas
+BRA,Brazil,BRA.37667,Amapa
+BRA,Brazil,BRA.37668,Amazonas
+BRA,Brazil,BRA.37669,Bahia
+BRA,Brazil,BRA.37670,Ceara
+BRA,Brazil,BRA.37671,Distrito Federal
+BRA,Brazil,BRA.37672,Espirito Santo
+BRA,Brazil,BRA.37673,Goias
+BRA,Brazil,BRA.37674,Maranhao
+BRA,Brazil,BRA.37675,Mato Grosso
+BRA,Brazil,BRA.37676,Mato Grosso Do Sul
+BRA,Brazil,BRA.37677,Minas Gerais
+BRA,Brazil,BRA.37694,Name Unknown
+BRA,Brazil,BRA.37695,Name Unknown
+BRA,Brazil,BRA.37693,Name Unknown
+BRA,Brazil,BRA.37692,Name Unknown
+BRA,Brazil,BRA.37678,Para
+BRA,Brazil,BRA.37679,Paraiba
+BRA,Brazil,BRA.37680,Parana
+BRA,Brazil,BRA.37681,Pernambuco
+BRA,Brazil,BRA.37682,Piaui
+BRA,Brazil,BRA.37683,Rio De Janeiro
+BRA,Brazil,BRA.37684,Rio Grande Do Norte
+BRA,Brazil,BRA.37685,Rio Grande Do Sul
+BRA,Brazil,BRA.37686,Rondonia
+BRA,Brazil,BRA.37687,Roraima
+BRA,Brazil,BRA.37688,Santa Catarina
+BRA,Brazil,BRA.37689,Sao Paulo
+BRA,Brazil,BRA.37690,Sergipe
+BRA,Brazil,BRA.37691,Tocantins
+BRB,Barbados,BRB.24581,Christ Church
+BRB,Barbados,BRB.24582,St. Andrew
+BRB,Barbados,BRB.24583,St. George
+BRB,Barbados,BRB.24584,St. James
+BRB,Barbados,BRB.24585,St. John
+BRB,Barbados,BRB.24586,St. Joseph
+BRB,Barbados,BRB.24587,St. Lucy
+BRB,Barbados,BRB.24588,St. Michael
+BRB,Barbados,BRB.24589,St. Peter
+BRB,Barbados,BRB.24590,St. Phillip
+BRB,Barbados,BRB.24591,St. Tomas
+BRN,Brunei Darussalam,BRN.40698,Belait
+BRN,Brunei Darussalam,BRN.40699,Brunei and Muara
+BRN,Brunei Darussalam,BRN.40700,Temburong
+BRN,Brunei Darussalam,BRN.40701,Tutong
+BTN,Bhutan,BTN.31622,Bumthang
+BTN,Bhutan,BTN.31623,Chhukha
+BTN,Bhutan,BTN.3141308,Dagana
+BTN,Bhutan,BTN.31625,Gasa
+BTN,Bhutan,BTN.3141309,Haa
+BTN,Bhutan,BTN.31627,Lhuentse
+BTN,Bhutan,BTN.31628,Monggar
+BTN,Bhutan,BTN.31629,Paro
+BTN,Bhutan,BTN.3141310,Pemagatshel
+BTN,Bhutan,BTN.31631,Punakha
+BTN,Bhutan,BTN.3141311,Samdrupjongkhar
+BTN,Bhutan,BTN.3141312,Samtse
+BTN,Bhutan,BTN.3141313,Sarpang
+BTN,Bhutan,BTN.31635,Thimphu
+BTN,Bhutan,BTN.31637,Trashigang
+BTN,Bhutan,BTN.31636,Trashiyangtse
+BTN,Bhutan,BTN.31638,Trongsa
+BTN,Bhutan,BTN.31639,Tsirang
+BTN,Bhutan,BTN.31640,Wangduephodrang
+BTN,Bhutan,BTN.3141314,Zhemgang
+BWA,Botswana,BWA.35654,Central
+BWA,Botswana,BWA.35655,Chobe
+BWA,Botswana,BWA.35656,Ghanzi
+BWA,Botswana,BWA.35657,Kgalagadi
+BWA,Botswana,BWA.35658,Kgatleng
+BWA,Botswana,BWA.35659,Kweneng
+BWA,Botswana,BWA.35660,Ngamiland
+BWA,Botswana,BWA.35661,North East
+BWA,Botswana,BWA.35662,South-East
+BWA,Botswana,BWA.35663,Southern
+CAF,Central African Republic,CAF.49853,Bamingui-Bangoran
+CAF,Central African Republic,CAF.4967154,Bangui
+CAF,Central African Republic,CAF.49854,Basse-Kotto
+CAF,Central African Republic,CAF.49855,Haut-Mbomou
+CAF,Central African Republic,CAF.49856,Haute-Kotto
+CAF,Central African Republic,CAF.49857,Kémo
+CAF,Central African Republic,CAF.49858,Lobaye
+CAF,Central African Republic,CAF.49859,Mambéré-Kadéï
+CAF,Central African Republic,CAF.49860,Mbomou
+CAF,Central African Republic,CAF.49861,Nana-Gribizi
+CAF,Central African Republic,CAF.49862,Nana-Mambéré
+CAF,Central African Republic,CAF.49863,Ombella M'Poko
+CAF,Central African Republic,CAF.49864,Ouaka
+CAF,Central African Republic,CAF.49865,Ouham
+CAF,Central African Republic,CAF.49866,Ouham Pendé
+CAF,Central African Republic,CAF.49867,Sangha-Mbaéré
+CAF,Central African Republic,CAF.49868,Vakaga
+CAN,Canada,CAN.461,Alberta
+CAN,Canada,CAN.462,British Columbia
+CAN,Canada,CAN.463,Manitoba
+CAN,Canada,CAN.464,New Brunswick
+CAN,Canada,CAN.465,Newfoundland and Labrador
+CAN,Canada,CAN.466,Northwest Territories
+CAN,Canada,CAN.467,Nova Scotia
+CAN,Canada,CAN.468,Nunavut
+CAN,Canada,CAN.469,Ontario
+CAN,Canada,CAN.4610,Prince Edward Island
+CAN,Canada,CAN.4611,Quebec
+CAN,Canada,CAN.4612,Saskatchewan
+CAN,Canada,CAN.4613,Yukon
+CHE,Switzerland,CHE.2372807,Aargau
+CHE,Switzerland,CHE.2372808,Appenzell Ausser-rhoden
+CHE,Switzerland,CHE.2372809,Appenzell Inner-rhoden
+CHE,Switzerland,CHE.2372810,Basel-landschaft
+CHE,Switzerland,CHE.2372811,Basel-stadt
+CHE,Switzerland,CHE.2372812,Bern
+CHE,Switzerland,CHE.2372813,Fribourg
+CHE,Switzerland,CHE.2372814,Geneve
+CHE,Switzerland,CHE.2372815,Glarus
+CHE,Switzerland,CHE.2372816,Graubunden
+CHE,Switzerland,CHE.2372817,Jura
+CHE,Switzerland,CHE.2372818,Luzern
+CHE,Switzerland,CHE.2372819,Neuchatel
+CHE,Switzerland,CHE.2372820,Nidwalden
+CHE,Switzerland,CHE.2372821,Obwalden
+CHE,Switzerland,CHE.2372822,Sankt Gallen
+CHE,Switzerland,CHE.2372823,Schaffhausen
+CHE,Switzerland,CHE.2372824,Schwyz
+CHE,Switzerland,CHE.2372825,Solothurn
+CHE,Switzerland,CHE.2372826,Thurgau
+CHE,Switzerland,CHE.2372827,Ticino
+CHE,Switzerland,CHE.2372828,Uri
+CHE,Switzerland,CHE.2372829,Valais
+CHE,Switzerland,CHE.2372830,Vaud
+CHE,Switzerland,CHE.2372831,Zug
+CHE,Switzerland,CHE.2372832,Zurich
+CHL,Chile,CHL.51886,Aisen del Gral. Carlos Ibañez del Campo
+CHL,Chile,CHL.51883,Antofagasta
+CHL,Chile,CHL.51884,Araucania
+CHL,Chile,CHL.5191503,Arica y Painacota
+CHL,Chile,CHL.51885,Atacama
+CHL,Chile,CHL.51887,Biobio
+CHL,Chile,CHL.51888,Coquimbo
+CHL,Chile,CHL.51889,Libertador Gral. Bernardo O'Higgins
+CHL,Chile,CHL.5191501,Los Lagos
+CHL,Chile,CHL.5191504,Los Rios
+CHL,Chile,CHL.51891,Magallanes y Antartica chilena
+CHL,Chile,CHL.51892,Maule
+CHL,Chile,CHL.51893,Metropolitana
+CHL,Chile,CHL.5191502,Tarapaca
+CHL,Chile,CHL.51149630,Valparaiso
+CHN,China,CHN.147295898,Anhui Sheng
+CHN,China,CHN.147295899,Beijing Shi
+CHN,China,CHN.147295900,Chongqing Shi
+CHN,China,CHN.147295901,Fujian Sheng
+CHN,China,CHN.147295902,Gansu Sheng
+CHN,China,CHN.147295903,Guangdong Sheng
+CHN,China,CHN.147295904,Guangxi Zhuangzu Zizhiqu
+CHN,China,CHN.147295905,Guizhou Sheng
+CHN,China,CHN.147295906,Hainan Sheng
+CHN,China,CHN.147295907,Hebei Sheng
+CHN,China,CHN.147295908,Heilongjiang Sheng
+CHN,China,CHN.147295909,Henan Sheng
+CHN,China,CHN.33364910,"Hong Kong, SAR"
+CHN,China,CHN.147295911,Hubei Sheng
+CHN,China,CHN.147295912,Hunan Sheng
+CHN,China,CHN.147295913,Jiangsu Sheng
+CHN,China,CHN.147295914,Jiangxi Sheng
+CHN,China,CHN.147295915,Jilin Sheng
+CHN,China,CHN.147295916,Liaoning Sheng
+CHN,China,CHN.1491879,"Macau, SAR"
+CHN,China,CHN.147295917,Nei Mongol Zizhiqu
+CHN,China,CHN.147295918,Ningxia Huizu Zizhiqu
+CHN,China,CHN.147295919,Qinghai Sheng
+CHN,China,CHN.147295920,Shaanxi Sheng
+CHN,China,CHN.147295921,Shandong Sheng
+CHN,China,CHN.147295922,Shanghai Shi
+CHN,China,CHN.147295923,Shanxi Sheng
+CHN,China,CHN.147295924,Sichuan Sheng
+CHN,China,CHN.147295925,Taiwan Sheng
+CHN,China,CHN.147295926,Tianjin Shi
+CHN,China,CHN.147295927,Xinjiang Uygur Zizhiqu
+CHN,China,CHN.147295928,Xizang Zizhiqu
+CHN,China,CHN.147295929,Yunnan Sheng
+CHN,China,CHN.147295930,Zhejiang Sheng
+CIV,Côte d'Ivoire,CIV.661,Abidjan
+CIV,Côte d'Ivoire,CIV.662,Bas-Sassandra
+CIV,Côte d'Ivoire,CIV.663,Comoé
+CIV,Côte d'Ivoire,CIV.664,Denguélé
+CIV,Côte d'Ivoire,CIV.665,Gôh-Djiboua
+CIV,Côte d'Ivoire,CIV.666,Lacs
+CIV,Côte d'Ivoire,CIV.667,Lagunes
+CIV,Côte d'Ivoire,CIV.668,Montagnes
+CIV,Côte d'Ivoire,CIV.669,Sassandra-Marahoué
+CIV,Côte d'Ivoire,CIV.6610,Savanes
+CIV,Côte d'Ivoire,CIV.6611,Vallée du Bandama
+CIV,Côte d'Ivoire,CIV.6612,Woroba
+CIV,Côte d'Ivoire,CIV.6613,Yamoussoukro
+CIV,Côte d'Ivoire,CIV.6614,Zanzan
+CMR,Cameroon,CMR.45815,Adamaoua
+CMR,Cameroon,CMR.45816,Centre
+CMR,Cameroon,CMR.45817,Est
+CMR,Cameroon,CMR.45818,Extrême - Nord
+CMR,Cameroon,CMR.45819,Littoral
+CMR,Cameroon,CMR.45820,Nord
+CMR,Cameroon,CMR.45821,Nord - Ouest
+CMR,Cameroon,CMR.45822,Ouest
+CMR,Cameroon,CMR.45823,Sud
+CMR,Cameroon,CMR.45824,Sud - Ouest
+COD,Democratic Republic of Congo,COD.681066,Kwango
+COD,Democratic Republic of Congo,COD.681067,Kwilu
+COD,Democratic Republic of Congo,COD.681068,Maï-Ndombe
+COD,Democratic Republic of Congo,COD.681069,Kongo Central
+COD,Democratic Republic of Congo,COD.681070,Equateur
+COD,Democratic Republic of Congo,COD.681071,Mongala
+COD,Democratic Republic of Congo,COD.681072,Nord-Ubangi
+COD,Democratic Republic of Congo,COD.681073,Sud-Ubangi
+COD,Democratic Republic of Congo,COD.681074,Tshuapa
+COD,Democratic Republic of Congo,COD.681075,Kasaï
+COD,Democratic Republic of Congo,COD.681076,Kasaï-Central
+COD,Democratic Republic of Congo,COD.681077,Lomami
+COD,Democratic Republic of Congo,COD.681078,Sankuru
+COD,Democratic Republic of Congo,COD.681079,Kasaï-Oriental
+COD,Democratic Republic of Congo,COD.681080,Haut-Katanga
+COD,Democratic Republic of Congo,COD.681081,Haut-Lomami
+COD,Democratic Republic of Congo,COD.681082,Lualaba
+COD,Democratic Republic of Congo,COD.681083,Tanganyka
+COD,Democratic Republic of Congo,COD.681084,Kinshasa
+COD,Democratic Republic of Congo,COD.681085,Maniema
+COD,Democratic Republic of Congo,COD.681086,Nord-Kivu
+COD,Democratic Republic of Congo,COD.681087,Bas-Uélé
+COD,Democratic Republic of Congo,COD.681088,Haut-Uélé
+COD,Democratic Republic of Congo,COD.681089,Ituri
+COD,Democratic Republic of Congo,COD.681090,Tshopo
+COD,Democratic Republic of Congo,COD.681091,Sud-Kivu
+COG,Congo,COG.59970,Bouenza
+COG,Congo,COG.59190432,Brazzaville
+COG,Congo,COG.59971,Cuvette
+COG,Congo,COG.59972,Cuvette-Ouest
+COG,Congo,COG.59190433,Kouilou
+COG,Congo,COG.59974,Lekoumou
+COG,Congo,COG.59975,Likouala
+COG,Congo,COG.59976,Niari
+COG,Congo,COG.59977,Plateaux
+COG,Congo,COG.59190434,Point-Noire
+COG,Congo,COG.59190431,Pool
+COG,Congo,COG.59979,Sangha
+COM,Comoros,COM.58967,Anjouan
+COM,Comoros,COM.58968,Moheli
+COM,Comoros,COM.58969,Ngazidja
+CPV,Cabo Verde,CPV.47838,Boa Vista
+CPV,Cabo Verde,CPV.47839,Brava
+CPV,Cabo Verde,CPV.47840,Cima
+CPV,Cabo Verde,CPV.47841,Fogo
+CPV,Cabo Verde,CPV.47842,Ilheu Branco
+CPV,Cabo Verde,CPV.47843,Ilheu Raso
+CPV,Cabo Verde,CPV.47844,Maio
+CPV,Cabo Verde,CPV.47845,Rombo
+CPV,Cabo Verde,CPV.47846,Sal
+CPV,Cabo Verde,CPV.47847,Santa Luzia
+CPV,Cabo Verde,CPV.47848,Santiago
+CPV,Cabo Verde,CPV.47849,Santo Antao
+CPV,Cabo Verde,CPV.47850,Sao Nicolau
+CPV,Cabo Verde,CPV.47851,Sao Vicente
+CRI,Costa Rica,CRI.61981,Alajuela
+CRI,Costa Rica,CRI.61982,Cartago
+CRI,Costa Rica,CRI.61983,Guanacaste
+CRI,Costa Rica,CRI.61984,Heredia
+CRI,Costa Rica,CRI.61985,Limon
+CRI,Costa Rica,CRI.61986,Puntarenas
+CRI,Costa Rica,CRI.61987,San Jose
+CUB,Cuba,CUB.631009,Camaguey
+CUB,Cuba,CUB.631010,Ciego De Avila
+CUB,Cuba,CUB.631011,Cienfuegos
+CUB,Cuba,CUB.631012,Ciudad De La Habana
+CUB,Cuba,CUB.631013,Granma
+CUB,Cuba,CUB.631014,Guantanamo
+CUB,Cuba,CUB.631015,Holguin
+CUB,Cuba,CUB.631016,Isla De La Juventud
+CUB,Cuba,CUB.631017,La Habana
+CUB,Cuba,CUB.631018,Las Tunas
+CUB,Cuba,CUB.631019,Matanzas
+CUB,Cuba,CUB.631020,Pinar Del Rio
+CUB,Cuba,CUB.631021,Sancti Spiritus
+CUB,Cuba,CUB.631022,Santiago De Cuba
+CUB,Cuba,CUB.631023,Villa Clara
+CYP,Cyprus,CYP.6475403,Famagusta
+CYP,Cyprus,CYP.6475401,Girne (Kyrenia)
+CYP,Cyprus,CYP.6475404,Larnaca
+CYP,Cyprus,CYP.6475405,Limassol
+CYP,Cyprus,CYP.6475406,Nicosia
+CYP,Cyprus,CYP.6475407,Paphos
+CZE,Czech Republic,CZE.651030,Jihocesky
+CZE,Czech Republic,CZE.651031,Jihomoravsky
+CZE,Czech Republic,CZE.651032,Praha
+CZE,Czech Republic,CZE.651033,Severocesky
+CZE,Czech Republic,CZE.651034,Severomoravsky
+CZE,Czech Republic,CZE.651035,Stredocesky
+CZE,Czech Republic,CZE.651036,Vychodocesky
+CZE,Czech Republic,CZE.651037,Zapadocesky
+DEU,Germany,DEU.931308,Baden-Wuerttemberg
+DEU,Germany,DEU.931309,Bayern
+DEU,Germany,DEU.931310,Berlin
+DEU,Germany,DEU.931311,Brandenburg
+DEU,Germany,DEU.931312,Bremen
+DEU,Germany,DEU.931313,Hamburg
+DEU,Germany,DEU.931314,Hessen
+DEU,Germany,DEU.931315,Mecklenburg-Vorpommern
+DEU,Germany,DEU.931316,Niedersachsen
+DEU,Germany,DEU.931317,Nordrhein-Westfalen
+DEU,Germany,DEU.931318,Rheinland-Pfalz
+DEU,Germany,DEU.931319,Saarland
+DEU,Germany,DEU.931320,Sachsen
+DEU,Germany,DEU.931321,Sachsen-Anhalt
+DEU,Germany,DEU.931322,Schleswig-Holstein
+DEU,Germany,DEU.931323,Thueringen
+DMA,Dominica,DMA.711098,St. Andrew
+DMA,Dominica,DMA.711099,St. David
+DMA,Dominica,DMA.711100,St. George
+DMA,Dominica,DMA.711101,St. John
+DMA,Dominica,DMA.711102,St. Joseph
+DMA,Dominica,DMA.711103,St. Luke
+DMA,Dominica,DMA.711104,St. Mark
+DMA,Dominica,DMA.711105,St. Patrick
+DMA,Dominica,DMA.711106,St. Paul
+DMA,Dominica,DMA.711107,St. Peter
+DNK,Denmark,DNK.691,Capital
+DNK,Denmark,DNK.692,Central Jutland
+DNK,Denmark,DNK.693,North Jutland
+DNK,Denmark,DNK.694,South Denmark
+DNK,Denmark,DNK.695,Zealand
+FRO,Faroe Islands (Den.),FRO.821240,Administrative unit not available
+GRL,Greenland (Den.),GRL.981349,Nordgronland
+GRL,Greenland (Den.),GRL.981350,Ostgronland
+GRL,Greenland (Den.),GRL.981351,Vestgronland
+DOM,Dominican Republic,DOM.721108,Azua
+DOM,Dominican Republic,DOM.721109,Baoruco
+DOM,Dominican Republic,DOM.721110,Barahona
+DOM,Dominican Republic,DOM.721111,Dajabon
+DOM,Dominican Republic,DOM.7236858,Distrito Nacional
+DOM,Dominican Republic,DOM.721113,Duarte
+DOM,Dominican Republic,DOM.721114,El Seibo
+DOM,Dominican Republic,DOM.721118,Elias Pina
+DOM,Dominican Republic,DOM.721115,Espaillat
+DOM,Dominican Republic,DOM.7236854,Hato Mayor
+DOM,Dominican Republic,DOM.721116,Independencia
+DOM,Dominican Republic,DOM.721117,La Altagracia
+DOM,Dominican Republic,DOM.721119,La Romana
+DOM,Dominican Republic,DOM.721120,La Vega
+DOM,Dominican Republic,DOM.721121,Maria Trinidad Sanches
+DOM,Dominican Republic,DOM.7236855,Monsenor Nouel
+DOM,Dominican Republic,DOM.721122,Monte Cristi
+DOM,Dominican Republic,DOM.7236856,Monte Plata
+DOM,Dominican Republic,DOM.721123,Pedernales
+DOM,Dominican Republic,DOM.721124,Peravia
+DOM,Dominican Republic,DOM.721125,Puerto Plata
+DOM,Dominican Republic,DOM.721126,Salcedo
+DOM,Dominican Republic,DOM.721127,Samana
+DOM,Dominican Republic,DOM.721128,San Cristobal
+DOM,Dominican Republic,DOM.7236857,San José de Ocoa
+DOM,Dominican Republic,DOM.721129,San Juan
+DOM,Dominican Republic,DOM.721130,San Pedro de Macoris
+DOM,Dominican Republic,DOM.721131,Sanchez Ramirez
+DOM,Dominican Republic,DOM.721132,Santiago
+DOM,Dominican Republic,DOM.721133,Santiago Rodriguez
+DOM,Dominican Republic,DOM.721112,Santo Domingo
+DOM,Dominican Republic,DOM.721134,Valverde
+DZA,Algeria,DZA.4341,Adrar
+DZA,Algeria,DZA.4342,Ain-Defla
+DZA,Algeria,DZA.4343,Ain-Temouchent
+DZA,Algeria,DZA.4344,Alger
+DZA,Algeria,DZA.4345,Annaba
+DZA,Algeria,DZA.4346,Batna
+DZA,Algeria,DZA.4347,Bechar
+DZA,Algeria,DZA.4348,Bejaia
+DZA,Algeria,DZA.4349,Biskra
+DZA,Algeria,DZA.4350,Blida
+DZA,Algeria,DZA.4351,Bordj Bou Arrer
+DZA,Algeria,DZA.4352,Bouira
+DZA,Algeria,DZA.4353,Boumerdes
+DZA,Algeria,DZA.4354,Chlef
+DZA,Algeria,DZA.4355,Constantine
+DZA,Algeria,DZA.4356,Djelfa
+DZA,Algeria,DZA.4359,El-Tarf
+DZA,Algeria,DZA.4357,El Bayadh
+DZA,Algeria,DZA.4358,El Oued
+DZA,Algeria,DZA.4360,Ghardaia
+DZA,Algeria,DZA.4361,Guelma
+DZA,Algeria,DZA.4362,Illizi
+DZA,Algeria,DZA.4363,Jijel
+DZA,Algeria,DZA.4364,Khenchela
+DZA,Algeria,DZA.4365,Laghouat
+DZA,Algeria,DZA.4370,M'Sila
+DZA,Algeria,DZA.4366,Mascara
+DZA,Algeria,DZA.4367,Medea
+DZA,Algeria,DZA.4368,Mila
+DZA,Algeria,DZA.4369,Mostaganem
+DZA,Algeria,DZA.4371,Naama
+DZA,Algeria,DZA.4372,Oran
+DZA,Algeria,DZA.4373,Ouargla
+DZA,Algeria,DZA.4374,Oum El Bouaghi
+DZA,Algeria,DZA.4375,Relizane
+DZA,Algeria,DZA.4376,Saida
+DZA,Algeria,DZA.4377,Setif
+DZA,Algeria,DZA.4378,Sidi Bel Abbes
+DZA,Algeria,DZA.4379,Skikda
+DZA,Algeria,DZA.4380,Souk-Ahras
+DZA,Algeria,DZA.4381,Tamanrasset
+DZA,Algeria,DZA.4382,Tebessa
+DZA,Algeria,DZA.4384,Tiaret
+DZA,Algeria,DZA.4383,Tindouf
+DZA,Algeria,DZA.4385,Tipaza
+DZA,Algeria,DZA.4386,Tissemsilt
+DZA,Algeria,DZA.4387,Tizi Ouzou
+DZA,Algeria,DZA.4388,Tlemcen
+ECU,Ecuador,ECU.731135,Azuay
+ECU,Ecuador,ECU.731136,Bolivar
+ECU,Ecuador,ECU.731137,Canar
+ECU,Ecuador,ECU.731138,Carchi
+ECU,Ecuador,ECU.731139,Chimborazo
+ECU,Ecuador,ECU.731140,Cotopaxi
+ECU,Ecuador,ECU.731141,El Oro
+ECU,Ecuador,ECU.731142,Esmeraldas
+ECU,Ecuador,ECU.731143,Galapagos
+ECU,Ecuador,ECU.7322005,Guayas
+ECU,Ecuador,ECU.731145,Imbabura
+ECU,Ecuador,ECU.731146,Loja
+ECU,Ecuador,ECU.731147,Los Rios
+ECU,Ecuador,ECU.731148,Manabi
+ECU,Ecuador,ECU.731149,Morona Santiago
+ECU,Ecuador,ECU.731150,Napo
+ECU,Ecuador,ECU.731151,Orellana
+ECU,Ecuador,ECU.731152,Pastaza
+ECU,Ecuador,ECU.7322006,Pichincha
+ECU,Ecuador,ECU.7322007,Santa Elena
+ECU,Ecuador,ECU.7322008,Santo Domingo de los Tsachilas
+ECU,Ecuador,ECU.731154,Sucumbios
+ECU,Ecuador,ECU.731155,Tungurahua
+ECU,Ecuador,ECU.731156,Zamora Chinchipe
+EGY,Arab Republic of Egypt,EGY.4076561510,Alexandria
+EGY,Arab Republic of Egypt,EGY.4076561511,Assiut
+EGY,Arab Republic of Egypt,EGY.4076561512,Aswan
+EGY,Arab Republic of Egypt,EGY.4076561513,Behera
+EGY,Arab Republic of Egypt,EGY.4076561514,Beni Suef
+EGY,Arab Republic of Egypt,EGY.4076561515,Cairo
+EGY,Arab Republic of Egypt,EGY.4076561516,Dakahlia
+EGY,Arab Republic of Egypt,EGY.4076561517,Damietta
+EGY,Arab Republic of Egypt,EGY.4076561518,Fayoum
+EGY,Arab Republic of Egypt,EGY.4076561519,Gharbia
+EGY,Arab Republic of Egypt,EGY.4076561520,Giza
+EGY,Arab Republic of Egypt,EGY.4076561521,Ismailia
+EGY,Arab Republic of Egypt,EGY.4076561522,Kafr El-Shikh
+EGY,Arab Republic of Egypt,EGY.4076561523,Kalyoubia
+EGY,Arab Republic of Egypt,EGY.4076561524,Luxor
+EGY,Arab Republic of Egypt,EGY.4076561525,Matrouh
+EGY,Arab Republic of Egypt,EGY.4076561526,Menia
+EGY,Arab Republic of Egypt,EGY.4076561527,Menoufia
+EGY,Arab Republic of Egypt,EGY.4076561528,New Valley
+EGY,Arab Republic of Egypt,EGY.4076561529,North Sinai
+EGY,Arab Republic of Egypt,EGY.4076561530,Port Said
+EGY,Arab Republic of Egypt,EGY.4076561531,Qena
+EGY,Arab Republic of Egypt,EGY.4076561532,Red Sea
+EGY,Arab Republic of Egypt,EGY.4076561533,Shrkia
+EGY,Arab Republic of Egypt,EGY.4076561534,South Sinai
+EGY,Arab Republic of Egypt,EGY.4076561535,Suez
+EGY,Arab Republic of Egypt,EGY.4076561536,Suhag
+ERI,Eritrea,ERI.771205,Anseba
+ERI,Eritrea,ERI.771206,Archipelagos
+ERI,Eritrea,ERI.771207,Debub
+ERI,Eritrea,ERI.771208,Debubawi Keih Bahri
+ERI,Eritrea,ERI.771209,Gash Barka
+ERI,Eritrea,ERI.771210,Maekel
+ERI,Eritrea,ERI.771211,Semenawi Keih Bahri
+ESP,Spain,ESP.2291,Administrative unit not available
+ESP,Spain,ESP.2292716,Andalucía
+ESP,Spain,ESP.2292717,Aragón
+ESP,Spain,ESP.2292720,Canarias
+ESP,Spain,ESP.2292721,Cantabria
+ESP,Spain,ESP.2292723,Castilla-La Mancha
+ESP,Spain,ESP.2292722,Castilla y León
+ESP,Spain,ESP.2292724,Cataluña/Catalunya
+ESP,Spain,ESP.2292725,Ciudad Autónoma de Ceuta
+ESP,Spain,ESP.2292730,Ciudad Autónoma de Melilla
+ESP,Spain,ESP.2292729,Comunidad de Madrid
+ESP,Spain,ESP.2292732,Comunidad Foral de Navarra
+ESP,Spain,ESP.2292726,Comunitat Valenciana
+ESP,Spain,ESP.2292727,Extremadura
+ESP,Spain,ESP.2292728,Galicia
+ESP,Spain,ESP.2292719,Illes Balears
+ESP,Spain,ESP.2292734,La Rioja
+ESP,Spain,ESP.2292733,País Vasco/Euskadi
+ESP,Spain,ESP.2292718,Principado de Asturias
+ESP,Spain,ESP.2292731,Región de Murcia
+EST,Estonia,EST.78149727,Administrative unit not available
+EST,Estonia,EST.781212,Harju maakond
+EST,Estonia,EST.781213,Hiiu maakond
+EST,Estonia,EST.781214,Ida-Viru maakond
+EST,Estonia,EST.781215,Järva maakond
+EST,Estonia,EST.781216,Jõgeva maakond
+EST,Estonia,EST.781217,Lääne-Viru maakond
+EST,Estonia,EST.781218,Lääne maakond
+EST,Estonia,EST.781219,Pärnu maakond
+EST,Estonia,EST.781220,Põlva maakond
+EST,Estonia,EST.781221,Rapla maakond
+EST,Estonia,EST.781222,Saare maakond
+EST,Estonia,EST.781223,Tartu maakond
+EST,Estonia,EST.781224,Valga maakond
+EST,Estonia,EST.781225,Viljandi maakond
+EST,Estonia,EST.781226,Võru maakond
+FIN,Finland,ALA.841242,Aaland
+FIN,Finland,FIN.841243,Eastern Finland
+FIN,Finland,FIN.841244,Lapland
+FIN,Finland,FIN.841245,Oulu
+FIN,Finland,FIN.841246,Southern Finland
+FIN,Finland,FIN.841247,Western Finland
+FJI,Fiji,FJI.8340187,Central
+FJI,Fiji,FJI.8340188,Eastern
+FJI,Fiji,FJI.8340189,Northern
+FJI,Fiji,FJI.8340190,Western
+FRA,France,FRA.55932,Administrative unit not available
+FRA,France,FRA.851248,Alsace
+FRA,France,FRA.851249,Aquitaine
+FRA,France,FRA.851250,Auvergne
+FRA,France,FRA.851251,Basse-Normandie
+FRA,France,FRA.851252,Bourgogne
+FRA,France,FRA.851253,Bretagne
+FRA,France,FRA.851254,Centre
+FRA,France,FRA.851255,Champagne-Ardenne
+FRA,France,FRA.851256,Corse
+FRA,France,FRA.851257,Franche-Comte
+FRA,France,FRA.851258,Haute-Normandie
+FRA,France,FRA.851259,Ile-de-France
+FRA,France,FRA.851260,Languedoc-Rousillon
+FRA,France,FRA.851262,Limousin
+FRA,France,FRA.851263,Lorraine
+FRA,France,FRA.851264,Midi-Pyrenees
+FRA,France,FRA.851265,Nord-Pas-de-Calais
+FRA,France,FRA.851266,Pays-de-la-Loire
+FRA,France,FRA.851267,Picardie
+FRA,France,FRA.851268,Poitou-Charentes
+FRA,France,FRA.851269,Provence-Alpes-Cote-d'Azur
+FRA,France,FRA.851270,Rhone-Alpes
+FRA,France,GUF.8686,French Guiana
+FRA,France,GLP.100100,Guadeloupe
+FRA,France,MTQ.158158,Martinique
+FRA,France,MYT.161161,Mayotte
+FRA,France,REU.206206,Réunion
+PYF,French Polynesia (Fr.),PYF.871273,Administrative unit not available
+ATF,French Southern and Antarctic Lands (Fr.),ATF.881335,Administrative unit not available
+ATF,French Southern and Antarctic Lands (Fr.),ATF.881713,Administrative unit not available
+ATF,French Southern and Antarctic Lands (Fr.),ATF.88592,Administrative unit not available
+ATF,French Southern and Antarctic Lands (Fr.),ATF.881274,Administrative unit not available
+ATF,French Southern and Antarctic Lands (Fr.),ATF.882992,Administrative unit not available
+ATF,French Southern and Antarctic Lands (Fr.),ATF.881238,Administrative unit not available
+NCL,New Caledonia (Fr.),NCL.1782170,Administrative unit not available
+SPM,Saint-Pierre-et-Miquelon (Fr.),SPM.21039511,Miquelon-Langlade
+SPM,Saint-Pierre-et-Miquelon (Fr.),SPM.21039512,Saint-Pierre
+WLF,Wallis and Futuna (Fr.),WLF.2663392,Administrative unit not available
+BLM,Saint-Barthélemy (Fr.),BLM.7500675106,Administrative unit not available
+MAF,Saint-Martin (Fr.),MAF.7500775107,Administrative unit not available
+FSM,Federated States of Micronesia,FSM.1632060,Administrative unit not available
+GAB,Gabon,GAB.891275,Estuaire
+GAB,Gabon,GAB.891276,Haut-Ogooue
+GAB,Gabon,GAB.891277,Moyen-Ogooue
+GAB,Gabon,GAB.891278,Ngounie
+GAB,Gabon,GAB.891279,Nyanga
+GAB,Gabon,GAB.891280,Ogooue-Ivindo
+GAB,Gabon,GAB.891281,Ogooue-lolo
+GAB,Gabon,GAB.891282,Ogooue-Maritime
+GAB,Gabon,GAB.891283,Woleu-Ntem
+AIA,Anguilla (U.K.),AIA.9421,Name Unknown
+AIA,Anguilla (U.K.),AIA.9420,Name Unknown
+AIA,Anguilla (U.K.),AIA.9422,Name Unknown
+AIA,Anguilla (U.K.),AIA.9424,Name Unknown
+AIA,Anguilla (U.K.),AIA.9423,Name Unknown
+AIA,Anguilla (U.K.),AIA.9419,Name Unknown
+AIA,Anguilla (U.K.),AIA.9425,Name Unknown
+AIA,Anguilla (U.K.),AIA.9417,Name Unknown
+AIA,Anguilla (U.K.),AIA.9418,Name Unknown
+AIA,Anguilla (U.K.),AIA.9416,Name Unknown
+BMU,Bermuda (U.K.),BMU.30621,Administrative unit not available
+IOT,British Indian Ocean Territory (U.K.),IOT.38696,Administrative unit not available
+VGB,British Virgin Islands (U.K.),VGB.3939503,Anegada
+VGB,British Virgin Islands (U.K.),VGB.3939504,Jost van Dyke
+VGB,British Virgin Islands (U.K.),VGB.3939505,Other Islands
+VGB,British Virgin Islands (U.K.),VGB.3939506,Tortola
+VGB,British Virgin Islands (U.K.),VGB.3939507,Virgin Gorda
+CYM,Cayman Islands (U.K.),CYM.4868743,Cayman Brac
+CYM,Cayman Islands (U.K.),CYM.4868742,Grand Cayman
+CYM,Cayman Islands (U.K.),CYM.4868744,Little Cayman
+GIB,Gibraltar (U.K.),GIB.951334,Administrative unit not available
+GGY,Guernsey (U.K.),GGY.10440222,Alderney
+GGY,Guernsey (U.K.),GGY.10440223,Castel
+GGY,Guernsey (U.K.),GGY.10440224,Forest
+GGY,Guernsey (U.K.),GGY.10440225,Herm
+GGY,Guernsey (U.K.),GGY.10440226,Saint Andrew
+GGY,Guernsey (U.K.),GGY.10440227,Saint Martin
+GGY,Guernsey (U.K.),GGY.10440228,Saint Peter
+GGY,Guernsey (U.K.),GGY.10440229,Saint Peter Port
+GGY,Guernsey (U.K.),GGY.10440230,Saint Sampson
+GGY,Guernsey (U.K.),GGY.10440231,Saint Saviour
+GGY,Guernsey (U.K.),GGY.10440232,Sark
+GGY,Guernsey (U.K.),GGY.10440233,Torteval
+GGY,Guernsey (U.K.),GGY.10440234,Vale
+IMN,Isle of Man (U.K.),IMN.12061305,Andreas
+IMN,Isle of Man (U.K.),IMN.12061306,Arbory
+IMN,Isle of Man (U.K.),IMN.12061307,Ballaugh
+IMN,Isle of Man (U.K.),IMN.12061308,Braddan
+IMN,Isle of Man (U.K.),IMN.12061309,Bride
+IMN,Isle of Man (U.K.),IMN.12061310,Castletown
+IMN,Isle of Man (U.K.),IMN.12061311,Douglas
+IMN,Isle of Man (U.K.),IMN.12061312,German
+IMN,Isle of Man (U.K.),IMN.12061313,Jurby
+IMN,Isle of Man (U.K.),IMN.12061314,Laxey
+IMN,Isle of Man (U.K.),IMN.12061315,Lezayre
+IMN,Isle of Man (U.K.),IMN.12061316,Lonan
+IMN,Isle of Man (U.K.),IMN.12061317,Malew
+IMN,Isle of Man (U.K.),IMN.12061318,Marown
+IMN,Isle of Man (U.K.),IMN.12061319,Maughold
+IMN,Isle of Man (U.K.),IMN.12061320,Michael
+IMN,Isle of Man (U.K.),IMN.12061321,Onchan
+IMN,Isle of Man (U.K.),IMN.12061322,Patrick
+IMN,Isle of Man (U.K.),IMN.12061323,Peel
+IMN,Isle of Man (U.K.),IMN.12061324,Port Erin
+IMN,Isle of Man (U.K.),IMN.12061325,Port St.Mary
+IMN,Isle of Man (U.K.),IMN.12061326,Ramsey
+IMN,Isle of Man (U.K.),IMN.12061327,Rushen
+IMN,Isle of Man (U.K.),IMN.12061328,Santan
+JEY,Jersey (U.K.),JEY.12840235,Brelade
+JEY,Jersey (U.K.),JEY.12840236,Grouville
+JEY,Jersey (U.K.),JEY.12840274,Saint Clement
+JEY,Jersey (U.K.),JEY.12840237,Saint Helier
+JEY,Jersey (U.K.),JEY.12840238,Saint John
+JEY,Jersey (U.K.),JEY.12840239,Saint Lawrence
+JEY,Jersey (U.K.),JEY.12840240,Saint Martin
+JEY,Jersey (U.K.),JEY.12840241,Saint Mary
+JEY,Jersey (U.K.),JEY.12840242,Saint Ouen
+JEY,Jersey (U.K.),JEY.12840243,Saint Peter
+JEY,Jersey (U.K.),JEY.12840244,Saint Saviour
+JEY,Jersey (U.K.),JEY.12840245,Trinity
+MSR,Montserrat (U.K.),MSR.1682098,Brodericks
+MSR,Montserrat (U.K.),MSR.1682099,Central
+MSR,Montserrat (U.K.),MSR.1682100,East
+MSR,Montserrat (U.K.),MSR.1682101,North
+MSR,Montserrat (U.K.),MSR.1682102,Plymouth
+MSR,Montserrat (U.K.),MSR.1682103,Salem
+MSR,Montserrat (U.K.),MSR.1682104,South
+PCN,Pitcairn Islands (U.K.),PCN.1972369,Administrative unit not available
+SHN,"Saint Helena, Ascension and Tristan da Cunha (U.K.)",SHN.20768772,Ascension
+SHN,"Saint Helena, Ascension and Tristan da Cunha (U.K.)",SHN.20768773,Saint Helena
+SHN,"Saint Helena, Ascension and Tristan da Cunha (U.K.)",SHN.20768774,Tristan Da Cunha
+TCA,Turks and Caicos Islands (U.K.),TCA.25139497,Grand Turk
+TCA,Turks and Caicos Islands (U.K.),TCA.25139498,Middle Caicos
+TCA,Turks and Caicos Islands (U.K.),TCA.25139499,North Caicos
+TCA,Turks and Caicos Islands (U.K.),TCA.25139500,Providenciales and West Caicos
+TCA,Turks and Caicos Islands (U.K.),TCA.25139501,Salt City
+TCA,Turks and Caicos Islands (U.K.),TCA.25139502,South and East Caicos
+GBR,United Kingdom,GBR.25639503,Administrative unit not available
+GBR,United Kingdom,GBR.2563182,England
+GBR,United Kingdom,GBR.2563183,Northern Ireland
+GBR,United Kingdom,GBR.2563184,Scotland
+GBR,United Kingdom,GBR.2563186,Wales
+GEO,Georgia,GEO.921296,Abkhazia Aut. Rep.
+GEO,Georgia,GEO.921297,Adjara Aut. Rep.
+GEO,Georgia,GEO.921298,Guria
+GEO,Georgia,GEO.921299,Imereti
+GEO,Georgia,GEO.921300,Kakheti
+GEO,Georgia,GEO.921301,Kvemo Kartli
+GEO,Georgia,GEO.921302,Mtskheta-Mtianeti
+GEO,Georgia,GEO.921303,Racha-Lechkhumi and Kvemo (lower) Svaneti
+GEO,Georgia,GEO.921304,Samergelo and Zemo (upper) Svaneti
+GEO,Georgia,GEO.921305,Samtskhe-Javakheti
+GEO,Georgia,GEO.921306,Shida Kartli
+GEO,Georgia,GEO.921307,Tbilisi
+GIN,Guinea,GIN.10640700,Boke
+GIN,Guinea,GIN.10640701,Conakry
+GIN,Guinea,GIN.10640702,Faranah
+GIN,Guinea,GIN.10640703,Kankan
+GIN,Guinea,GIN.10640704,Kindia
+GIN,Guinea,GIN.10640705,Labe
+GIN,Guinea,GIN.10640706,Mamou
+GIN,Guinea,GIN.10640707,Nzerekore
+GMB,The Gambia,GMB.901285,Central River
+GMB,The Gambia,GMB.90112869,Kanifing Municipal Council
+GMB,The Gambia,GMB.901287,Lower River
+GMB,The Gambia,GMB.901288,North Bank
+GMB,The Gambia,GMB.901289,Upper River
+GMB,The Gambia,GMB.901290,West Coast
+GNB,Guinea-Bissau,GNB.1051385,Bafata
+GNB,Guinea-Bissau,GNB.1051386,Biombo
+GNB,Guinea-Bissau,GNB.1051387,Bolama/bijagos
+GNB,Guinea-Bissau,GNB.1051388,Cacheu
+GNB,Guinea-Bissau,GNB.1051389,Gabu
+GNB,Guinea-Bissau,GNB.1051390,Oio
+GNB,Guinea-Bissau,GNB.1051391,Quinara
+GNB,Guinea-Bissau,GNB.1051392,Sector Autonomo De Bissau
+GNB,Guinea-Bissau,GNB.1051393,Tombali
+GNQ,Equatorial Guinea,GNQ.761198,Annobon
+GNQ,Equatorial Guinea,GNQ.761199,Bioko Norte
+GNQ,Equatorial Guinea,GNQ.761200,Bioko Sur
+GNQ,Equatorial Guinea,GNQ.761201,Centro Sur
+GNQ,Equatorial Guinea,GNQ.761202,Kientem
+GNQ,Equatorial Guinea,GNQ.761203,Litoral
+GNQ,Equatorial Guinea,GNQ.761204,Welenzas
+GRC,Greece,GRC.971336,Anatoliki Makedonia Kai Thraki
+GRC,Greece,GRC.971337,Attiki
+GRC,Greece,GRC.971338,Dytiki Ellada
+GRC,Greece,GRC.971339,Dytiki Makedonia
+GRC,Greece,GRC.971340,Ionioi Nisoi
+GRC,Greece,GRC.971341,Ipeiros
+GRC,Greece,GRC.971342,Kentriki Makedonia
+GRC,Greece,GRC.971343,Kriti
+GRC,Greece,GRC.9740766,Notio Aigaio
+GRC,Greece,GRC.971345,Peloponnisos
+GRC,Greece,GRC.971346,Sterea Ellada
+GRC,Greece,GRC.971347,Thessalia
+GRC,Greece,GRC.971348,Voreio Aigaio
+GRD,Grenada,GRD.9975500,Carriacou and Petite Martinique
+GRD,Grenada,GRD.991353,St. Andrew's
+GRD,Grenada,GRD.991352,St. David's
+GRD,Grenada,GRD.991354,St. George's
+GRD,Grenada,GRD.991355,St. John's
+GRD,Grenada,GRD.991356,St. Mark's
+GRD,Grenada,GRD.991357,St. Patrick's
+GTM,Guatemala,GTM.10364836,Alta Verapaz
+GTM,Guatemala,GTM.10364835,Baja Verapaz
+GTM,Guatemala,GTM.10364824,Chimaltenango
+GTM,Guatemala,GTM.10364840,Chiquimula
+GTM,Guatemala,GTM.10364822,El Progreso
+GTM,Guatemala,GTM.10364825,Escuintla
+GTM,Guatemala,GTM.10364821,Guatemala
+GTM,Guatemala,GTM.10364833,Huehuetenango
+GTM,Guatemala,GTM.10364838,Izabal
+GTM,Guatemala,GTM.10364841,Jalapa
+GTM,Guatemala,GTM.10364842,Jutiapa
+GTM,Guatemala,GTM.10364837,Petén
+GTM,Guatemala,GTM.10364829,Quetzaltenango
+GTM,Guatemala,GTM.10364834,Quiché
+GTM,Guatemala,GTM.10364831,Retalhuleu
+GTM,Guatemala,GTM.10364823,Sacatepéquez
+GTM,Guatemala,GTM.10364832,San Marcos
+GTM,Guatemala,GTM.10364826,Santa Rosa
+GTM,Guatemala,GTM.10364827,Sololá
+GTM,Guatemala,GTM.10364830,Suchitepéquez
+GTM,Guatemala,GTM.10364828,Totonicapán
+GTM,Guatemala,GTM.10364839,Zacapa
+GUY,Guyana,GUY.1071398,Barima Waini (region N°1)
+GUY,Guyana,GUY.1071399,Cuyuni/mazaruni (region N°7)
+GUY,Guyana,GUY.1071400,Demerara Mahaica (region N°4)
+GUY,Guyana,GUY.1071401,East Berbice/corentyne (region N°6)
+GUY,Guyana,GUY.1071402,Essequibo Islands/west Demerara (region N°3)
+GUY,Guyana,GUY.1071403,Mahaica Berbice (region N°5)
+GUY,Guyana,GUY.1071404,Pomeroon/supenaam (region N°2
+GUY,Guyana,GUY.1071405,Potaro/siparuni (region N°8)
+GUY,Guyana,GUY.1071406,Upper Demerara/berbice (region N°10)
+GUY,Guyana,GUY.1071407,Upper Takutu/upper Essequibo (region N°9)
+HND,Honduras,HND.1111420,Atlantida
+HND,Honduras,HND.1111421,Choluteca
+HND,Honduras,HND.1111422,Colon
+HND,Honduras,HND.1111423,Comayagua
+HND,Honduras,HND.1111424,Copan
+HND,Honduras,HND.1111425,Cortes
+HND,Honduras,HND.1111426,Francisco Morazan
+HND,Honduras,HND.1111427,Gracias A Dios
+HND,Honduras,HND.1111428,Intibuca
+HND,Honduras,HND.1111429,Islas De Bahia
+HND,Honduras,HND.1111430,La Paz
+HND,Honduras,HND.1111431,Lempira
+HND,Honduras,HND.1111432,Name Unknown
+HND,Honduras,HND.1111433,Ocotepeque
+HND,Honduras,HND.1111434,Olancho
+HND,Honduras,HND.1111435,Paraiso
+HND,Honduras,HND.1111436,Santa Barbara
+HND,Honduras,HND.1111437,Valle
+HND,Honduras,HND.1111438,Yoro
+HRV,Croatia,HRV.62988,Bjelovar-bilogora
+HRV,Croatia,HRV.62989,Dubrovnik-neretva
+HRV,Croatia,HRV.62990,Grad Zagreb
+HRV,Croatia,HRV.62991,Istra
+HRV,Croatia,HRV.62992,Karlovac
+HRV,Croatia,HRV.62993,Koprivnica-krizevci
+HRV,Croatia,HRV.62994,Krapina-zagorje
+HRV,Croatia,HRV.62995,Lika-senj
+HRV,Croatia,HRV.62996,Medimurje
+HRV,Croatia,HRV.62997,Osijek-baranja
+HRV,Croatia,HRV.62998,Pozega-slavonija
+HRV,Croatia,HRV.62999,Primorje-gorski Kota
+HRV,Croatia,HRV.621000,Sibenik
+HRV,Croatia,HRV.621001,Sisak-moslavina
+HRV,Croatia,HRV.621002,Slavonski Brod-posav
+HRV,Croatia,HRV.621003,Split-dalmatija
+HRV,Croatia,HRV.621004,Varazdin
+HRV,Croatia,HRV.621005,Virovitica-podravina
+HRV,Croatia,HRV.621006,Vukovar-srijem
+HRV,Croatia,HRV.621007,Zadar-knin
+HRV,Croatia,HRV.621008,Zagreb
+HUN,Hungary,HUN.1131440,Bacs-kiskun
+HUN,Hungary,HUN.1131441,Baranya
+HUN,Hungary,HUN.1131442,Bekes
+HUN,Hungary,HUN.1131443,Borsod-abauj-zemplen
+HUN,Hungary,HUN.1131444,Budapest
+HUN,Hungary,HUN.1131445,Csongrad
+HUN,Hungary,HUN.1131446,Fejer
+HUN,Hungary,HUN.1131447,Gyor-moson-sopron
+HUN,Hungary,HUN.1131448,Hajdu-bihar
+HUN,Hungary,HUN.1131449,Heves
+HUN,Hungary,HUN.1131450,Jasz-nagykun-szolnok
+HUN,Hungary,HUN.1131451,Komarom-esztergom
+HUN,Hungary,HUN.1131452,Nograd
+HUN,Hungary,HUN.1131453,Pest
+HUN,Hungary,HUN.1131454,Somogy
+HUN,Hungary,HUN.1131455,Szabolcs-szatmar-bereg
+HUN,Hungary,HUN.1131456,Tolna
+HUN,Hungary,HUN.1131457,Vas
+HUN,Hungary,HUN.1131458,Veszprem
+HUN,Hungary,HUN.1131459,Zala
+IDN,Indonesia,IDN.1161513,Bali
+IDN,Indonesia,IDN.11673609,Bangka Belitung
+IDN,Indonesia,IDN.11673610,Banten
+IDN,Indonesia,IDN.1161514,Bengkulu
+IDN,Indonesia,IDN.1161515,Daerah Istimewa Yogyakarta
+IDN,Indonesia,IDN.1161516,Dki Jakarta
+IDN,Indonesia,IDN.11673611,Gorontalo
+IDN,Indonesia,IDN.1161518,Jambi
+IDN,Indonesia,IDN.11673613,Jawa Barat
+IDN,Indonesia,IDN.1161520,Jawa Tengah
+IDN,Indonesia,IDN.1161521,Jawa Timur
+IDN,Indonesia,IDN.1161522,Kalimantan Barat
+IDN,Indonesia,IDN.1161523,Kalimantan Selatan
+IDN,Indonesia,IDN.1161524,Kalimantan Tengah
+IDN,Indonesia,IDN.1161525,Kalimantan Timur
+IDN,Indonesia,IDN.11673614,Kepulauan-riau
+IDN,Indonesia,IDN.1161526,Lampung
+IDN,Indonesia,IDN.11673615,Maluku
+IDN,Indonesia,IDN.11673616,Maluku Utara
+IDN,Indonesia,IDN.1161512,Nangroe Aceh Darussalam
+IDN,Indonesia,IDN.1161528,Nusatenggara Barat
+IDN,Indonesia,IDN.1161529,Nusatenggara Timur
+IDN,Indonesia,IDN.11673617,Papua
+IDN,Indonesia,IDN.11673612,Papua Barat
+IDN,Indonesia,IDN.11673618,Riau
+IDN,Indonesia,IDN.11673619,Sulawesi Barat
+IDN,Indonesia,IDN.11673620,Sulawesi Selatan
+IDN,Indonesia,IDN.1161532,Sulawesi Tengah
+IDN,Indonesia,IDN.1161533,Sulawesi Tenggara
+IDN,Indonesia,IDN.11673621,Sulawesi Utara
+IDN,Indonesia,IDN.1161535,Sumatera Barat
+IDN,Indonesia,IDN.11673622,Sumatera Selatan
+IDN,Indonesia,IDN.1161537,Sumatera Utara
+IND,India,IND.1151,Andaman and Nicobar Islands
+IND,India,IND.1152,Andhra Pradesh
+IND,India,IND.1153,Arunachal Pradesh
+IND,India,IND.1154,Assam
+IND,India,IND.1155,Bihar
+IND,India,IND.1156,Chandigarh
+IND,India,IND.1157,Chhattisgarh
+IND,India,IND.1158,Dadra and Nagar Haveli
+IND,India,IND.1159,Daman and Diu
+IND,India,IND.11510,Delhi
+IND,India,IND.11511,Goa
+IND,India,IND.11512,Gujarat
+IND,India,IND.11513,Haryana
+IND,India,IND.11514,Himachal Pradesh
+IND,India,IND.11515,Jammu and Kashmir
+IND,India,IND.11516,Jharkhand
+IND,India,IND.11517,Karnataka
+IND,India,IND.11518,Kerala
+IND,India,IND.11519,Lakshadweep
+IND,India,IND.11520,Madhya Pradesh
+IND,India,IND.11521,Maharashtra
+IND,India,IND.11522,Manipur
+IND,India,IND.11523,Meghalaya
+IND,India,IND.11524,Mizoram
+IND,India,IND.11525,Nagaland
+IND,India,IND.11526,Odisha
+IND,India,IND.11527,Puducherry
+IND,India,IND.11528,Punjab
+IND,India,IND.11529,Rajasthan
+IND,India,IND.11530,Sikkim
+IND,India,IND.11531,Tamil Nadu
+IND,India,IND.11532,Telangana
+IND,India,IND.11533,Tripura
+IND,India,IND.11534,Uttar Pradesh
+IND,India,IND.11535,Uttarakhand
+IND,India,IND.11536,West Bengal
+IRL,Ireland,IRL.1191582,Carlow
+IRL,Ireland,IRL.1191583,Cavan
+IRL,Ireland,IRL.1191584,Clare
+IRL,Ireland,IRL.1191585,Cork
+IRL,Ireland,IRL.1191586,Donegal
+IRL,Ireland,IRL.1191587,Dublin
+IRL,Ireland,IRL.1191588,Galway
+IRL,Ireland,IRL.1191589,Kerry
+IRL,Ireland,IRL.1191590,Kildare
+IRL,Ireland,IRL.1191591,Kilkenny
+IRL,Ireland,IRL.1191592,Laois
+IRL,Ireland,IRL.1191593,Leitrim
+IRL,Ireland,IRL.1191594,Limerick
+IRL,Ireland,IRL.1191595,Longford
+IRL,Ireland,IRL.1191596,Louth
+IRL,Ireland,IRL.1191597,Mayo
+IRL,Ireland,IRL.1191598,Meath
+IRL,Ireland,IRL.1191599,Monaghan
+IRL,Ireland,IRL.1191601,Offaly
+IRL,Ireland,IRL.1191602,Roscommon
+IRL,Ireland,IRL.1191603,Sligo
+IRL,Ireland,IRL.1191604,Tipperary
+IRL,Ireland,IRL.1191605,Waterford
+IRL,Ireland,IRL.1191606,Westmeath
+IRL,Ireland,IRL.1191607,Wexford
+IRL,Ireland,IRL.1191608,Wicklow
+IRN,Islamic Republic of Iran,IRN.11733110,Ardebil
+IRN,Islamic Republic of Iran,IRN.1171540,Bushehr
+IRN,Islamic Republic of Iran,IRN.1171541,Chaharmahal-o bakhtiyar
+IRN,Islamic Republic of Iran,IRN.1171542,East Azarbayejan
+IRN,Islamic Republic of Iran,IRN.1171543,Esfahan
+IRN,Islamic Republic of Iran,IRN.1171544,Fars
+IRN,Islamic Republic of Iran,IRN.11733112,Ghazvin
+IRN,Islamic Republic of Iran,IRN.11733113,Ghom
+IRN,Islamic Republic of Iran,IRN.1171545,Gilan
+IRN,Islamic Republic of Iran,IRN.11733111,Golestan
+IRN,Islamic Republic of Iran,IRN.1171546,Hamedan
+IRN,Islamic Republic of Iran,IRN.1171548,Hormozgan
+IRN,Islamic Republic of Iran,IRN.1171549,Ilam
+IRN,Islamic Republic of Iran,IRN.1171550,Kerman
+IRN,Islamic Republic of Iran,IRN.1171539,Kermanshah
+IRN,Islamic Republic of Iran,IRN.1171547,Khorasan
+IRN,Islamic Republic of Iran,IRN.1171551,Khuzestan
+IRN,Islamic Republic of Iran,IRN.1171552,Kohgiluyeh va boyerahma
+IRN,Islamic Republic of Iran,IRN.1171553,Kordestan
+IRN,Islamic Republic of Iran,IRN.1171555,Lorestan
+IRN,Islamic Republic of Iran,IRN.1171556,Markazi
+IRN,Islamic Republic of Iran,IRN.1171557,Mazandaran
+IRN,Islamic Republic of Iran,IRN.1171558,Semnan
+IRN,Islamic Republic of Iran,IRN.1171559,Sistan-o baluchestan
+IRN,Islamic Republic of Iran,IRN.1171560,Tehran
+IRN,Islamic Republic of Iran,IRN.1171561,West Azarbayejan
+IRN,Islamic Republic of Iran,IRN.1171562,Yazd
+IRN,Islamic Republic of Iran,IRN.1171563,Zanjan
+ISL,Iceland,ISL.1141460,Arnes
+ISL,Iceland,ISL.1141461,Austur-baroastrandar
+ISL,Iceland,ISL.1141462,Austur-hunavatns
+ISL,Iceland,ISL.1141463,Austur-skaftafells
+ISL,Iceland,ISL.1141464,Borgarfjaroar
+ISL,Iceland,ISL.1141465,Dala
+ISL,Iceland,ISL.1141466,Eyjafjaroar
+ISL,Iceland,ISL.1141467,Gullbringu
+ISL,Iceland,ISL.1141468,Kjosar
+ISL,Iceland,ISL.1141469,Myra
+ISL,Iceland,ISL.1141471,Norour-isafjaroar
+ISL,Iceland,ISL.1141472,Norour-mùla
+ISL,Iceland,ISL.1141473,Norour-pingeyjar
+ISL,Iceland,ISL.1141474,Rangárvalla
+ISL,Iceland,ISL.1141475,Skagafjaroar
+ISL,Iceland,ISL.1141476,Snaefellsnes- Og Hna
+ISL,Iceland,ISL.1141477,Stranda
+ISL,Iceland,ISL.1141478,Suour-mùla
+ISL,Iceland,ISL.1141479,Suour-pingeyjar
+ISL,Iceland,ISL.1141480,Vestur-baroastrandar
+ISL,Iceland,ISL.1141481,Vestur-hunavatns
+ISL,Iceland,ISL.1141482,Vestur-isafjaroar
+ISL,Iceland,ISL.1141483,Vestur-skaftafells
+ISR,Israel,ISR.1211610,Central District
+ISR,Israel,ISR.1211611,Haifa
+ISR,Israel,ISR.1211612,Jerusalem
+ISR,Israel,ISR.1211613,Northern
+ISR,Israel,ISR.1211614,Southern District
+ISR,Israel,ISR.1211615,Tel Aviv
+ITA,Italy,ITA.1221616,Abruzzi
+ITA,Italy,ITA.1221617,Basilicata
+ITA,Italy,ITA.1221618,Calabria
+ITA,Italy,ITA.1221619,Campania
+ITA,Italy,ITA.1221620,Emilia-romagna
+ITA,Italy,ITA.1221621,Friuli-venezia Giulia
+ITA,Italy,ITA.1221622,Lazio
+ITA,Italy,ITA.1221623,Liguria
+ITA,Italy,ITA.1221624,Lombardia
+ITA,Italy,ITA.1221625,Marche
+ITA,Italy,ITA.1221626,Molise
+ITA,Italy,ITA.1221627,Piemonte
+ITA,Italy,ITA.1221628,Puglia
+ITA,Italy,ITA.1221629,Sardegna
+ITA,Italy,ITA.1221630,Sicilia
+ITA,Italy,ITA.1221631,Toscana
+ITA,Italy,ITA.1221632,Trentino-alto Adige
+ITA,Italy,ITA.1221633,Umbria
+ITA,Italy,ITA.1221634,Valle D'aosta
+ITA,Italy,ITA.1221635,Veneto
+JAM,Jamaica,JAM.1231636,Clarendon
+JAM,Jamaica,JAM.1231637,Hanover
+JAM,Jamaica,JAM.1231638,Manchester
+JAM,Jamaica,JAM.1231639,Portland
+JAM,Jamaica,JAM.1231640,Saint Andrew And Kingston
+JAM,Jamaica,JAM.1231641,Saint Ann
+JAM,Jamaica,JAM.1231642,Saint Catherine
+JAM,Jamaica,JAM.1231643,Saint Elizabeth
+JAM,Jamaica,JAM.1231644,Saint James
+JAM,Jamaica,JAM.1231645,Saint Mary
+JAM,Jamaica,JAM.1231646,Saint Thomas
+JAM,Jamaica,JAM.1231647,Trelawny
+JAM,Jamaica,JAM.1231648,Westmoreland
+JOR,Jordan,JOR.1301701,Ajloon
+JOR,Jordan,JOR.1301705,Amman
+JOR,Jordan,JOR.1301703,Aqaba
+JOR,Jordan,JOR.1301702,Balqa
+JOR,Jordan,JOR.1301707,Irbid
+JOR,Jordan,JOR.1301708,Jarash
+JOR,Jordan,JOR.1301704,Karak
+JOR,Jordan,JOR.1301709,Ma'an
+JOR,Jordan,JOR.1301710,Madaba
+JOR,Jordan,JOR.1301711,Mafraq
+JOR,Jordan,JOR.1301706,Tafiela
+JOR,Jordan,JOR.1301712,Zarqa
+JPN,Japan,JPN.1261651,Aiti
+JPN,Japan,JPN.1261652,Akita
+JPN,Japan,JPN.1261653,Aomori
+JPN,Japan,JPN.1261654,Ehime
+JPN,Japan,JPN.1261658,Gifu
+JPN,Japan,JPN.1261659,Gunma
+JPN,Japan,JPN.1261660,Hirosima
+JPN,Japan,JPN.1261661,Hokkaidoo
+JPN,Japan,JPN.1261655,Hukui
+JPN,Japan,JPN.1261656,Hukuoka
+JPN,Japan,JPN.1261657,Hukusima
+JPN,Japan,JPN.1261662,Hyoogo
+JPN,Japan,JPN.1261663,Ibaraki
+JPN,Japan,JPN.1261664,Isikawa
+JPN,Japan,JPN.1261665,Iwate
+JPN,Japan,JPN.1261666,Kagawa
+JPN,Japan,JPN.1261667,Kagosima
+JPN,Japan,JPN.1261668,Kanagawa
+JPN,Japan,JPN.1261669,Kooti
+JPN,Japan,JPN.1261670,Kumamoto
+JPN,Japan,JPN.1261671,Kyooto
+JPN,Japan,JPN.1261672,Mie
+JPN,Japan,JPN.1261673,Miyagi
+JPN,Japan,JPN.1261674,Miyazaki
+JPN,Japan,JPN.1261675,Nagano
+JPN,Japan,JPN.1261676,Nagasaki
+JPN,Japan,JPN.1261677,Nara
+JPN,Japan,JPN.1261678,Niigata
+JPN,Japan,JPN.1261680,Okayama
+JPN,Japan,JPN.1261681,Okinawa
+JPN,Japan,JPN.1261679,Ooita
+JPN,Japan,JPN.1261682,Oosaka
+JPN,Japan,JPN.1261683,Saga
+JPN,Japan,JPN.1261684,Saitama
+JPN,Japan,JPN.1261685,Siga
+JPN,Japan,JPN.1261686,Simane
+JPN,Japan,JPN.1261687,Sizuoka
+JPN,Japan,JPN.1261693,Tiba
+JPN,Japan,JPN.1261689,Tokusima
+JPN,Japan,JPN.1261690,Tookyoo
+JPN,Japan,JPN.1261688,Totigi
+JPN,Japan,JPN.1261691,Tottori
+JPN,Japan,JPN.1261692,Toyama
+JPN,Japan,JPN.1261694,Wakayama
+JPN,Japan,JPN.1261695,Yamagata
+JPN,Japan,JPN.1261696,Yamaguti
+JPN,Japan,JPN.1261697,Yamanasi
+KAZ,Kazakhstan,KAZ.1321714,Akmolinskaya
+KAZ,Kazakhstan,KAZ.1321715,Aktyubinskaya
+KAZ,Kazakhstan,KAZ.1321716,Almatinskaya
+KAZ,Kazakhstan,KAZ.13237157,Almaty City area
+KAZ,Kazakhstan,KAZ.1321717,Atyrauskaya
+KAZ,Kazakhstan,KAZ.1321718,Jambylslkaya
+KAZ,Kazakhstan,KAZ.1321719,Karagandinskaya
+KAZ,Kazakhstan,KAZ.1321720,Kustanayskaya
+KAZ,Kazakhstan,KAZ.1321721,Kyzylordinskaya
+KAZ,Kazakhstan,KAZ.1321724,Mangistauskaya
+KAZ,Kazakhstan,KAZ.1321725,Pavlodarskaya
+KAZ,Kazakhstan,KAZ.1321726,Severo-kazachstanskaya
+KAZ,Kazakhstan,KAZ.1321727,Vostochno-kazachstanskaya
+KAZ,Kazakhstan,KAZ.1321728,Yujno-kazachstanskaya
+KAZ,Kazakhstan,KAZ.1321729,Zapadno-kazachstanskaya
+KGZ,Kyrgyz Republic,KGZ.1381746,Batken
+KGZ,Kyrgyz Republic,KGZ.138147294,Chuy
+KGZ,Kyrgyz Republic,KGZ.1381748,Jalal-Abad
+KGZ,Kyrgyz Republic,KGZ.1381749,Naryn
+KGZ,Kyrgyz Republic,KGZ.1381750,Osh
+KGZ,Kyrgyz Republic,KGZ.1381751,Talas
+KGZ,Kyrgyz Republic,KGZ.1381752,Ysyk-Kol
+KIR,Kiribati,KIR.1351739,Administrative unit not available
+KNA,Saint Kitts and Nevis,KNA.2082593,Christ Church Nichola Town
+KNA,Saint Kitts and Nevis,KNA.2082594,Saint Anne Sandy Point
+KNA,Saint Kitts and Nevis,KNA.2082595,Saint George Basseterre
+KNA,Saint Kitts and Nevis,KNA.2082596,Saint George Gingerland
+KNA,Saint Kitts and Nevis,KNA.2082597,Saint James Windward
+KNA,Saint Kitts and Nevis,KNA.2082598,Saint John Capisterre
+KNA,Saint Kitts and Nevis,KNA.2082599,Saint John Figtree
+KNA,Saint Kitts and Nevis,KNA.2082600,Saint Mary Cayon
+KNA,Saint Kitts and Nevis,KNA.2082601,Saint Paul Capisterre
+KNA,Saint Kitts and Nevis,KNA.2082602,Saint Paul Charlestown
+KNA,Saint Kitts and Nevis,KNA.2082603,Saint Peter Basseterre
+KNA,Saint Kitts and Nevis,KNA.2082604,Saint Thomas Lowland
+KNA,Saint Kitts and Nevis,KNA.2082605,Saint Thomas Middle Island
+KNA,Saint Kitts and Nevis,KNA.2082606,Trinity Palmetto Point
+KOR,Republic of Korea,KOR.2022431,Cheju-do
+KOR,Republic of Korea,KOR.2022432,Chollabuk-do
+KOR,Republic of Korea,KOR.2022433,Chollanam-do
+KOR,Republic of Korea,KOR.2022434,Chungchongbuk-do
+KOR,Republic of Korea,KOR.2022435,Chungchongnam-do
+KOR,Republic of Korea,KOR.2022436,Inchon
+KOR,Republic of Korea,KOR.2022437,Kang-won-do
+KOR,Republic of Korea,KOR.2022438,Kwangju
+KOR,Republic of Korea,KOR.2022439,Kyonggi-do
+KOR,Republic of Korea,KOR.2022440,Kyongsangbuk-do
+KOR,Republic of Korea,KOR.2022441,Kyongsangnam-do
+KOR,Republic of Korea,KOR.2022442,Pusan
+KOR,Republic of Korea,KOR.2022443,Seoul
+KOR,Republic of Korea,KOR.2022444,Taegu
+KOR,Republic of Korea,KOR.2022445,Taejon
+KSV,Kosovo,KSV.750081,Ferizaj
+KSV,Kosovo,KSV.750082,Gjakovë
+KSV,Kosovo,KSV.750083,Gjilan
+KSV,Kosovo,KSV.750084,Mitrovicë
+KSV,Kosovo,KSV.750085,Pejë
+KSV,Kosovo,KSV.750086,Prishtinë
+KSV,Kosovo,KSV.750087,Prizren
+KWT,Kuwait,KWT.1371742,Al Ahmadi
+KWT,Kuwait,KWT.1371741,Al Farwaniyah
+KWT,Kuwait,KWT.1371743,Al Jahrah
+KWT,Kuwait,KWT.1371744,Al Kuwayt
+KWT,Kuwait,KWT.1371745,Hawalli
+LAO,Lao People's Democratic Republic,LAO.1391,Attapu
+LAO,Lao People's Democratic Republic,LAO.1392,Bokeo
+LAO,Lao People's Democratic Republic,LAO.1393,Bolikhamxai
+LAO,Lao People's Democratic Republic,LAO.1394,Champasak
+LAO,Lao People's Democratic Republic,LAO.1395,Houaphan
+LAO,Lao People's Democratic Republic,LAO.1396,Khammouan
+LAO,Lao People's Democratic Republic,LAO.1397,Louang Namtha
+LAO,Lao People's Democratic Republic,LAO.1398,Louangphrabang
+LAO,Lao People's Democratic Republic,LAO.1399,Oudômxai
+LAO,Lao People's Democratic Republic,LAO.13910,Phôngsali
+LAO,Lao People's Democratic Republic,LAO.13911,Saravan
+LAO,Lao People's Democratic Republic,LAO.13912,Savannakhét
+LAO,Lao People's Democratic Republic,LAO.13913,Vientiane
+LAO,Lao People's Democratic Republic,LAO.13914,Vientiane [prefecture]
+LAO,Lao People's Democratic Republic,LAO.13915,Xaignabouri
+LAO,Lao People's Democratic Republic,LAO.13916,Xaisômboun
+LAO,Lao People's Democratic Republic,LAO.13917,Xékong
+LAO,Lao People's Democratic Republic,LAO.13918,Xiangkhoang
+LBR,Liberia,LBR.1441,Bomi
+LBR,Liberia,LBR.1442,Bong
+LBR,Liberia,LBR.1443,Gbarpolu
+LBR,Liberia,LBR.1444,Grand Bassa
+LBR,Liberia,LBR.1445,Grand Cape Mount
+LBR,Liberia,LBR.1446,Grand Gedeh
+LBR,Liberia,LBR.1447,Grand Kru
+LBR,Liberia,LBR.1448,Lofa
+LBR,Liberia,LBR.1449,Margibi
+LBR,Liberia,LBR.14410,Maryland
+LBR,Liberia,LBR.14411,Montserrado
+LBR,Liberia,LBR.14412,Nimba
+LBR,Liberia,LBR.14413,River Gee
+LBR,Liberia,LBR.14414,Rivercess
+LBR,Liberia,LBR.14415,Sinoe
+LBY,Libya,LBY.1451829,Ajdabiya (agedabia)
+LBY,Libya,LBY.1451830,Al Aziziyah
+LBY,Libya,LBY.1451831,Al Fatah
+LBY,Libya,LBY.1451832,Al Jabal Al Akhdar
+LBY,Libya,LBY.1451833,Al Jufrah
+LBY,Libya,LBY.1451834,Al Khoms
+LBY,Libya,LBY.1451835,Al Kufrah
+LBY,Libya,LBY.1451836,Ash Shati
+LBY,Libya,LBY.1451837,Awbari (ubari)
+LBY,Libya,LBY.1451838,Az Zawia (azzawiya)
+LBY,Libya,LBY.1451839,Banghazi
+LBY,Libya,LBY.1451840,Darnah
+LBY,Libya,LBY.1451841,Ghadamis
+LBY,Libya,LBY.1451842,Gharyan
+LBY,Libya,LBY.1451843,Misurata
+LBY,Libya,LBY.1451844,Murzuq
+LBY,Libya,LBY.1451845,Nuqat Al Khams
+LBY,Libya,LBY.1451846,Sabha
+LBY,Libya,LBY.1451847,Sawfajjin (sofuljeen)
+LBY,Libya,LBY.1451848,Surt (sirte)
+LBY,Libya,LBY.1451849,Tarhunah
+LBY,Libya,LBY.1451850,Tripoli (tarabulus)
+LBY,Libya,LBY.1451851,Tubruq (tobruk)
+LBY,Libya,LBY.1451852,Yafran (yefren)
+LBY,Libya,LBY.1451853,Zeleitin (zliten)
+LCA,Saint Lucia,LCA.2092607,Area Under National Administra
+LCA,Saint Lucia,LCA.2092608,Region Number 1
+LCA,Saint Lucia,LCA.2092609,Region Number 2
+LCA,Saint Lucia,LCA.2092610,Region Number 3
+LCA,Saint Lucia,LCA.2092611,Region Number 4
+LCA,Saint Lucia,LCA.2092612,Region Number 5
+LCA,Saint Lucia,LCA.2092613,Region Number 6
+LCA,Saint Lucia,LCA.2092614,Region Number 7
+LCA,Saint Lucia,LCA.2092615,Region Number 8
+LIE,Liechtenstein,LIE.1461854,Balzers
+LIE,Liechtenstein,LIE.1461855,Eschen
+LIE,Liechtenstein,LIE.1461856,Gamprin
+LIE,Liechtenstein,LIE.1461857,Mauren
+LIE,Liechtenstein,LIE.1461859,Planken
+LIE,Liechtenstein,LIE.1461860,Ruggell
+LIE,Liechtenstein,LIE.1461861,Schaan
+LIE,Liechtenstein,LIE.1461862,Schellenberg
+LIE,Liechtenstein,LIE.1461863,Triesen
+LIE,Liechtenstein,LIE.1461864,Triesenberg
+LIE,Liechtenstein,LIE.1461865,Vaduz
+LKA,Sri Lanka,LKA.2312736,Central
+LKA,Sri Lanka,LKA.2312737,Eastern
+LKA,Sri Lanka,LKA.2312738,North Central
+LKA,Sri Lanka,LKA.2312739,North Western
+LKA,Sri Lanka,LKA.2312740,Northern
+LKA,Sri Lanka,LKA.2312741,Sabaragamuwa
+LKA,Sri Lanka,LKA.2312742,Southern
+LKA,Sri Lanka,LKA.2312743,Uva
+LKA,Sri Lanka,LKA.2312744,Western
+LSO,Lesotho,LSO.1421803,Berea
+LSO,Lesotho,LSO.1421804,Butha Buthe
+LSO,Lesotho,LSO.1421805,Leribe
+LSO,Lesotho,LSO.1421806,Mafeteng
+LSO,Lesotho,LSO.1421807,Maseru
+LSO,Lesotho,LSO.1421808,Mohale's Hoek
+LSO,Lesotho,LSO.1421809,Mokhotlong
+LSO,Lesotho,LSO.1421810,Qacha's Nek
+LSO,Lesotho,LSO.1421811,Quthing
+LSO,Lesotho,LSO.1421812,Thaba Tseka
+LTU,Lithuania,LTU.1471866,Alytaus
+LTU,Lithuania,LTU.1471867,Kauno
+LTU,Lithuania,LTU.1471868,Klaipedos
+LTU,Lithuania,LTU.1471869,Marijampoles
+LTU,Lithuania,LTU.1471870,Panevezio
+LTU,Lithuania,LTU.1471871,Siauliu
+LTU,Lithuania,LTU.1471872,Taurages
+LTU,Lithuania,LTU.1471873,Telsiu
+LTU,Lithuania,LTU.1471874,Utenos
+LTU,Lithuania,LTU.1471875,Vilniaus
+LUX,Luxembourg,LUX.1481876,Diekirch
+LUX,Luxembourg,LUX.1481877,Grevenmacher
+LUX,Luxembourg,LUX.1481878,Luxembourg
+LVA,Latvia,LVA.1401,Ādažu novads
+LVA,Latvia,LVA.1402,Aglonas novads
+LVA,Latvia,LVA.1403,Aizkraukles novads
+LVA,Latvia,LVA.1404,Aizputes novads
+LVA,Latvia,LVA.1405,Aknīstes novads
+LVA,Latvia,LVA.1406,Alojas novads
+LVA,Latvia,LVA.1407,Alsungas novads
+LVA,Latvia,LVA.1408,Alūksnes novads
+LVA,Latvia,LVA.1409,Amatas novads
+LVA,Latvia,LVA.14010,Apes novads
+LVA,Latvia,LVA.14011,Auces novads
+LVA,Latvia,LVA.14012,Babītes novads
+LVA,Latvia,LVA.14013,Baldones novads
+LVA,Latvia,LVA.14014,Baltinavas novads
+LVA,Latvia,LVA.14015,Balvu novads
+LVA,Latvia,LVA.14016,Bauskas novads
+LVA,Latvia,LVA.14017,Beverīnas novads
+LVA,Latvia,LVA.14018,Brocēnu novads
+LVA,Latvia,LVA.14019,Burtnieku novads
+LVA,Latvia,LVA.14020,Carnikavas novads
+LVA,Latvia,LVA.14021,Cēsu novads
+LVA,Latvia,LVA.14022,Cesvaines novads
+LVA,Latvia,LVA.14023,Ciblas novads
+LVA,Latvia,LVA.14024,Dagdas novads
+LVA,Latvia,LVA.14025,Daugavpils
+LVA,Latvia,LVA.14026,Daugavpils novads
+LVA,Latvia,LVA.14027,Dobeles novads
+LVA,Latvia,LVA.14028,Dundagas novads
+LVA,Latvia,LVA.14029,Durbes novads
+LVA,Latvia,LVA.14030,Engures novads
+LVA,Latvia,LVA.14031,Ērgļu novads
+LVA,Latvia,LVA.14032,Garkalnes novads
+LVA,Latvia,LVA.14033,Grobiņas novads
+LVA,Latvia,LVA.14034,Gulbenes novads
+LVA,Latvia,LVA.14035,Iecavas novads
+LVA,Latvia,LVA.14036,Ikšķiles novads
+LVA,Latvia,LVA.14037,Ilūkstes novads
+LVA,Latvia,LVA.14038,Inčukalna novads
+LVA,Latvia,LVA.14039,Jaunjelgavas novads
+LVA,Latvia,LVA.14040,Jaunpiebalgas novads
+LVA,Latvia,LVA.14041,Jaunpils novads
+LVA,Latvia,LVA.14042,Jēkabpils
+LVA,Latvia,LVA.14043,Jēkabpils novads
+LVA,Latvia,LVA.14044,Jelgava
+LVA,Latvia,LVA.14045,Jelgavas novads
+LVA,Latvia,LVA.14046,Jūrmala
+LVA,Latvia,LVA.14047,Kandavas novads
+LVA,Latvia,LVA.14048,Kārsavas novads
+LVA,Latvia,LVA.14049,Ķeguma novads
+LVA,Latvia,LVA.14050,Ķekavas novads
+LVA,Latvia,LVA.14051,Kocēnu novads
+LVA,Latvia,LVA.14052,Kokneses novads
+LVA,Latvia,LVA.14053,Krāslavas novads
+LVA,Latvia,LVA.14054,Krimuldas novads
+LVA,Latvia,LVA.14055,Krustpils novads
+LVA,Latvia,LVA.14056,Kuldīgas novads
+LVA,Latvia,LVA.14057,Lielvārdes novads
+LVA,Latvia,LVA.14058,Liepāja
+LVA,Latvia,LVA.14059,Līgatnes novads
+LVA,Latvia,LVA.14060,Limbažu novads
+LVA,Latvia,LVA.14061,Līvānu novads
+LVA,Latvia,LVA.14062,Lubānas novads
+LVA,Latvia,LVA.14063,Ludzas novads
+LVA,Latvia,LVA.14064,Madonas novads
+LVA,Latvia,LVA.14065,Mālpils novads
+LVA,Latvia,LVA.14066,Mārupes novads
+LVA,Latvia,LVA.14067,Mazsalacas novads
+LVA,Latvia,LVA.14068,Mērsraga novads
+LVA,Latvia,LVA.14069,Naukšēnu novads
+LVA,Latvia,LVA.14070,Neretas novads
+LVA,Latvia,LVA.14071,Nīcas novads
+LVA,Latvia,LVA.14072,Ogres novads
+LVA,Latvia,LVA.14073,Olaines novads
+LVA,Latvia,LVA.14074,Ozolnieku novads
+LVA,Latvia,LVA.14075,Pārgaujas novads
+LVA,Latvia,LVA.14076,Pāvilostas novads
+LVA,Latvia,LVA.14077,Pļaviņu novads
+LVA,Latvia,LVA.14078,Preiļu novads
+LVA,Latvia,LVA.14079,Priekules novads
+LVA,Latvia,LVA.14080,Priekuļu novads
+LVA,Latvia,LVA.14081,Raunas novads
+LVA,Latvia,LVA.14082,Rēzekne
+LVA,Latvia,LVA.14083,Rēzeknes novads
+LVA,Latvia,LVA.14084,Riebiņu novads
+LVA,Latvia,LVA.14085,Rīga
+LVA,Latvia,LVA.14086,Rojas novads
+LVA,Latvia,LVA.14087,Ropažu novads
+LVA,Latvia,LVA.14088,Rucavas novads
+LVA,Latvia,LVA.14089,Rugāju novads
+LVA,Latvia,LVA.14090,Rūjienas novads
+LVA,Latvia,LVA.14091,Rundāles novads
+LVA,Latvia,LVA.14092,Salacgrīvas novads
+LVA,Latvia,LVA.14093,Salas novads
+LVA,Latvia,LVA.14094,Salaspils novads
+LVA,Latvia,LVA.14095,Saldus novads
+LVA,Latvia,LVA.14096,Saulkrastu novads
+LVA,Latvia,LVA.14097,Sējas novads
+LVA,Latvia,LVA.14098,Siguldas novads
+LVA,Latvia,LVA.14099,Skrīveru novads
+LVA,Latvia,LVA.140100,Skrundas novads
+LVA,Latvia,LVA.140101,Smiltenes novads
+LVA,Latvia,LVA.140102,Stopiņu novads
+LVA,Latvia,LVA.140103,Strenču novads
+LVA,Latvia,LVA.140104,Talsu novads
+LVA,Latvia,LVA.140105,Tērvetes novads
+LVA,Latvia,LVA.140106,Tukuma novads
+LVA,Latvia,LVA.140107,Vaiņodes novads
+LVA,Latvia,LVA.140108,Valkas novads
+LVA,Latvia,LVA.140109,Valmiera
+LVA,Latvia,LVA.140110,Varakļānu novads
+LVA,Latvia,LVA.140111,Vārkavas novads
+LVA,Latvia,LVA.140112,Vecpiebalgas novads
+LVA,Latvia,LVA.140113,Vecumnieku novads
+LVA,Latvia,LVA.140114,Ventspils
+LVA,Latvia,LVA.140115,Ventspils novads
+LVA,Latvia,LVA.140116,Viesītes novads
+LVA,Latvia,LVA.140117,Viļakas novads
+LVA,Latvia,LVA.140118,Viļānu novads
+LVA,Latvia,LVA.140119,Zilupes novads
+MAR,Morocco,MAR.1691,Region 5 – Béni Mellal-Khénifra
+MAR,Morocco,MAR.1692,Region 6 – Casablanca-Settat
+MAR,Morocco,MAR.1693,Region 8 – Drâa-Tafilalet
+MAR,Morocco,MAR.1694,Region 3 – Fès-Meknès
+MAR,Morocco,MAR.1695,Region 10
+MAR,Morocco,MAR.1696,Region 2 – Oriental
+MAR,Morocco,MAR.1697,Region 11
+MAR,Morocco,MAR.1698,Region 7 – Marrakesh-Safi
+MAR,Morocco,MAR.1699,Region 4 – Rabat-Salé-Kénitra
+MAR,Morocco,MAR.16910,Region 9 – Souss-Massa
+MAR,Morocco,MAR.16911,Region 1 – Tanger-Tétouan-Al Hoceima
+MCO,Monaco,MCO.1662074,Administrative unit not available
+MDG,Madagascar,MDG.15041750,Alaotra Mangoro
+MDG,Madagascar,MDG.15041751,Amoron I Mania
+MDG,Madagascar,MDG.15041752,Analamanga
+MDG,Madagascar,MDG.15041753,Analanjirofo
+MDG,Madagascar,MDG.15041754,Androy
+MDG,Madagascar,MDG.15041755,Anosy
+MDG,Madagascar,MDG.15041756,Atsimo Andrefana
+MDG,Madagascar,MDG.15041757,Atsimo Atsinanana
+MDG,Madagascar,MDG.15041758,Atsinanana
+MDG,Madagascar,MDG.15041759,Betsiboka
+MDG,Madagascar,MDG.15041760,Boeny
+MDG,Madagascar,MDG.15041761,Bongolava
+MDG,Madagascar,MDG.15041762,Diana
+MDG,Madagascar,MDG.15041763,Haute Matsiatra
+MDG,Madagascar,MDG.15041764,Ihorombe
+MDG,Madagascar,MDG.15041765,Itasy
+MDG,Madagascar,MDG.15041766,Melaky
+MDG,Madagascar,MDG.15041767,Menabe
+MDG,Madagascar,MDG.15041768,Sava
+MDG,Madagascar,MDG.15041769,Sofia
+MDG,Madagascar,MDG.15041770,Vakinankaratra
+MDG,Madagascar,MDG.15041771,Vatovavy Fitovinany
+MDV,Maldives,MDV.1541905,Alifu Alifu
+MDV,Maldives,MDV.1541906,Alifu Dhaalu
+MDV,Maldives,MDV.1541907,Baa
+MDV,Maldives,MDV.1541908,Dhaalu
+MDV,Maldives,MDV.1541909,Faafu
+MDV,Maldives,MDV.1541910,Gaafu Alifu
+MDV,Maldives,MDV.1541911,Gaafu Dhaalu
+MDV,Maldives,MDV.1541913,Haa Alifu
+MDV,Maldives,MDV.1541914,Haa Dhaalu
+MDV,Maldives,MDV.1541915,Kaafu
+MDV,Maldives,MDV.1541916,Laamu
+MDV,Maldives,MDV.1541917,Lhaviyani
+MDV,Maldives,MDV.1541918,Male'
+MDV,Maldives,MDV.1541919,Meemu
+MDV,Maldives,MDV.1541920,Noonu
+MDV,Maldives,MDV.1541921,Raa
+MDV,Maldives,MDV.1541922,Seenu
+MDV,Maldives,MDV.1541923,Shaviyani
+MDV,Maldives,MDV.1541924,Thaa
+MDV,Maldives,MDV.1541925,Vaavu
+MHL,Marshall Islands,MHL.1572002,Administrative unit not available
+MKD,North Macedonia,MKD.2411,East
+MKD,North Macedonia,MKD.2412,Northeast
+MKD,North Macedonia,MKD.2413,Pelagonia
+MKD,North Macedonia,MKD.2414,Polog
+MKD,North Macedonia,MKD.2415,Skopje
+MKD,North Macedonia,MKD.2416,Southeast
+MKD,North Macedonia,MKD.2417,Southwest
+MKD,North Macedonia,MKD.2418,Vardar
+MLI,Mali,MLI.1551926,Bamako
+MLI,Mali,MLI.1551927,Gao
+MLI,Mali,MLI.15519271,Ménaka
+MLI,Mali,MLI.1551928,Kayes
+MLI,Mali,MLI.1551929,Kidal
+MLI,Mali,MLI.1551930,Koulikoro
+MLI,Mali,MLI.1551931,Mopti
+MLI,Mali,MLI.1551932,Ségou
+MLI,Mali,MLI.1551933,Sikasso
+MLI,Mali,MLI.1551934,Timbuktu
+MLT,Malta,MLT.1561935,Attard
+MLT,Malta,MLT.1561936,Balzan
+MLT,Malta,MLT.1561937,Birgu
+MLT,Malta,MLT.1561938,Birkirkara
+MLT,Malta,MLT.1561939,Birzebbugia
+MLT,Malta,MLT.1561940,Bormla
+MLT,Malta,MLT.1561941,Dingli
+MLT,Malta,MLT.1561942,Fgura
+MLT,Malta,MLT.1561943,Floriana
+MLT,Malta,MLT.1561944,Fontana
+MLT,Malta,MLT.1561945,Ghajnsielem
+MLT,Malta,MLT.1561946,Gharb
+MLT,Malta,MLT.1561947,Gharghur
+MLT,Malta,MLT.1561948,Ghasri
+MLT,Malta,MLT.1561949,Ghaxaq
+MLT,Malta,MLT.1561950,Gudja
+MLT,Malta,MLT.1561951,Gzira
+MLT,Malta,MLT.1561952,Hamrun
+MLT,Malta,MLT.1561953,Iklin
+MLT,Malta,MLT.1561954,Isla
+MLT,Malta,MLT.1561955,Kalkara
+MLT,Malta,MLT.1561956,Kercem
+MLT,Malta,MLT.1561957,Kirkop
+MLT,Malta,MLT.1561958,Lija
+MLT,Malta,MLT.1561959,Luqa
+MLT,Malta,MLT.1561960,Marsa
+MLT,Malta,MLT.1561961,Marsascala
+MLT,Malta,MLT.1561962,Marsaxlokk
+MLT,Malta,MLT.1561963,Mdina
+MLT,Malta,MLT.1561964,Mellieha
+MLT,Malta,MLT.1561965,Mgarr
+MLT,Malta,MLT.1561966,Mosta
+MLT,Malta,MLT.1561967,Mqabba
+MLT,Malta,MLT.1561968,Msida
+MLT,Malta,MLT.1561969,Munxar
+MLT,Malta,MLT.1561970,Nadur
+MLT,Malta,MLT.1561971,Naxxar
+MLT,Malta,MLT.1561972,Paola
+MLT,Malta,MLT.1561973,Pembroke
+MLT,Malta,MLT.1561974,Pieta
+MLT,Malta,MLT.1561975,Qala
+MLT,Malta,MLT.1561976,Qormi
+MLT,Malta,MLT.1561977,Qrendi
+MLT,Malta,MLT.1561978,Rabat (malta)
+MLT,Malta,MLT.1561979,Rabat (victoria)
+MLT,Malta,MLT.1561980,Safi
+MLT,Malta,MLT.1561981,San Giljan
+MLT,Malta,MLT.1561982,San Gwann
+MLT,Malta,MLT.1561983,San Lawrenz
+MLT,Malta,MLT.1561984,San Pawl Ii-bahar
+MLT,Malta,MLT.1561985,Sannat
+MLT,Malta,MLT.1561986,Santa Lucija
+MLT,Malta,MLT.1561987,Santa Venera
+MLT,Malta,MLT.1561988,Siggiewi
+MLT,Malta,MLT.1561989,Sliema
+MLT,Malta,MLT.1561990,Swieqi
+MLT,Malta,MLT.1561991,Ta' Xbiex
+MLT,Malta,MLT.1561992,Tarxien
+MLT,Malta,MLT.1561993,Valletta
+MLT,Malta,MLT.1561994,Xaghra
+MLT,Malta,MLT.1561995,Xewkija
+MLT,Malta,MLT.1561996,Xghajra
+MLT,Malta,MLT.1561997,Zabbar
+MLT,Malta,MLT.1561998,Zebbug (gozo)
+MLT,Malta,MLT.1561999,Zebbug (malta)
+MLT,Malta,MLT.1562000,Zejtun
+MLT,Malta,MLT.1562001,Zurrieq
+MMR,Myanmar,MMR.1711,Ayeyarwady
+MMR,Myanmar,MMR.1712,Bago
+MMR,Myanmar,MMR.1713,Chin
+MMR,Myanmar,MMR.1714,Kachin
+MMR,Myanmar,MMR.1715,Kayah
+MMR,Myanmar,MMR.1716,Kayin
+MMR,Myanmar,MMR.1717,Magway
+MMR,Myanmar,MMR.1718,Mandalay
+MMR,Myanmar,MMR.1719,Mon
+MMR,Myanmar,MMR.17110,Naypyidaw
+MMR,Myanmar,MMR.17111,Rakhine
+MMR,Myanmar,MMR.17112,Sagaing
+MMR,Myanmar,MMR.17113,Shan
+MMR,Myanmar,MMR.17114,Tanintharyi
+MMR,Myanmar,MMR.17115,Yangon
+MNE,Montenegro,MNE.264725350,Andrijevica
+MNE,Montenegro,MNE.264725351,Bar
+MNE,Montenegro,MNE.264725352,Berane
+MNE,Montenegro,MNE.264725353,Bijelo Polje
+MNE,Montenegro,MNE.264725354,Budva
+MNE,Montenegro,MNE.264725355,Cetinje
+MNE,Montenegro,MNE.264725356,Danilovgrad
+MNE,Montenegro,MNE.264725357,Herceg Novi
+MNE,Montenegro,MNE.264725358,Kolasin
+MNE,Montenegro,MNE.264725359,Kotor
+MNE,Montenegro,MNE.264725360,Mojkovac
+MNE,Montenegro,MNE.264725361,Niksic
+MNE,Montenegro,MNE.264725362,Plav
+MNE,Montenegro,MNE.264725363,Pljevlja
+MNE,Montenegro,MNE.264725364,Pluzine
+MNE,Montenegro,MNE.264725365,Podgorica
+MNE,Montenegro,MNE.264725366,Rozaj
+MNE,Montenegro,MNE.264725367,Savnik
+MNE,Montenegro,MNE.264725368,Tivat
+MNE,Montenegro,MNE.264725369,Ulcinj
+MNE,Montenegro,MNE.264725370,Zabljak
+MNG,Mongolia,MNG.1672075,Arxangai
+MNG,Mongolia,MNG.1672076,Bayan-O'lgii
+MNG,Mongolia,MNG.1672077,Bayanxongor
+MNG,Mongolia,MNG.1672078,Bulgan
+MNG,Mongolia,MNG.1672079,Darxan-Uul
+MNG,Mongolia,MNG.1672081,Dornod
+MNG,Mongolia,MNG.1672082,Dornogovi
+MNG,Mongolia,MNG.1672083,Dundgovi
+MNG,Mongolia,MNG.1672085,Govi-Altai
+MNG,Mongolia,MNG.1672084,Govisu'mber
+MNG,Mongolia,MNG.1672089,O'mnogovi
+MNG,Mongolia,MNG.1672091,O'vorxangai
+MNG,Mongolia,MNG.1672090,Orxon
+MNG,Mongolia,MNG.1672092,Selenge
+MNG,Mongolia,MNG.1672093,Su'xbaatar
+MNG,Mongolia,MNG.1672094,To'v
+MNG,Mongolia,MNG.1672095,Ulaanbaatar
+MNG,Mongolia,MNG.1672096,Uvs
+MNG,Mongolia,MNG.1672086,Xentii
+MNG,Mongolia,MNG.1672088,Xo'vsgol
+MNG,Mongolia,MNG.1672087,Xovd
+MNG,Mongolia,MNG.1672097,Zavxan
+MRT,Mauritania,MRT.1592004,Adrar
+MRT,Mauritania,MRT.1592005,Assaba
+MRT,Mauritania,MRT.1592006,Brakna
+MRT,Mauritania,MRT.1592007,Dakhlet-Nouadhibou
+MRT,Mauritania,MRT.1592008,Gorgol
+MRT,Mauritania,MRT.1592009,Guidimakha
+MRT,Mauritania,MRT.1592010,Hodh Ech Chargi
+MRT,Mauritania,MRT.1592011,Hodh El Gharbi
+MRT,Mauritania,MRT.1592012,Inchiri
+MRT,Mauritania,MRT.1592013,Nouakchott
+MRT,Mauritania,MRT.1592014,Tagant
+MRT,Mauritania,MRT.1592015,Tiris-Zemmour
+MRT,Mauritania,MRT.1592016,Trarza
+MUS,Mauritius,MUS.1602017,Administrative unit not available
+MUS,Mauritius,MUS.1602018,Black River
+MUS,Mauritius,MUS.1602019,Flacq
+MUS,Mauritius,MUS.1602020,Grand Port
+MUS,Mauritius,MUS.1602021,Moka
+MUS,Mauritius,MUS.1602022,Pamplemousses
+MUS,Mauritius,MUS.1602023,Plaines Wilhems
+MUS,Mauritius,MUS.1602024,Port Louis
+MUS,Mauritius,MUS.1602025,Riviere Du Rempart
+MUS,Mauritius,MUS.1602026,Savanne
+MWI,Malawi,MWI.15265268,Area under National Administration
+MWI,Malawi,MWI.1521888,Central Region
+MWI,Malawi,MWI.1521889,Northern Region
+MWI,Malawi,MWI.1521890,Southern Region
+MYS,Malaysia,MYS.1531891,Johor
+MYS,Malaysia,MYS.1531892,Kedah
+MYS,Malaysia,MYS.1531893,Kelantan
+MYS,Malaysia,MYS.1531894,Kuala Lumpur
+MYS,Malaysia,MYS.15337336,Labuan
+MYS,Malaysia,MYS.1531895,Melaka
+MYS,Malaysia,MYS.1531896,Negeri Sembilan
+MYS,Malaysia,MYS.1531897,Pahang
+MYS,Malaysia,MYS.1531898,Perak
+MYS,Malaysia,MYS.1531899,Perlis
+MYS,Malaysia,MYS.1531900,Pulau Pinang
+MYS,Malaysia,MYS.1531901,Sabah
+MYS,Malaysia,MYS.1531902,Sarawak
+MYS,Malaysia,MYS.1531903,Selangor
+MYS,Malaysia,MYS.1531904,Terengganu
+NAM,Namibia,NAM.1722137,Caprivi
+NAM,Namibia,NAM.1722138,Erongo
+NAM,Namibia,NAM.1722139,Hardap
+NAM,Namibia,NAM.1722140,Karas
+NAM,Namibia,NAM.1722141,Kavango
+NAM,Namibia,NAM.1722142,Khomas
+NAM,Namibia,NAM.1722143,Kunene
+NAM,Namibia,NAM.1722144,Ohangwena
+NAM,Namibia,NAM.1722145,Omaheke
+NAM,Namibia,NAM.1722146,Omusati
+NAM,Namibia,NAM.1722147,Oshana
+NAM,Namibia,NAM.1722148,Oshikoto
+NAM,Namibia,NAM.1722149,Otjozondjupa
+NGA,Nigeria,NGA.18265698,Abia
+NGA,Nigeria,NGA.1822221,Abuja
+NGA,Nigeria,NGA.1822211,Adamawa
+NGA,Nigeria,NGA.1822212,Akwa Ibom
+NGA,Nigeria,NGA.1822213,Anambra
+NGA,Nigeria,NGA.18265699,Bauchi
+NGA,Nigeria,NGA.18265700,Bayelsa
+NGA,Nigeria,NGA.1822215,Benue
+NGA,Nigeria,NGA.1822216,Borno
+NGA,Nigeria,NGA.1822217,Cross River
+NGA,Nigeria,NGA.1822218,Delta
+NGA,Nigeria,NGA.18265701,Ebonyi
+NGA,Nigeria,NGA.1822219,Edo
+NGA,Nigeria,NGA.18265702,Ekiti
+NGA,Nigeria,NGA.18265703,Enugu
+NGA,Nigeria,NGA.18265704,Gombe
+NGA,Nigeria,NGA.1822222,Imo
+NGA,Nigeria,NGA.1822223,Jigawa
+NGA,Nigeria,NGA.1822224,Kaduna
+NGA,Nigeria,NGA.1822225,Kano
+NGA,Nigeria,NGA.1822226,Katsina
+NGA,Nigeria,NGA.1822227,Kebbi
+NGA,Nigeria,NGA.1822228,Kogi
+NGA,Nigeria,NGA.1822229,Kwara
+NGA,Nigeria,NGA.1822230,Lagos
+NGA,Nigeria,NGA.18265705,Nassarawa
+NGA,Nigeria,NGA.1822231,Niger
+NGA,Nigeria,NGA.1822232,Ogun
+NGA,Nigeria,NGA.18265706,Ondo
+NGA,Nigeria,NGA.1822234,Osun
+NGA,Nigeria,NGA.1822235,Oyo
+NGA,Nigeria,NGA.18265707,Plateau
+NGA,Nigeria,NGA.18265708,Rivers
+NGA,Nigeria,NGA.18265709,Sokoto
+NGA,Nigeria,NGA.1822239,Taraba
+NGA,Nigeria,NGA.1822240,Yobe
+NGA,Nigeria,NGA.18265710,Zamfara
+NIC,Nicaragua,NIC.1801,Boaco
+NIC,Nicaragua,NIC.1802,Carazo
+NIC,Nicaragua,NIC.1803,Chinandega
+NIC,Nicaragua,NIC.1804,Chontales
+NIC,Nicaragua,NIC.1805,Estelí
+NIC,Nicaragua,NIC.1806,Granada
+NIC,Nicaragua,NIC.1807,Jinotega
+NIC,Nicaragua,NIC.1808,León
+NIC,Nicaragua,NIC.1809,Madriz
+NIC,Nicaragua,NIC.18010,Managua
+NIC,Nicaragua,NIC.18011,Masaya
+NIC,Nicaragua,NIC.18012,Matagalpa
+NIC,Nicaragua,NIC.18013,Nueva Segovia
+NIC,Nicaragua,NIC.18014,Región Autónoma del Caribe Norte
+NIC,Nicaragua,NIC.18015,Región Autónoma del Caribe Sur
+NIC,Nicaragua,NIC.18016,Río San Juan
+NIC,Nicaragua,NIC.18017,Rivas
+ABW,Aruba (Neth.),ABW.14465,Administrative unit not available
+NLD,Netherlands,NLD.1772158,Drenthe
+NLD,Netherlands,NLD.1772159,Flevoland
+NLD,Netherlands,NLD.1772160,Friesland
+NLD,Netherlands,NLD.1772161,Gelderland
+NLD,Netherlands,NLD.1772162,Groningen
+NLD,Netherlands,NLD.1772163,Limburg
+NLD,Netherlands,NLD.1772164,Noord-brabant
+NLD,Netherlands,NLD.1772165,Noord-holland
+NLD,Netherlands,NLD.1772166,Overijssel
+NLD,Netherlands,NLD.1772167,Utrecht
+NLD,Netherlands,NLD.1772168,Zeeland
+NLD,Netherlands,NLD.1772169,Zuid-holland
+BES,"Bonaire, Sint Eustatius and Saba",BES.7500175101,Bonaire
+BES,"Bonaire, Sint Eustatius and Saba",BES.7500375103,Saba
+BES,"Bonaire, Sint Eustatius and Saba",BES.7500475104,Sint Eustatius
+CUW,Curaçao (Neth.),CUW.7500275102,Administrative unit not available
+SXM,Sint Maarten (Neth.),SXM.7500575105,Administrative unit not available
+BVT,Bouvet Island (Nor.),BVT.36664,Administrative unit not available
+NOR,Norway,NOR.1862244,Akershus
+NOR,Norway,NOR.1862245,Aust-agder
+NOR,Norway,NOR.1862246,Buskerud
+NOR,Norway,NOR.1862247,Finnmark
+NOR,Norway,NOR.1862248,Hedmark
+NOR,Norway,NOR.1862249,Hordaland
+NOR,Norway,NOR.1862250,Moere Og Romsdal
+NOR,Norway,NOR.1862251,Nord-troendelag
+NOR,Norway,NOR.1862252,Nordland
+NOR,Norway,NOR.1862253,Oestfold
+NOR,Norway,NOR.1862254,Oppland
+NOR,Norway,NOR.1862255,Oslo
+NOR,Norway,NOR.1862256,Rogaland
+NOR,Norway,NOR.1862257,Soer-Troendelag
+NOR,Norway,NOR.1862258,Sogn og Fjordane
+NOR,Norway,NOR.1862259,Telemark
+NOR,Norway,NOR.1862260,Troms
+NOR,Norway,NOR.1862261,Vest-Agder
+NOR,Norway,NOR.1862262,Vestfold
+SJM,Svalbard and Jan Mayen (Nor.),SJM.2342781,Administrative unit not available
+NPL,Nepal,NPL.1751,Five
+NPL,Nepal,NPL.1752,Four
+NPL,Nepal,NPL.1753,One
+NPL,Nepal,NPL.1754,Seven
+NPL,Nepal,NPL.1755,Six
+NPL,Nepal,NPL.1756,Three
+NPL,Nepal,NPL.1757,Two
+NRU,Nauru,NRU.1732150,Administrative unit not available
+COK,Cook Islands (N.Z.),COK.60980,Administrative unit not available
+NZL,New Zealand,NZL.1792171,Auckland
+NZL,New Zealand,NZL.1792172,Bay Of Plenty
+NZL,New Zealand,NZL.1792173,Canterbury
+NZL,New Zealand,NZL.1792174,East Cape
+NZL,New Zealand,NZL.1792175,Hawke's Bay
+NZL,New Zealand,NZL.1792176,Nelson-marlborough
+NZL,New Zealand,NZL.1792177,Northland
+NZL,New Zealand,NZL.1792178,Otago
+NZL,New Zealand,NZL.1792179,Southland
+NZL,New Zealand,NZL.1792180,Taranaki
+NZL,New Zealand,NZL.1792181,Waikato
+NZL,New Zealand,NZL.1792182,Wanganui-manawatu
+NZL,New Zealand,NZL.1792183,Wellington
+NZL,New Zealand,NZL.1792184,Westland
+NIU,Niue (N.Z.),NIU.1832241,Administrative unit not available
+TKL,Tokelau (N.Z.),TKL.2442975,Administrative unit not available
+OMN,Oman,OMN.1872263,A Dakhliya
+OMN,Oman,OMN.1872264,A Sharqiya
+OMN,Oman,OMN.1872265,Al Batnah
+OMN,Oman,OMN.1872266,Al Dhahira
+OMN,Oman,OMN.1872267,Al Wusta
+OMN,Oman,OMN.1872268,Dhofar
+OMN,Oman,OMN.1872269,Musandam
+OMN,Oman,OMN.1872270,Muscat
+OMN,Oman,OMN.1872271,Name Unknown
+PAK,Pakistan,PAK.18840408,Jammu and Kashmir
+PAK,Pakistan,PAK.1882272,Balochistan
+PAK,Pakistan,PAK.1882275,Khyber Pakhtunkhwa
+PAK,Pakistan,PAK.1882274,Federal Capital Territory
+PAK,Pakistan,PAK.1882276,Punjab
+PAK,Pakistan,PAK.1882277,Sindh
+PAN,Panama,PAN.1911,Bocas del Toro
+PAN,Panama,PAN.1912,Chiriquí
+PAN,Panama,PAN.1913,Coclé
+PAN,Panama,PAN.1914,Colón
+PAN,Panama,PAN.1915,Darién
+PAN,Panama,PAN.1916,Emberá
+PAN,Panama,PAN.1917,Herrera
+PAN,Panama,PAN.1918,Kuna Yala
+PAN,Panama,PAN.1919,Los Santos
+PAN,Panama,PAN.19110,Ngäbe Buglé
+PAN,Panama,PAN.19111,Panamá
+PAN,Panama,PAN.19112,Panamá Oeste
+PAN,Panama,PAN.19113,Veraguas
+PER,Peru,PER.1952328,Amazonas
+PER,Peru,PER.1952329,Ancash
+PER,Peru,PER.1952330,Apurímac
+PER,Peru,PER.1952331,Arequipa
+PER,Peru,PER.1952332,Ayacucho
+PER,Peru,PER.1952333,Cajamarca
+PER,Peru,PER.1952334,Callao
+PER,Peru,PER.1952335,Cusco
+PER,Peru,PER.1952336,Huancavelica
+PER,Peru,PER.1952337,Huánuco
+PER,Peru,PER.1952338,Ica
+PER,Peru,PER.1952339,Junín
+PER,Peru,PER.1952340,La Libertad
+PER,Peru,PER.1952341,Lambayeque
+PER,Peru,PER.1952342,Lima
+PER,Peru,PER.1952343,Loreto
+PER,Peru,PER.1952344,Madre de Dios
+PER,Peru,PER.1952345,Moquegua
+PER,Peru,PER.1952346,Pasco
+PER,Peru,PER.1952347,Piura
+PER,Peru,PER.1952348,Puno
+PER,Peru,PER.1952349,San Martín
+PER,Peru,PER.1952350,Tacna
+PER,Peru,PER.1952351,Tumbes
+PER,Peru,PER.1952352,Ucayali
+PHL,Philippines,PHL.1961,Bangsamoro Autonomous Region in Muslim Mindanao
+PHL,Philippines,PHL.1962,Cordillera Administrative Region
+PHL,Philippines,PHL.1963,National Capital Region
+PHL,Philippines,PHL.1964,Region 6
+PHL,Philippines,PHL.1965,Region 7
+PHL,Philippines,PHL.1966,Region 1
+PHL,Philippines,PHL.1967,Region 10
+PHL,Philippines,PHL.1968,Region 11
+PHL,Philippines,PHL.1969,Region 12
+PHL,Philippines,PHL.19610,Region 13
+PHL,Philippines,PHL.19611,Region 2
+PHL,Philippines,PHL.19612,Region 3
+PHL,Philippines,PHL.19613,Region 4-A
+PHL,Philippines,PHL.19614,Region 4-B
+PHL,Philippines,PHL.19615,Region 5
+PHL,Philippines,PHL.19616,Region 8
+PHL,Philippines,PHL.19617,Region 9
+PLW,Palau,PLW.1892278,Administrative unit not available
+PNG,Papua New Guinea,PNG.1921,Bougainville
+PNG,Papua New Guinea,PNG.1922,Central
+PNG,Papua New Guinea,PNG.1923,Chimbu
+PNG,Papua New Guinea,PNG.1924,East New Britain
+PNG,Papua New Guinea,PNG.1925,East Sepik
+PNG,Papua New Guinea,PNG.1926,Eastern Highlands
+PNG,Papua New Guinea,PNG.1927,Enga
+PNG,Papua New Guinea,PNG.1928,Gulf
+PNG,Papua New Guinea,PNG.1929,Hela
+PNG,Papua New Guinea,PNG.19210,Jiwaka
+PNG,Papua New Guinea,PNG.19211,Madang
+PNG,Papua New Guinea,PNG.19212,Manus
+PNG,Papua New Guinea,PNG.19213,Milne Bay
+PNG,Papua New Guinea,PNG.19214,Morobe
+PNG,Papua New Guinea,PNG.19215,National Capital District
+PNG,Papua New Guinea,PNG.19216,New Ireland
+PNG,Papua New Guinea,PNG.19217,Northern
+PNG,Papua New Guinea,PNG.19218,Sandaun
+PNG,Papua New Guinea,PNG.19219,Southern Highlands
+PNG,Papua New Guinea,PNG.19220,West New Britain
+PNG,Papua New Guinea,PNG.19221,Western
+PNG,Papua New Guinea,PNG.19222,Western Highlands
+POL,Poland,POL.1982370,Dolnoslaskie
+POL,Poland,POL.1982371,Kujawsko-Pomorskie
+POL,Poland,POL.1982372,Lodzkie
+POL,Poland,POL.1982373,Lubeiskie
+POL,Poland,POL.1982374,Lubuskie
+POL,Poland,POL.1982375,Malopolske
+POL,Poland,POL.1982376,Mazowieckie
+POL,Poland,POL.1982377,Opolskie
+POL,Poland,POL.1982378,Podkarpackie
+POL,Poland,POL.1982379,Podlaskie
+POL,Poland,POL.1982380,Pomorskie
+POL,Poland,POL.1982381,Slaskie
+POL,Poland,POL.1982382,Swietokrzyskie
+POL,Poland,POL.1982383,Warminsko-Mazurskie
+POL,Poland,POL.1982384,Wielkopolskie
+POL,Poland,POL.1982385,Zachodnio-Pomorskie
+PRK,D. P. R. of Korea,PRK.671054,Chagang-do
+PRK,D. P. R. of Korea,PRK.671058,Hamgyong-bukto
+PRK,D. P. R. of Korea,PRK.671062,Hamgyong-namdo
+PRK,D. P. R. of Korea,PRK.671059,Hwanghae-bukto
+PRK,D. P. R. of Korea,PRK.671063,Hwanghae-namdo
+PRK,D. P. R. of Korea,PRK.671055,Kaesong-si
+PRK,D. P. R. of Korea,PRK.671056,Kangwon-do
+PRK,D. P. R. of Korea,PRK.671060,P'yongan-bukto
+PRK,D. P. R. of Korea,PRK.671064,P'yongan-namdo
+PRK,D. P. R. of Korea,PRK.671061,P'yongyang-si
+PRK,D. P. R. of Korea,PRK.671065,Yanggang-do
+PRT,Portugal,PRT.151151,Madeira
+PRT,Portugal,PRT.1992386,Aveiro
+PRT,Portugal,PRT.1992387,Beja
+PRT,Portugal,PRT.1992388,Braga
+PRT,Portugal,PRT.1992389,Braganca
+PRT,Portugal,PRT.1992390,Castelo Branco
+PRT,Portugal,PRT.1992391,Coimbra
+PRT,Portugal,PRT.1992392,Evora
+PRT,Portugal,PRT.1992393,Faro
+PRT,Portugal,PRT.1992394,Guarda
+PRT,Portugal,PRT.1992405,Leiria
+PRT,Portugal,PRT.1992406,Lisboa
+PRT,Portugal,PRT.1992407,Portalegre
+PRT,Portugal,PRT.1992408,Porto
+PRT,Portugal,PRT.1992409,Santarem
+PRT,Portugal,PRT.1992410,Setubal
+PRT,Portugal,PRT.1992411,Viana Do Castelo
+PRT,Portugal,PRT.1992412,Vila Real
+PRT,Portugal,PRT.1992413,Viseu
+PRT,Portugal,PRT.7457874578,Azores
+PRY,Paraguay,PRY.1942311,Alto Paraguay
+PRY,Paraguay,PRY.1942312,Alto Parana
+PRY,Paraguay,PRY.1942313,Amambay
+PRY,Paraguay,PRY.1942314,Boqueron
+PRY,Paraguay,PRY.1942315,Caaguazu
+PRY,Paraguay,PRY.1942316,Caazapa
+PRY,Paraguay,PRY.1942317,Canindeyu
+PRY,Paraguay,PRY.1942318,Central
+PRY,Paraguay,PRY.1942319,Concepcion
+PRY,Paraguay,PRY.1942320,Cordillera
+PRY,Paraguay,PRY.1942321,Guaira
+PRY,Paraguay,PRY.1942322,Itapua
+PRY,Paraguay,PRY.1942323,Misiones
+PRY,Paraguay,PRY.1942324,Neembucu
+PRY,Paraguay,PRY.1942325,Paraguari
+PRY,Paraguay,PRY.1942326,Presidente Hayes
+PRY,Paraguay,PRY.1942327,San Pedro
+PSE,West Bank and Gaza,PSE.913394,Al Khalil (Hebron)
+PSE,West Bank and Gaza,PSE.913395,Al Quds (Jerusalem)
+PSE,West Bank and Gaza,PSE.913396,Ariha (Jericho)
+PSE,West Bank and Gaza,PSE.913397,Bethlehem
+PSE,West Bank and Gaza,PSE.911291,Deir al Balah
+PSE,West Bank and Gaza,PSE.911292,Gaza
+PSE,West Bank and Gaza,PSE.911293,Jabalya
+PSE,West Bank and Gaza,PSE.913398,Jenin
+PSE,West Bank and Gaza,PSE.911294,Khan Yunis
+PSE,West Bank and Gaza,PSE.913399,Nablus
+PSE,West Bank and Gaza,PSE.913400,Qalqiliya
+PSE,West Bank and Gaza,PSE.911295,Rafah
+PSE,West Bank and Gaza,PSE.913401,Ramallah
+PSE,West Bank and Gaza,PSE.913402,Salfit
+PSE,West Bank and Gaza,PSE.913403,Tubas
+PSE,West Bank and Gaza,PSE.913404,Tulkarm
+QAT,Qatar,QAT.2012422,Ad Dawhah
+QAT,Qatar,QAT.2012426,Al-wakrah
+QAT,Qatar,QAT.2012423,Al Ghuwayriyah
+QAT,Qatar,QAT.2012424,Al Jumayliyah
+QAT,Qatar,QAT.2012425,Al Khawr
+QAT,Qatar,QAT.2012427,Ar Rayyan
+QAT,Qatar,QAT.2012428,Ash Shamal
+QAT,Qatar,QAT.2012429,Jarayan Al Batnah
+QAT,Qatar,QAT.2012430,Umm Salal
+ROU,Romania,ROU.2032446,Alba
+ROU,Romania,ROU.2032447,Arad
+ROU,Romania,ROU.2032448,Arges
+ROU,Romania,ROU.2032449,Bacau
+ROU,Romania,ROU.2032450,Bihor
+ROU,Romania,ROU.2032451,Bistrita-nasaud
+ROU,Romania,ROU.2032452,Botosani
+ROU,Romania,ROU.2032453,Braila
+ROU,Romania,ROU.2032454,Brasov
+ROU,Romania,ROU.2032455,Bucuresti
+ROU,Romania,ROU.2032456,Buzau
+ROU,Romania,ROU.2032457,Calarasi
+ROU,Romania,ROU.2032458,Caras-severin
+ROU,Romania,ROU.2032459,Cluj
+ROU,Romania,ROU.2032460,Constanta
+ROU,Romania,ROU.2032461,Covasna
+ROU,Romania,ROU.2032462,Dimbovita
+ROU,Romania,ROU.2032463,Dolj
+ROU,Romania,ROU.2032464,Galati
+ROU,Romania,ROU.2032465,Giurgiu
+ROU,Romania,ROU.2032466,Gorj
+ROU,Romania,ROU.2032467,Harghita
+ROU,Romania,ROU.2032468,Hunedoara
+ROU,Romania,ROU.2032469,Ialomita
+ROU,Romania,ROU.2032470,Iasi
+ROU,Romania,ROU.2032471,Maramures
+ROU,Romania,ROU.2032472,Mehedinti
+ROU,Romania,ROU.2032473,Mures
+ROU,Romania,ROU.2032474,Neamt
+ROU,Romania,ROU.2032475,Olt
+ROU,Romania,ROU.2032476,Prahova
+ROU,Romania,ROU.2032477,Salaj
+ROU,Romania,ROU.2032478,Satu Mare
+ROU,Romania,ROU.2032479,Sibiu
+ROU,Romania,ROU.2032480,Suceava
+ROU,Romania,ROU.2032481,Teleorman
+ROU,Romania,ROU.2032482,Timis
+ROU,Romania,ROU.2032483,Tulcea
+ROU,Romania,ROU.2032484,Vaslui
+ROU,Romania,ROU.2032485,Vilcea
+ROU,Romania,ROU.2032486,Vrancea
+RUS,Russian Federation,RUS.2042487,Adygeya Rep.
+RUS,Russian Federation,RUS.2042488,Aginskiy Buryatskiy A. Okrug
+RUS,Russian Federation,RUS.2042489,Altay Rep.
+RUS,Russian Federation,RUS.2042490,Altayskiy Kray
+RUS,Russian Federation,RUS.2042491,Amurskaya Oblast
+RUS,Russian Federation,RUS.2042492,Arkhangelskaya Oblast
+RUS,Russian Federation,RUS.2042493,Astrakhanskaya Oblast
+RUS,Russian Federation,RUS.2042494,Bashkortostan Rep.
+RUS,Russian Federation,RUS.2042495,Belgorodskaya Oblast
+RUS,Russian Federation,RUS.2042496,Bryanskaya Oblast
+RUS,Russian Federation,RUS.2042497,Buryatiya Rep.
+RUS,Russian Federation,RUS.2042498,Chechnya Rep.
+RUS,Russian Federation,RUS.2042499,Chelyabinskaya Oblast
+RUS,Russian Federation,RUS.2042500,Chitinskaya Oblast
+RUS,Russian Federation,RUS.2042501,Chukotskiy Okrug
+RUS,Russian Federation,RUS.2042502,Chuvashiya Rep.
+RUS,Russian Federation,RUS.2042503,Dagestan Rep.
+RUS,Russian Federation,RUS.2042504,Evenkiyskiy Okrug
+RUS,Russian Federation,RUS.2042505,Ingushetiya Rep.
+RUS,Russian Federation,RUS.2042506,Irkutskaya Oblast
+RUS,Russian Federation,RUS.2042507,Ivanovskaya Oblast
+RUS,Russian Federation,RUS.2042508,Kabardino-balkariya Rep.
+RUS,Russian Federation,RUS.2042509,Kaliningradskaya Oblast
+RUS,Russian Federation,RUS.2042510,Kalmykiya Rep.
+RUS,Russian Federation,RUS.2042511,Kaluzhskaya Oblast
+RUS,Russian Federation,RUS.2042512,Kamchatskaya Oblast
+RUS,Russian Federation,RUS.2042513,Karatchayevo-cherkesiya Rep.
+RUS,Russian Federation,RUS.2042514,Karelya Rep.
+RUS,Russian Federation,RUS.2042515,Kemerovskaya Oblast
+RUS,Russian Federation,RUS.2042516,Khabarovskiy Kray
+RUS,Russian Federation,RUS.2042517,Khakasiya Rep.
+RUS,Russian Federation,RUS.2042518,Khanty-mansyiskiy Okrug
+RUS,Russian Federation,RUS.2042519,Kirovskaya Oblast
+RUS,Russian Federation,RUS.2042521,Komi-permyatskiy Okrug
+RUS,Russian Federation,RUS.2042520,Komi Rep.
+RUS,Russian Federation,RUS.2042522,Koryakskiy Okrug
+RUS,Russian Federation,RUS.2042523,Kostromskaya Oblast
+RUS,Russian Federation,RUS.2042524,Krasnodarskiy Kray
+RUS,Russian Federation,RUS.2042525,Krasnoyarskiy Kray
+RUS,Russian Federation,RUS.2042526,Kurganskaya Oblast
+RUS,Russian Federation,RUS.2042527,Kurskaya Oblast
+RUS,Russian Federation,RUS.2042529,Leningradskaya Oblast
+RUS,Russian Federation,RUS.2042530,Lipetskaya Oblast
+RUS,Russian Federation,RUS.2042531,Magadanskaya Oblast
+RUS,Russian Federation,RUS.2042532,Mariy-el Rep.
+RUS,Russian Federation,RUS.2042533,Mordoviya Rep.
+RUS,Russian Federation,RUS.2042534,Moskovskaya Oblast
+RUS,Russian Federation,RUS.2042535,Moskva
+RUS,Russian Federation,RUS.2042536,Murmanskaya Oblast
+RUS,Russian Federation,RUS.2042537,Name Unknown
+RUS,Russian Federation,RUS.2042538,Nenetskiy Okrug
+RUS,Russian Federation,RUS.2042539,Nizhegorodskaya Oblast
+RUS,Russian Federation,RUS.2042540,Novgorodskaya Oblast
+RUS,Russian Federation,RUS.2042541,Novosibirskaya Oblast
+RUS,Russian Federation,RUS.2042542,Omskaya Oblast
+RUS,Russian Federation,RUS.2042543,Orenburgskaya Oblast
+RUS,Russian Federation,RUS.2042544,Orlovskaya Oblast
+RUS,Russian Federation,RUS.2042545,Penzenskaya Oblast
+RUS,Russian Federation,RUS.2042546,Permskaya Oblast
+RUS,Russian Federation,RUS.2042547,Primorskiy Kray
+RUS,Russian Federation,RUS.2042548,Pskovskaya Oblast
+RUS,Russian Federation,RUS.2042549,Rostovskaya Oblast
+RUS,Russian Federation,RUS.2042550,Ryazanskaya Oblast
+RUS,Russian Federation,RUS.2042551,Sakha Rep.
+RUS,Russian Federation,RUS.2042552,Sakhalinskaya Oblast
+RUS,Russian Federation,RUS.2042553,Samarskaya Oblast
+RUS,Russian Federation,RUS.2042554,Sankt-peterburg
+RUS,Russian Federation,RUS.2042555,Saratovskaya Oblast
+RUS,Russian Federation,RUS.2042556,Severnaya Osetiya-alaniya Rep.
+RUS,Russian Federation,RUS.2042557,Smolenskaya Oblast
+RUS,Russian Federation,RUS.2042558,Stavropolskiy Kray
+RUS,Russian Federation,RUS.2042559,Sverdlovskaya Oblast
+RUS,Russian Federation,RUS.2042560,Tambovskaya Oblast
+RUS,Russian Federation,RUS.2042561,Tatarstan Rep.
+RUS,Russian Federation,RUS.2042562,Taymyrskiy Okrug
+RUS,Russian Federation,RUS.2042563,Tomskaya Oblast
+RUS,Russian Federation,RUS.2042564,Tulskaya Oblast
+RUS,Russian Federation,RUS.2042565,Tverskaya Oblast
+RUS,Russian Federation,RUS.2042566,Tyumenskaya Oblast
+RUS,Russian Federation,RUS.2042567,Tyva Rep.
+RUS,Russian Federation,RUS.2042568,Udmurtiya Rep.
+RUS,Russian Federation,RUS.2042569,Ulyanovskaya Oblast
+RUS,Russian Federation,RUS.2042570,Ustordynskiy Buryatskiy Okrug
+RUS,Russian Federation,RUS.2042571,Vladimirskaya Oblast
+RUS,Russian Federation,RUS.2042572,Volgogradskaya Oblast
+RUS,Russian Federation,RUS.2042573,Vologodskaya Oblast
+RUS,Russian Federation,RUS.2042574,Voronezhskaya Oblast
+RUS,Russian Federation,RUS.2042575,Yamalo-nenetskiy Okrug
+RUS,Russian Federation,RUS.2042576,Yaroslavskaya Oblast
+RUS,Russian Federation,RUS.2042577,Yevreyskaya A. Oblast
+RWA,Rwanda,RWA.20521969,East/Iburasirazuba
+RWA,Rwanda,RWA.20521970,Kigali City/Umujyi wa Kigali
+RWA,Rwanda,RWA.20521971,North/Amajyaruguru
+RWA,Rwanda,RWA.20521972,South/Amajyepfo
+RWA,Rwanda,RWA.20521973,West/Iburengerazuba
+SAU,Saudi Arabia,SAU.2151,`Asīr
+SAU,Saudi Arabia,SAU.2152,Al Bāhah
+SAU,Saudi Arabia,SAU.2153,Al Ḥudūd ash Shamāliyah
+SAU,Saudi Arabia,SAU.2154,Al Jawf
+SAU,Saudi Arabia,SAU.2155,Al Madīnah
+SAU,Saudi Arabia,SAU.2156,Al Qaṣīm
+SAU,Saudi Arabia,SAU.2157,Ar Riyāḍ
+SAU,Saudi Arabia,SAU.2158,Ash Sharqīyah
+SAU,Saudi Arabia,SAU.2159,Ḥā'il
+SAU,Saudi Arabia,SAU.21510,Jīzan
+SAU,Saudi Arabia,SAU.21511,Makkah
+SAU,Saudi Arabia,SAU.21512,Najrān
+SAU,Saudi Arabia,SAU.21513,Tabūk
+SDN,Sudan,SDN.62745,Al Jazeera
+SDN,Sudan,SDN.62749,Blue Nile
+SDN,Sudan,SDN.668805,Gadaref
+SDN,Sudan,SDN.668783,Kassala
+SDN,Sudan,SDN.62753,Khartoum
+SDN,Sudan,SDN.62761,Nile
+SDN,Sudan,SDN.62755,Northern
+SDN,Sudan,SDN.62757,Northern Darfur
+SDN,Sudan,SDN.668784,Northern Kordofan
+SDN,Sudan,SDN.640772,Red Sea
+SDN,Sudan,SDN.62762,Sennar
+SDN,Sudan,SDN.62764,Southern Darfur
+SDN,Sudan,SDN.64150,Southern Kordofan
+SDN,Sudan,SDN.62769,Western Darfur
+SDN,Sudan,SDN.62770,White Nile
+SEN,Senegal,SEN.2171,Dakar
+SEN,Senegal,SEN.2172,Diourbel
+SEN,Senegal,SEN.2173,Fatick
+SEN,Senegal,SEN.2174,Kaffrine
+SEN,Senegal,SEN.2175,Kaolack
+SEN,Senegal,SEN.2176,Kédougou
+SEN,Senegal,SEN.2177,Kolda
+SEN,Senegal,SEN.2178,Louga
+SEN,Senegal,SEN.2179,Matam
+SEN,Senegal,SEN.21710,Saint-Louis
+SEN,Senegal,SEN.21711,Sédhiou
+SEN,Senegal,SEN.21712,Tambacounda
+SEN,Senegal,SEN.21713,Thiès
+SEN,Senegal,SEN.21714,Ziguinchor
+SGP,Singapore,SGP.2222658,Ang Mo Kio-cheng San
+SGP,Singapore,SGP.2222659,Bukit Timah
+SGP,Singapore,SGP.2222660,Central Singapore
+SGP,Singapore,SGP.2222661,Hougang
+SGP,Singapore,SGP.2222662,Marine Parade
+SGP,Singapore,SGP.2222663,Northeast
+SGP,Singapore,SGP.2222664,Potong Pasir
+SGP,Singapore,SGP.2222665,Sembawang-hong Kah
+SGP,Singapore,SGP.2222666,Tanjong Pagar
+SLB,Solomon Islands,SLB.2252687,Administrative unit not available
+SLV,El Salvador,SLV.751184,Ahuachapan
+SLV,El Salvador,SLV.751185,Cabanas
+SLV,El Salvador,SLV.751186,Chalatenango
+SLV,El Salvador,SLV.751187,Cuscatlan
+SLV,El Salvador,SLV.751188,La Libertad
+SLV,El Salvador,SLV.751189,La Paz
+SLV,El Salvador,SLV.751190,La Union
+SLV,El Salvador,SLV.751191,Morazan
+SLV,El Salvador,SLV.751192,San Miguel
+SLV,El Salvador,SLV.751193,San Salvador
+SLV,El Salvador,SLV.751194,San Vicente
+SLV,El Salvador,SLV.751195,Santa Ana
+SLV,El Salvador,SLV.751196,Sonsonate
+SLV,El Salvador,SLV.751197,Usulutan
+SMR,San Marino,SMR.2132619,Administrative unit not available
+SOM,Somalia,SOM.2262688,Awdal
+SOM,Somalia,SOM.2262689,Bakool
+SOM,Somalia,SOM.2262692,Banadir
+SOM,Somalia,SOM.2262690,Bari
+SOM,Somalia,SOM.2262691,Bay
+SOM,Somalia,SOM.2262693,Galgaduud
+SOM,Somalia,SOM.2262694,Gedo
+SOM,Somalia,SOM.2262695,Hiraan
+SOM,Somalia,SOM.2262698,Juba Dhexe
+SOM,Somalia,SOM.2262696,Juba Hoose
+SOM,Somalia,SOM.2262700,Mudug
+SOM,Somalia,SOM.2262701,Nugaal
+SOM,Somalia,SOM.2262702,Sanaag
+SOM,Somalia,SOM.2262699,Shabelle Dhexe
+SOM,Somalia,SOM.2262697,Shabelle Hoose
+SOM,Somalia,SOM.2262703,Sool
+SOM,Somalia,SOM.2262704,Togdheer
+SOM,Somalia,SOM.2262705,Woqooyi Galbeed
+SRB,Serbia,SRB.264825371,Borski
+SRB,Serbia,SRB.264825372,Branicevski
+SRB,Serbia,SRB.264825373,Grad Beograd
+SRB,Serbia,SRB.264825374,Jablanicki
+SRB,Serbia,SRB.264825375,Juzno-backi
+SRB,Serbia,SRB.264825376,Juzno-banatski
+SRB,Serbia,SRB.264825377,Kolubarski
+SRB,Serbia,SRB.264825381,Macvanski
+SRB,Serbia,SRB.264825382,Moravicki
+SRB,Serbia,SRB.264825383,Nisavski
+SRB,Serbia,SRB.264825384,Pcinjski
+SRB,Serbia,SRB.264825386,Pirotski
+SRB,Serbia,SRB.264825387,Podunavski
+SRB,Serbia,SRB.264825388,Pomoravski
+SRB,Serbia,SRB.264825390,Rasinski
+SRB,Serbia,SRB.264825391,Raski
+SRB,Serbia,SRB.264825392,Severno-backi
+SRB,Serbia,SRB.264825393,Severno-banatski
+SRB,Serbia,SRB.264825394,Srednje-banatski
+SRB,Serbia,SRB.264825395,Sremski
+SRB,Serbia,SRB.264825396,Sumadijski
+SRB,Serbia,SRB.264825397,Toplicki
+SRB,Serbia,SRB.264825398,Zajecarski
+SRB,Serbia,SRB.264825399,Zapadno-backi
+SRB,Serbia,SRB.264825400,Zlatiborski
+STP,São Tomé and Príncipe,STP.2142620,Principe
+STP,São Tomé and Príncipe,STP.2142621,Sao Tome
+SUR,Suriname,SUR.2332771,Brokopondo
+SUR,Suriname,SUR.2332772,Commewijne
+SUR,Suriname,SUR.2332773,Coronie
+SUR,Suriname,SUR.2332774,Marowijne
+SUR,Suriname,SUR.2332775,Nickerie
+SUR,Suriname,SUR.2332776,Para
+SUR,Suriname,SUR.2332777,Paramaribo
+SUR,Suriname,SUR.2332778,Saramacca
+SUR,Suriname,SUR.2332779,Sipaliwini
+SUR,Suriname,SUR.2332780,Wanica
+SVK,Slovak Republic,SVK.2232667,Banska Bystrica
+SVK,Slovak Republic,SVK.2232668,Bratislava
+SVK,Slovak Republic,SVK.2232669,Kosice
+SVK,Slovak Republic,SVK.2232670,Nitra
+SVK,Slovak Republic,SVK.2232671,Presov
+SVK,Slovak Republic,SVK.2232672,Trencin
+SVK,Slovak Republic,SVK.2232673,Trnava
+SVK,Slovak Republic,SVK.2232674,Zilna
+SVN,Slovenia,SVN.2242675,Gorenjska
+SVN,Slovenia,SVN.2242676,Goriska
+SVN,Slovenia,SVN.2242677,Jugovzodna Slovenija
+SVN,Slovenia,SVN.2242678,Koroska
+SVN,Slovenia,SVN.2242679,Notranjsko-kraska
+SVN,Slovenia,SVN.2242680,Obalno-kraska
+SVN,Slovenia,SVN.2242681,Osrednjeslovenska
+SVN,Slovenia,SVN.2242682,Podravska
+SVN,Slovenia,SVN.2242683,Pomurska
+SVN,Slovenia,SVN.2242684,Savinjska
+SVN,Slovenia,SVN.2242685,Spodnjeposavska
+SVN,Slovenia,SVN.2242686,Zasavska
+SWE,Sweden,SWE.2362786,Blekinge Laen
+SWE,Sweden,SWE.2362787,Dalarnas Laen
+SWE,Sweden,SWE.2362788,Gaevleborgs Laen
+SWE,Sweden,SWE.2362789,Gotlands Laen
+SWE,Sweden,SWE.2362790,Hallands Laen
+SWE,Sweden,SWE.2362791,Jaemtlands Laen
+SWE,Sweden,SWE.2362792,Joenkoepings Laen
+SWE,Sweden,SWE.2362793,Kalmar Laen
+SWE,Sweden,SWE.2362794,Kronobergs Laen
+SWE,Sweden,SWE.2362795,Norrbottens Laen
+SWE,Sweden,SWE.2362796,Oerebro Laen
+SWE,Sweden,SWE.2362797,Oestergoetlands Laen
+SWE,Sweden,SWE.2362798,Skaane Laen
+SWE,Sweden,SWE.2362799,Soedermanlands Laen
+SWE,Sweden,SWE.2362800,Stockholms Laen
+SWE,Sweden,SWE.2362801,Uppsala Laen
+SWE,Sweden,SWE.2362802,Vaermlands Laen
+SWE,Sweden,SWE.2362803,Vaesterbottens Laen
+SWE,Sweden,SWE.2362804,Vaesternorrlands Laen
+SWE,Sweden,SWE.2362805,Vaestmanlands Laen
+SWE,Sweden,SWE.2362806,Vaestra Goetalands Laen
+SWZ,Eswatini,SWZ.2352782,Hhohho
+SWZ,Eswatini,SWZ.2352783,Lubombo
+SWZ,Eswatini,SWZ.2352784,Manzini
+SWZ,Eswatini,SWZ.2352785,Shiselweni
+SYC,Seychelles,SYC.22061135,Aldabra
+SYC,Seychelles,SYC.22061136,Alphonse
+SYC,Seychelles,SYC.22061137,Anse Aux Pins
+SYC,Seychelles,SYC.22061138,Anse Boileau
+SYC,Seychelles,SYC.22061139,Anse Etoile
+SYC,Seychelles,SYC.22061140,Anse Royale
+SYC,Seychelles,SYC.22061141,Aride
+SYC,Seychelles,SYC.22061142,Assumption
+SYC,Seychelles,SYC.22061143,Astove
+SYC,Seychelles,SYC.22061144,Au Cap
+SYC,Seychelles,SYC.22061145,Baie Lazare
+SYC,Seychelles,SYC.22061146,Beau Vallon
+SYC,Seychelles,SYC.22061147,Bel Air
+SYC,Seychelles,SYC.22061148,Belombre
+SYC,Seychelles,SYC.22061149,Bijoutier
+SYC,Seychelles,SYC.22061150,Bird
+SYC,Seychelles,SYC.22061153,Cascade
+SYC,Seychelles,SYC.22061154,Cerf Island
+SYC,Seychelles,SYC.22061207,Coetivy
+SYC,Seychelles,SYC.22061155,Conception
+SYC,Seychelles,SYC.22061156,Cosmoledo
+SYC,Seychelles,SYC.22061157,Cousin
+SYC,Seychelles,SYC.22061158,Cousine
+SYC,Seychelles,SYC.22061159,Curieuse
+SYC,Seychelles,SYC.22061160,Darros
+SYC,Seychelles,SYC.22061161,Denis
+SYC,Seychelles,SYC.22061162,Desnoeufs
+SYC,Seychelles,SYC.22061163,Desroches
+SYC,Seychelles,SYC.22061164,English River
+SYC,Seychelles,SYC.22061165,Farquhar
+SYC,Seychelles,SYC.22061166,Felicite
+SYC,Seychelles,SYC.22061167,Fregate
+SYC,Seychelles,SYC.22061168,Glacis
+SYC,Seychelles,SYC.22061169,Grand Anse Mahe
+SYC,Seychelles,SYC.22061170,Grande Soeur
+SYC,Seychelles,SYC.22061174,Ile du Sud
+SYC,Seychelles,SYC.22061178,La Digue
+SYC,Seychelles,SYC.22061179,Les Mamelles
+SYC,Seychelles,SYC.22061182,Marie-Louise
+SYC,Seychelles,SYC.22061183,Mont Buxton
+SYC,Seychelles,SYC.22061184,Mont Fleuri
+SYC,Seychelles,SYC.22061186,North Island
+SYC,Seychelles,SYC.22061187,Petite Soeur
+SYC,Seychelles,SYC.22061188,Plaisance
+SYC,Seychelles,SYC.22061189,Platte
+SYC,Seychelles,SYC.22061190,Pointe Larue
+SYC,Seychelles,SYC.22061191,Poivre
+SYC,Seychelles,SYC.22061192,Port Glaud
+SYC,Seychelles,SYC.22061193,Praslin
+SYC,Seychelles,SYC.22061194,Providence
+SYC,Seychelles,SYC.22061195,Remire
+SYC,Seychelles,SYC.22061196,Roche Caiman
+SYC,Seychelles,SYC.22061199,Silhouette
+SYC,Seychelles,SYC.22061200,St Louis
+SYC,Seychelles,SYC.22061201,St. Francois
+SYC,Seychelles,SYC.22061202,St. Joseph Atoll
+SYC,Seychelles,SYC.22061203,St. Pierre
+SYC,Seychelles,SYC.22061204,Ste Anne
+SYC,Seychelles,SYC.22061205,Takamaka
+SYC,Seychelles,SYC.22061206,Therese
+SYR,Syrian Arab Republic,SYR.2381,Al Ḥasakah
+SYR,Syrian Arab Republic,SYR.2382,Aleppo
+SYR,Syrian Arab Republic,SYR.2383,Ar Raqqah
+SYR,Syrian Arab Republic,SYR.2384,As Suwaydā'
+SYR,Syrian Arab Republic,SYR.2385,Damascus
+SYR,Syrian Arab Republic,SYR.2386,Dar`ā
+SYR,Syrian Arab Republic,SYR.2387,Dayr az Zawr
+SYR,Syrian Arab Republic,SYR.2388,Hama
+SYR,Syrian Arab Republic,SYR.2389,Ḥimṣ
+SYR,Syrian Arab Republic,SYR.23810,Idlib
+SYR,Syrian Arab Republic,SYR.23811,Latakia
+SYR,Syrian Arab Republic,SYR.23812,Quneitra
+SYR,Syrian Arab Republic,SYR.23813,Rif Dimashq
+SYR,Syrian Arab Republic,SYR.23814,Ţarţūs
+TCD,Chad,TCD.501,Barh el Ghazel
+TCD,Chad,TCD.502,Batha
+TCD,Chad,TCD.503,Borkou
+TCD,Chad,TCD.504,Chari-Baguirmi
+TCD,Chad,TCD.505,Ennedi Est
+TCD,Chad,TCD.506,Ennedi Ouest
+TCD,Chad,TCD.507,Guéra
+TCD,Chad,TCD.508,Hadjer-Lamis
+TCD,Chad,TCD.509,Kanem
+TCD,Chad,TCD.5010,Lac
+TCD,Chad,TCD.5011,Logone Occidental
+TCD,Chad,TCD.5012,Logone Oriental
+TCD,Chad,TCD.5013,Mandoul
+TCD,Chad,TCD.5014,Mayo-Kebbi Est
+TCD,Chad,TCD.5015,Mayo-Kebbi Ouest
+TCD,Chad,TCD.5016,Moyen-Chari
+TCD,Chad,TCD.5017,Ouaddaï
+TCD,Chad,TCD.5018,Salamat
+TCD,Chad,TCD.5019,Sila
+TCD,Chad,TCD.5020,Tandjilé
+TCD,Chad,TCD.5021,Tibesti
+TCD,Chad,TCD.5022,Ville de N'Djamena
+TCD,Chad,TCD.5023,Wadi Fira
+TGO,Togo,TGO.2432970,Centrale
+TGO,Togo,TGO.2432971,Kara
+TGO,Togo,TGO.2432972,Maritime
+TGO,Togo,TGO.2432973,Plateaux
+TGO,Togo,TGO.2432974,Savanes
+THA,Thailand,THA.2402851,Amnat Charoen
+THA,Thailand,THA.2402852,Ang Thong
+THA,Thailand,THA.2402853,Bangkok
+THA,Thailand,THA.2402854,Buriram
+THA,Thailand,THA.2402855,Chachoengsao
+THA,Thailand,THA.2402856,Chainat
+THA,Thailand,THA.2402857,Chaiyaphum
+THA,Thailand,THA.2402858,Chanthaburi
+THA,Thailand,THA.2402859,Chiang Mai
+THA,Thailand,THA.2402860,Chiang Rai
+THA,Thailand,THA.2402861,Chonburi
+THA,Thailand,THA.2402862,Chumphon
+THA,Thailand,THA.2402863,Kalasin
+THA,Thailand,THA.2402864,Kampaeng Phet
+THA,Thailand,THA.2402865,Kanchanaburi
+THA,Thailand,THA.2402866,Khon Kaen
+THA,Thailand,THA.2402867,Krabi
+THA,Thailand,THA.2402868,Lampang
+THA,Thailand,THA.2402869,Lamphun
+THA,Thailand,THA.2402870,Loei
+THA,Thailand,THA.2402871,Lopburi
+THA,Thailand,THA.2402872,Mae Hong Son
+THA,Thailand,THA.2402873,Maha Sarakham
+THA,Thailand,THA.2402874,Mukdahan
+THA,Thailand,THA.2402875,Nakhon Nayok
+THA,Thailand,THA.2402876,Nakhon Pathom
+THA,Thailand,THA.2402877,Nakhon Phanom
+THA,Thailand,THA.2402878,Nakhon Ratchasima
+THA,Thailand,THA.2402879,Nakhon Sawan
+THA,Thailand,THA.2402880,Nakhon Si Thammarat
+THA,Thailand,THA.2402881,Nan
+THA,Thailand,THA.2402882,Narathiwat
+THA,Thailand,THA.2402883,Nong Bua Lamphu
+THA,Thailand,THA.2402884,Nong Khai
+THA,Thailand,THA.2402885,Nonthaburi
+THA,Thailand,THA.2402886,Pathum Thani
+THA,Thailand,THA.2402887,Pattani
+THA,Thailand,THA.2402888,Phachinburi
+THA,Thailand,THA.2402889,Phangnga
+THA,Thailand,THA.2402890,Phatthalung
+THA,Thailand,THA.2402891,Phayao
+THA,Thailand,THA.2402892,Phetchabun
+THA,Thailand,THA.2402893,Phetchaburi
+THA,Thailand,THA.2402894,Phichit
+THA,Thailand,THA.2402895,Phitsanulok
+THA,Thailand,THA.2402896,Phra Nakhon Si Ayudhya
+THA,Thailand,THA.2402897,Phrae
+THA,Thailand,THA.2402898,Phuket
+THA,Thailand,THA.2402899,Prachuap Khilikhan
+THA,Thailand,THA.2402900,Ranong
+THA,Thailand,THA.2402901,Ratchaburi
+THA,Thailand,THA.2402902,Rayong
+THA,Thailand,THA.2402903,Roi Et
+THA,Thailand,THA.2402904,Sa Kaeo
+THA,Thailand,THA.2402905,Sakon Nakhon
+THA,Thailand,THA.2402906,Samut Prakarn
+THA,Thailand,THA.2402907,Samut Sakhon
+THA,Thailand,THA.2402908,Samut Songkham
+THA,Thailand,THA.2402909,Saraburi
+THA,Thailand,THA.2402910,Satun
+THA,Thailand,THA.2402911,Si Saket
+THA,Thailand,THA.2402912,Singburi
+THA,Thailand,THA.2402913,Songkhla
+THA,Thailand,THA.2402914,Sukhothai
+THA,Thailand,THA.2402915,Suphanburi
+THA,Thailand,THA.2402916,Surat Thani
+THA,Thailand,THA.2402917,Surin
+THA,Thailand,THA.2402918,Tak
+THA,Thailand,THA.2402919,Trad
+THA,Thailand,THA.2402920,Trang
+THA,Thailand,THA.2402921,Ubon Ratchathani
+THA,Thailand,THA.2402922,Udon Thani
+THA,Thailand,THA.2402923,Uthai Thani
+THA,Thailand,THA.2402924,Uttaradit
+THA,Thailand,THA.2402925,Yala
+THA,Thailand,THA.2402926,Yasothon
+TJK,Tajikistan,TJK.2391,Badakhshan Autonomous Mountainous Region
+TJK,Tajikistan,TJK.2392,Cities and districts of the republican subordination
+TJK,Tajikistan,TJK.2393,Dushanbe
+TJK,Tajikistan,TJK.2394,Khatlon Province
+TJK,Tajikistan,TJK.2395,Sughd Province
+TKM,Turkmenistan,TKM.250147323,Ahal
+TKM,Turkmenistan,TKM.250147322,Balkan
+TKM,Turkmenistan,TKM.2503097,Chardzhou
+TKM,Turkmenistan,TKM.2503099,Mary
+TKM,Turkmenistan,TKM.2503100,Tashauz
+TLS,Timor-Leste,TLS.2422957,Aileu
+TLS,Timor-Leste,TLS.2422958,Ainaro
+TLS,Timor-Leste,TLS.2422959,Baucau
+TLS,Timor-Leste,TLS.2422960,Bobonaro
+TLS,Timor-Leste,TLS.2422961,Covalima
+TLS,Timor-Leste,TLS.2422962,Dili
+TLS,Timor-Leste,TLS.2422963,Ermera
+TLS,Timor-Leste,TLS.2422964,Lautem
+TLS,Timor-Leste,TLS.2422965,Liquica
+TLS,Timor-Leste,TLS.2422966,Manatuto
+TLS,Timor-Leste,TLS.2422967,Manufahi
+TLS,Timor-Leste,TLS.2422968,Oecussi
+TLS,Timor-Leste,TLS.2422969,Viqueque
+TON,Tonga,TON.2452976,Administrative unit not available
+TTO,Trinidad and Tobago,TTO.2462977,Arima
+TTO,Trinidad and Tobago,TTO.2462978,Chaguanas
+TTO,Trinidad and Tobago,TTO.2462979,Couva/Tabaquite/Talparo
+TTO,Trinidad and Tobago,TTO.2462980,Diego Martin
+TTO,Trinidad and Tobago,TTO.2462981,Penal/Debe
+TTO,Trinidad and Tobago,TTO.2462982,Point Fortin
+TTO,Trinidad and Tobago,TTO.2462983,Port Of Spain
+TTO,Trinidad and Tobago,TTO.2462984,Princes Town
+TTO,Trinidad and Tobago,TTO.2462985,Rio Claro/Mayaro
+TTO,Trinidad and Tobago,TTO.2462986,San Fernando
+TTO,Trinidad and Tobago,TTO.2462987,San Juan/Laventille
+TTO,Trinidad and Tobago,TTO.2462988,Sangre Grande
+TTO,Trinidad and Tobago,TTO.2462989,Siparia
+TTO,Trinidad and Tobago,TTO.2462990,Tobago
+TTO,Trinidad and Tobago,TTO.2462991,Tunapuna/Piarco
+TUN,Tunisia,TUN.2482993,Ariana
+TUN,Tunisia,TUN.2482996,Beja
+TUN,Tunisia,TUN.2482994,Ben Arous
+TUN,Tunisia,TUN.2482995,Bizerte
+TUN,Tunisia,TUN.2482997,Gabes
+TUN,Tunisia,TUN.2482998,Gafsa
+TUN,Tunisia,TUN.2482999,Jendouba
+TUN,Tunisia,TUN.2483000,Kairouan
+TUN,Tunisia,TUN.2483001,Kasserine
+TUN,Tunisia,TUN.2483002,Kebili
+TUN,Tunisia,TUN.2483003,Le Kef
+TUN,Tunisia,TUN.2483004,Mahdia
+TUN,Tunisia,TUN.2483005,Manouba
+TUN,Tunisia,TUN.2483007,Medenine
+TUN,Tunisia,TUN.2483006,Monastir
+TUN,Tunisia,TUN.2483008,Nabeul
+TUN,Tunisia,TUN.2483009,Sfax
+TUN,Tunisia,TUN.2483010,Sidi Bouz
+TUN,Tunisia,TUN.2483011,Siliana
+TUN,Tunisia,TUN.2483012,Sousse
+TUN,Tunisia,TUN.2483013,Tataouine
+TUN,Tunisia,TUN.2483014,Tozeur
+TUN,Tunisia,TUN.2483015,Tunis
+TUN,Tunisia,TUN.2483016,Zaghouan
+TUR,Türkiye,TUR.2493017,Adana
+TUR,Türkiye,TUR.2493018,Adiyaman
+TUR,Türkiye,TUR.2493019,Afyon
+TUR,Türkiye,TUR.2493020,Agri
+TUR,Türkiye,TUR.2493021,Aksaray
+TUR,Türkiye,TUR.2493022,Amasya
+TUR,Türkiye,TUR.2493023,Ankara
+TUR,Türkiye,TUR.2493024,Antalya
+TUR,Türkiye,TUR.2493025,Ardahan
+TUR,Türkiye,TUR.2493026,Artvin
+TUR,Türkiye,TUR.2493027,Aydin
+TUR,Türkiye,TUR.2493028,Balikesir
+TUR,Türkiye,TUR.2493029,Bartin
+TUR,Türkiye,TUR.2493030,Batman
+TUR,Türkiye,TUR.2493031,Bayburt
+TUR,Türkiye,TUR.2493032,Bilecik
+TUR,Türkiye,TUR.2493033,Bingol
+TUR,Türkiye,TUR.2493034,Bitlis
+TUR,Türkiye,TUR.2493035,Bolu
+TUR,Türkiye,TUR.2493036,Burdur
+TUR,Türkiye,TUR.2493037,Bursa
+TUR,Türkiye,TUR.2493038,Canakkale
+TUR,Türkiye,TUR.2493039,Cankiri
+TUR,Türkiye,TUR.2493040,Corum
+TUR,Türkiye,TUR.2493041,Denizli
+TUR,Türkiye,TUR.2493042,Diyarbakir
+TUR,Türkiye,TUR.2493043,Edirne
+TUR,Türkiye,TUR.2493044,Elazig
+TUR,Türkiye,TUR.2493045,Erzincan
+TUR,Türkiye,TUR.2493046,Erzurum
+TUR,Türkiye,TUR.2493047,Eskisehir
+TUR,Türkiye,TUR.2493048,Gaziantep
+TUR,Türkiye,TUR.2493049,Giresun
+TUR,Türkiye,TUR.2493050,Gumushane
+TUR,Türkiye,TUR.2493051,Hakkari
+TUR,Türkiye,TUR.2493052,Hatay
+TUR,Türkiye,TUR.2493053,Icel
+TUR,Türkiye,TUR.2493054,Igdir
+TUR,Türkiye,TUR.2493055,Isparta
+TUR,Türkiye,TUR.2493056,Istanbul
+TUR,Türkiye,TUR.2493057,Izmir
+TUR,Türkiye,TUR.2493058,K.maras
+TUR,Türkiye,TUR.2493059,Karabuk
+TUR,Türkiye,TUR.2493060,Karaman
+TUR,Türkiye,TUR.2493061,Kars
+TUR,Türkiye,TUR.2493062,Kastamonu
+TUR,Türkiye,TUR.2493063,Kayseri
+TUR,Türkiye,TUR.2493064,Kilis
+TUR,Türkiye,TUR.2493065,Kirikkale
+TUR,Türkiye,TUR.2493066,Kirklareli
+TUR,Türkiye,TUR.2493067,Kirsehir
+TUR,Türkiye,TUR.2493068,Kocaeli
+TUR,Türkiye,TUR.2493069,Konya
+TUR,Türkiye,TUR.2493070,Kutahya
+TUR,Türkiye,TUR.2493071,Malatya
+TUR,Türkiye,TUR.2493072,Manisa
+TUR,Türkiye,TUR.2493073,Mardin
+TUR,Türkiye,TUR.2493074,Mugla
+TUR,Türkiye,TUR.2493075,Mus
+TUR,Türkiye,TUR.2493076,Nevsehir
+TUR,Türkiye,TUR.2493077,Nigde
+TUR,Türkiye,TUR.2493078,Ordu
+TUR,Türkiye,TUR.2493079,Osmaniye
+TUR,Türkiye,TUR.2493080,Rize
+TUR,Türkiye,TUR.2493081,Sakarya
+TUR,Türkiye,TUR.2493082,Samsun
+TUR,Türkiye,TUR.2493083,Sanliurfa
+TUR,Türkiye,TUR.2493084,Siirt
+TUR,Türkiye,TUR.2493085,Sinop
+TUR,Türkiye,TUR.2493086,Sirnak
+TUR,Türkiye,TUR.2493087,Sivas
+TUR,Türkiye,TUR.2493088,Tekirdag
+TUR,Türkiye,TUR.2493089,Tokat
+TUR,Türkiye,TUR.2493090,Trabzon
+TUR,Türkiye,TUR.2493091,Tunceli
+TUR,Türkiye,TUR.2493092,Usak
+TUR,Türkiye,TUR.2493093,Van
+TUR,Türkiye,TUR.2493094,Yalova
+TUR,Türkiye,TUR.2493095,Yozgat
+TUR,Türkiye,TUR.2493096,Zonguldak
+TUV,Tuvalu,TUV.2523103,Administrative unit not available
+TZA,Tanzania,TZA.25748357,Arusha
+TZA,Tanzania,TZA.25748358,Dar-es-salaam
+TZA,Tanzania,TZA.25748359,Dodoma
+TZA,Tanzania,TZA.257115002,Geita
+TZA,Tanzania,TZA.257115003,Iringa
+TZA,Tanzania,TZA.257115004,Kagera
+TZA,Tanzania,TZA.25748371,Kaskazini Pemba
+TZA,Tanzania,TZA.25748372,Kaskazini Unguja
+TZA,Tanzania,TZA.257115005,Katavi
+TZA,Tanzania,TZA.25748362,Kigoma
+TZA,Tanzania,TZA.25748363,Kilimanjaro
+TZA,Tanzania,TZA.25748378,Kusini Pemba
+TZA,Tanzania,TZA.25748379,Kusini Unguja
+TZA,Tanzania,TZA.25748364,Lindi
+TZA,Tanzania,TZA.25748365,Manyara
+TZA,Tanzania,TZA.25748366,Mara
+TZA,Tanzania,TZA.25748367,Mbeya
+TZA,Tanzania,TZA.25748382,Mjini Magharibi
+TZA,Tanzania,TZA.25748368,Morogoro
+TZA,Tanzania,TZA.25748369,Mtwara
+TZA,Tanzania,TZA.257115006,Mwanza
+TZA,Tanzania,TZA.257115007,Njombe
+TZA,Tanzania,TZA.25748373,Pwani
+TZA,Tanzania,TZA.257115008,Rukwa
+TZA,Tanzania,TZA.25748375,Ruvuma
+TZA,Tanzania,TZA.257115009,Shinyanga
+TZA,Tanzania,TZA.257115010,Simiyu
+TZA,Tanzania,TZA.25748377,Singida
+TZA,Tanzania,TZA.25748380,Tabora
+TZA,Tanzania,TZA.25748381,Tanga
+UGA,Uganda,UGA.253743,Abim
+UGA,Uganda,UGA.2533104,Adjumani
+UGA,Uganda,UGA.253790,Agago
+UGA,Uganda,UGA.253852,Alebtong
+UGA,Uganda,UGA.25347067,Amolatar
+UGA,Uganda,UGA.253744,Amudat
+UGA,Uganda,UGA.25347068,Amuria
+UGA,Uganda,UGA.253745,Amuru
+UGA,Uganda,UGA.253746,Apac
+UGA,Uganda,UGA.2531057,Arua
+UGA,Uganda,UGA.253747,Budaka
+UGA,Uganda,UGA.2531080,Bududa
+UGA,Uganda,UGA.253748,Bugiri
+UGA,Uganda,UGA.253778,Buhweju
+UGA,Uganda,UGA.253749,Buikwe
+UGA,Uganda,UGA.253788,Bukedea
+UGA,Uganda,UGA.253750,Bukomansimbi
+UGA,Uganda,UGA.253751,Bukwo
+UGA,Uganda,UGA.253752,Bulambuli
+UGA,Uganda,UGA.253753,Buliisa
+UGA,Uganda,UGA.253754,Bundibugyo
+UGA,Uganda,UGA.253755,Bushenyi
+UGA,Uganda,UGA.2533110,Busia
+UGA,Uganda,UGA.25347071,Butaleja
+UGA,Uganda,UGA.253757,Butambala
+UGA,Uganda,UGA.2531082,Buvuma
+UGA,Uganda,UGA.253756,Buyende
+UGA,Uganda,UGA.253789,Dokolo
+UGA,Uganda,UGA.2531086,Gomba
+UGA,Uganda,UGA.2531089,Gulu
+UGA,Uganda,UGA.2533112,Hoima
+UGA,Uganda,UGA.25347072,Ibanda
+UGA,Uganda,UGA.253758,Iganga
+UGA,Uganda,UGA.25347073,Isingiro
+UGA,Uganda,UGA.2533114,Jinja
+UGA,Uganda,UGA.25347074,Kaabong
+UGA,Uganda,UGA.2533115,Kabale
+UGA,Uganda,UGA.25342180,Kabarole
+UGA,Uganda,UGA.25342181,Kaberamaido
+UGA,Uganda,UGA.2533117,Kalangala
+UGA,Uganda,UGA.25347075,Kaliro
+UGA,Uganda,UGA.253759,Kalungu
+UGA,Uganda,UGA.25342182,Kampala
+UGA,Uganda,UGA.253760,Kamuli
+UGA,Uganda,UGA.25342183,Kamwenge
+UGA,Uganda,UGA.25342184,Kanungu
+UGA,Uganda,UGA.253761,Kapchorwa
+UGA,Uganda,UGA.2533121,Kasese
+UGA,Uganda,UGA.25347078,Katakwi
+UGA,Uganda,UGA.25342185,Kayunga
+UGA,Uganda,UGA.2533123,Kibaale
+UGA,Uganda,UGA.2531235,Kibuku
+UGA,Uganda,UGA.25347079,Kiruhura
+UGA,Uganda,UGA.2531241,Kiryandongo
+UGA,Uganda,UGA.2533125,Kisoro
+UGA,Uganda,UGA.253763,Kitgum
+UGA,Uganda,UGA.25347080,Koboko
+UGA,Uganda,UGA.253764,Kole
+UGA,Uganda,UGA.253765,Kotido
+UGA,Uganda,UGA.2531261,Kumi
+UGA,Uganda,UGA.253766,Kween
+UGA,Uganda,UGA.2531344,Kyankwanzi
+UGA,Uganda,UGA.2531361,Kyegegwa
+UGA,Uganda,UGA.2531362,Kyenjojo
+UGA,Uganda,UGA.253767,Lamwo
+UGA,Uganda,UGA.2531370,Lira
+UGA,Uganda,UGA.253768,Luuka
+UGA,Uganda,UGA.25347083,Luwero
+UGA,Uganda,UGA.2531366,Lwengo
+UGA,Uganda,UGA.2531372,Lyantonde
+UGA,Uganda,UGA.253769,Manafwa
+UGA,Uganda,UGA.253780,Maracha
+UGA,Uganda,UGA.253770,Masaka
+UGA,Uganda,UGA.253771,Masindi
+UGA,Uganda,UGA.25342189,Mayuge
+UGA,Uganda,UGA.25347085,Mbale
+UGA,Uganda,UGA.25347086,Mbarara
+UGA,Uganda,UGA.2531360,Mitooma
+UGA,Uganda,UGA.25347087,Mityana
+UGA,Uganda,UGA.253772,Moroto
+UGA,Uganda,UGA.2533136,Moyo
+UGA,Uganda,UGA.2531363,Mpigi
+UGA,Uganda,UGA.25347088,Mubende
+UGA,Uganda,UGA.2531367,Mukono
+UGA,Uganda,UGA.253773,Nakapiripirit
+UGA,Uganda,UGA.25347089,Nakaseke
+UGA,Uganda,UGA.25342195,Nakasongola
+UGA,Uganda,UGA.2531368,Namayingo
+UGA,Uganda,UGA.253774,Namutumba
+UGA,Uganda,UGA.253775,Napak
+UGA,Uganda,UGA.253776,Nebbi
+UGA,Uganda,UGA.253777,Ngora
+UGA,Uganda,UGA.253779,Ntoroko
+UGA,Uganda,UGA.2533141,Ntungamo
+UGA,Uganda,UGA.2531364,Nwoya
+UGA,Uganda,UGA.253781,Otuke
+UGA,Uganda,UGA.253782,Oyam
+UGA,Uganda,UGA.253783,Pader
+UGA,Uganda,UGA.2531369,Pallisa
+UGA,Uganda,UGA.2531371,Rakai
+UGA,Uganda,UGA.253784,Rubirizi
+UGA,Uganda,UGA.25342197,Rukungiri
+UGA,Uganda,UGA.2531365,Serere
+UGA,Uganda,UGA.253762,Sheema
+UGA,Uganda,UGA.253785,Sironko
+UGA,Uganda,UGA.253786,Soroti
+UGA,Uganda,UGA.2533145,Ssembabule
+UGA,Uganda,UGA.25347090,Tororo
+UGA,Uganda,UGA.25342200,Wakiso
+UGA,Uganda,UGA.25342201,Yumbe
+UGA,Uganda,UGA.253787,Zombo
+UKR,Ukraine,UKR.2543148,Cherkas'ka
+UKR,Ukraine,UKR.2543149,Chernihivs'ka
+UKR,Ukraine,UKR.2543150,Chernivets'ka
+UKR,Ukraine,UKR.2543151,Dnipropetrovs'ka
+UKR,Ukraine,UKR.2543152,Donets'ka
+UKR,Ukraine,UKR.2543153,Ivano-frankivs'ka
+UKR,Ukraine,UKR.2543154,Kharkivs'ka
+UKR,Ukraine,UKR.2543155,Khersons'ka
+UKR,Ukraine,UKR.2543156,Khmel'nyts'ka
+UKR,Ukraine,UKR.2543157,Kirovohrads'ka
+UKR,Ukraine,UKR.2543159,Kyyivs'ka
+UKR,Ukraine,UKR.2543160,L'vivs'ka
+UKR,Ukraine,UKR.2543161,Luhans'ka
+UKR,Ukraine,UKR.2543162,Mykolayivs'ka
+UKR,Ukraine,UKR.2543163,Odes'ka
+UKR,Ukraine,UKR.2543164,Poltavs'ka
+UKR,Ukraine,UKR.2543165,Rivnens'ka
+UKR,Ukraine,UKR.2543166,Sums'ka
+UKR,Ukraine,UKR.2543167,Ternopil's'ka
+UKR,Ukraine,UKR.2543168,Vinnyts'ka
+UKR,Ukraine,UKR.2543169,Volyns'ka
+UKR,Ukraine,UKR.2543170,Zakarpats'ka
+UKR,Ukraine,UKR.2543171,Zaporiz'ka
+UKR,Ukraine,UKR.2543172,Zhytomyrs'ka
+UKR,Ukraine,UKR.254011,Crimea
+URY,Uruguay,URY.2603265,Artigas
+URY,Uruguay,URY.2603266,Canelones
+URY,Uruguay,URY.2603267,Cerro Largo
+URY,Uruguay,URY.2603268,Colonia
+URY,Uruguay,URY.2603269,Durazno
+URY,Uruguay,URY.2603270,Flores
+URY,Uruguay,URY.2603271,Florida
+URY,Uruguay,URY.2603272,Lavalleja
+URY,Uruguay,URY.2603273,Maldonado
+URY,Uruguay,URY.2603274,Montevideo
+URY,Uruguay,URY.2603275,Paysandu
+URY,Uruguay,URY.2603276,Rio Negro
+URY,Uruguay,URY.2603277,Rivera
+URY,Uruguay,URY.2603278,Rocha
+URY,Uruguay,URY.2603279,Salto
+URY,Uruguay,URY.2603280,San Jose
+URY,Uruguay,URY.2603281,Soriano
+URY,Uruguay,URY.2603282,Tacuarembo
+URY,Uruguay,URY.2603283,Treinta Y Tres
+ASM,American Samoa (U.S.),ASM.5389,Administrative unit not available
+UMI,U.S. Minor Outlying Islands,UMI.22574,Baker Island (U.S.)
+UMI,U.S. Minor Outlying Islands,UMI.1121439,Howland Island (U.S.)
+UMI,U.S. Minor Outlying Islands,UMI.1271698,Jarvis Island (U.S.)
+UMI,U.S. Minor Outlying Islands,UMI.1291700,Johnston Atoll (U.S.)
+UMI,U.S. Minor Outlying Islands,UMI.1341738,Kingman Reef (U.S.)
+UMI,U.S. Minor Outlying Islands,UMI.1642061,Midway Island (U.S.)
+UMI,U.S. Minor Outlying Islands,UMI.1902279,Palmyra Atoll (U.S.)
+UMI,U.S. Minor Outlying Islands,UMI.2653391,Wake Island (U.S.)
+GUM,Guam (U.S.),GUM.1011359,Administrative unit not available
+MNP,Northern Mariana Islands (U.S.),MNP.1852243,Administrative unit not available
+PRI,Puerto Rico (U.S.),PRI.2002414,Aguadilla
+PRI,Puerto Rico (U.S.),PRI.2002415,Arecibo
+PRI,Puerto Rico (U.S.),PRI.2002416,Bayamon
+PRI,Puerto Rico (U.S.),PRI.2002417,Guayama
+PRI,Puerto Rico (U.S.),PRI.2002418,Humacao
+PRI,Puerto Rico (U.S.),PRI.2002419,Mayaguez
+PRI,Puerto Rico (U.S.),PRI.2002420,Ponce
+PRI,Puerto Rico (U.S.),PRI.2002421,San Juan
+VIR,United States Virgin Islands (U.S.),VIR.25839508,Saint Croix (County Equivalent)
+VIR,United States Virgin Islands (U.S.),VIR.25839509,Saint John (County Equivalent)
+VIR,United States Virgin Islands (U.S.),VIR.25839510,Saint Thomas (County Equivalent)
+USA,United States of America,USA.2593214,Alabama
+USA,United States of America,USA.2593215,Alaska
+USA,United States of America,USA.2593216,Arizona
+USA,United States of America,USA.2593217,Arkansas
+USA,United States of America,USA.2593218,California
+USA,United States of America,USA.2593219,Colorado
+USA,United States of America,USA.2593220,Connecticut
+USA,United States of America,USA.2593221,Delaware
+USA,United States of America,USA.2593222,District of Columbia
+USA,United States of America,USA.2593223,Florida
+USA,United States of America,USA.2593224,Georgia
+USA,United States of America,USA.2593225,Hawaii
+USA,United States of America,USA.2593226,Idaho
+USA,United States of America,USA.2593227,Illinois
+USA,United States of America,USA.2593228,Indiana
+USA,United States of America,USA.2593229,Iowa
+USA,United States of America,USA.2593230,Kansas
+USA,United States of America,USA.2593231,Kentucky
+USA,United States of America,USA.2593232,Louisiana
+USA,United States of America,USA.2593233,Maine
+USA,United States of America,USA.2593234,Maryland
+USA,United States of America,USA.2593235,Massachusetts
+USA,United States of America,USA.2593236,Michigan
+USA,United States of America,USA.2593237,Minnesota
+USA,United States of America,USA.2593238,Mississippi
+USA,United States of America,USA.2593239,Missouri
+USA,United States of America,USA.2593240,Montana
+USA,United States of America,USA.2593241,Nebraska
+USA,United States of America,USA.2593242,Nevada
+USA,United States of America,USA.2593243,New Hampshire
+USA,United States of America,USA.2593244,New Jersey
+USA,United States of America,USA.2593245,New Mexico
+USA,United States of America,USA.2593246,New York
+USA,United States of America,USA.2593247,North Carolina
+USA,United States of America,USA.2593248,North Dakota
+USA,United States of America,USA.2593249,Ohio
+USA,United States of America,USA.2593250,Oklahoma
+USA,United States of America,USA.2593251,Oregon
+USA,United States of America,USA.2593252,Pennsylvania
+USA,United States of America,USA.2593253,Rhode Island
+USA,United States of America,USA.2593254,South Carolina
+USA,United States of America,USA.2593255,South Dakota
+USA,United States of America,USA.2593256,Tennessee
+USA,United States of America,USA.2593257,Texas
+USA,United States of America,USA.2593258,Utah
+USA,United States of America,USA.2593259,Vermont
+USA,United States of America,USA.2593260,Virginia
+USA,United States of America,USA.2593261,Washington
+USA,United States of America,USA.2593262,West Virginia
+USA,United States of America,USA.2593263,Wisconsin
+USA,United States of America,USA.2593264,Wyoming
+UZB,Uzbekistan,UZB.2613284,Andijan
+UZB,Uzbekistan,UZB.2613285,Bukhara
+UZB,Uzbekistan,UZB.2613286,Fergana
+UZB,Uzbekistan,UZB.26139696,Jizzakh
+UZB,Uzbekistan,UZB.2613287,Karakalpakstan
+UZB,Uzbekistan,UZB.2613288,Kashkadarya
+UZB,Uzbekistan,UZB.2613289,Khorezm
+UZB,Uzbekistan,UZB.2613291,Namangan
+UZB,Uzbekistan,UZB.26139697,Navoiy
+UZB,Uzbekistan,UZB.2613292,Samarkand
+UZB,Uzbekistan,UZB.2613294,Sirdarya
+UZB,Uzbekistan,UZB.2613293,Surkhandarya
+UZB,Uzbekistan,UZB.2613295,Tashkent
+UZB,Uzbekistan,UZB.26139698,Tashkent city
+VAT,Vatican City,VAT.1101419,Administrative unit not available
+VCT,Saint Vincent and the Grenadines,VCT.21161286,Charlotte
+VCT,Saint Vincent and the Grenadines,VCT.21161285,Grenadines
+VCT,Saint Vincent and the Grenadines,VCT.21161287,Saint Andrew
+VCT,Saint Vincent and the Grenadines,VCT.21161288,Saint David
+VCT,Saint Vincent and the Grenadines,VCT.21161289,Saint George
+VCT,Saint Vincent and the Grenadines,VCT.21161290,Saint Patrick
+VEN,R. B. de Venezuela,VEN.2633302,Amazonas
+VEN,R. B. de Venezuela,VEN.2633303,Anzoategui
+VEN,R. B. de Venezuela,VEN.2633304,Apure
+VEN,R. B. de Venezuela,VEN.2633305,Aragua
+VEN,R. B. de Venezuela,VEN.2633306,Barinas
+VEN,R. B. de Venezuela,VEN.2633307,Bolivar
+VEN,R. B. de Venezuela,VEN.2633308,Carabobo
+VEN,R. B. de Venezuela,VEN.2633309,Cojedes
+VEN,R. B. de Venezuela,VEN.2633310,Delta Amacuro
+VEN,R. B. de Venezuela,VEN.2633311,Dependencias Federales
+VEN,R. B. de Venezuela,VEN.26367153,Distrito Capital
+VEN,R. B. de Venezuela,VEN.2633313,Falcon
+VEN,R. B. de Venezuela,VEN.2633314,Guarico
+VEN,R. B. de Venezuela,VEN.2633315,Lara
+VEN,R. B. de Venezuela,VEN.2633316,Merida
+VEN,R. B. de Venezuela,VEN.2633317,Miranda
+VEN,R. B. de Venezuela,VEN.2633318,Monagas
+VEN,R. B. de Venezuela,VEN.2633319,Nueva Esparta
+VEN,R. B. de Venezuela,VEN.2633320,Portuguesa
+VEN,R. B. de Venezuela,VEN.2633321,Sucre
+VEN,R. B. de Venezuela,VEN.2633322,Tachira
+VEN,R. B. de Venezuela,VEN.2633323,Trujillo
+VEN,R. B. de Venezuela,VEN.26367152,Vargas
+VEN,R. B. de Venezuela,VEN.2633324,Yaracuy
+VEN,R. B. de Venezuela,VEN.2633325,Zulia
+VNM,Vietnam,VNM.2641,An Giang
+VNM,Vietnam,VNM.2642,Ba Ria-Vung Tau
+VNM,Vietnam,VNM.2643,Bac Can
+VNM,Vietnam,VNM.2644,Bac Giang
+VNM,Vietnam,VNM.2645,Bac Lieu
+VNM,Vietnam,VNM.2646,Bac Ninh
+VNM,Vietnam,VNM.2647,Ben Tre
+VNM,Vietnam,VNM.2648,Binh Dinh
+VNM,Vietnam,VNM.2649,Binh Duong
+VNM,Vietnam,VNM.26410,Binh Phuoc
+VNM,Vietnam,VNM.26411,Binh Thuan
+VNM,Vietnam,VNM.26412,Ca Mau
+VNM,Vietnam,VNM.26413,Can Tho
+VNM,Vietnam,VNM.26414,Cao Bang
+VNM,Vietnam,VNM.26415,Da Nang
+VNM,Vietnam,VNM.26416,Dac Lac
+VNM,Vietnam,VNM.26417,Dac Nong
+VNM,Vietnam,VNM.26418,Dien Bien
+VNM,Vietnam,VNM.26419,Dong Nai
+VNM,Vietnam,VNM.26420,Dong Thap
+VNM,Vietnam,VNM.26421,Gia Lai
+VNM,Vietnam,VNM.26422,Ha Giang
+VNM,Vietnam,VNM.26423,Ha Nam
+VNM,Vietnam,VNM.26424,Ha Tinh
+VNM,Vietnam,VNM.26425,Hai Duong
+VNM,Vietnam,VNM.26426,Haiphong
+VNM,Vietnam,VNM.26427,Hanoi
+VNM,Vietnam,VNM.26428,Hau Giang
+VNM,Vietnam,VNM.26429,Ho Chi Minh
+VNM,Vietnam,VNM.26430,Hoa Binh
+VNM,Vietnam,VNM.26431,Hung Yen
+VNM,Vietnam,VNM.26432,Khanh Hoa
+VNM,Vietnam,VNM.26433,Kien Giang
+VNM,Vietnam,VNM.26434,Kon Tum
+VNM,Vietnam,VNM.26435,Lai Chau
+VNM,Vietnam,VNM.26436,Lam Dong
+VNM,Vietnam,VNM.26437,Lang Son
+VNM,Vietnam,VNM.26438,Lao Cai
+VNM,Vietnam,VNM.26439,Long An
+VNM,Vietnam,VNM.26440,Nam Dinh
+VNM,Vietnam,VNM.26441,Nghe An
+VNM,Vietnam,VNM.26442,Ninh Binh
+VNM,Vietnam,VNM.26443,Ninh Thuan
+VNM,Vietnam,VNM.26444,Phu Tho
+VNM,Vietnam,VNM.26445,Phu Yen
+VNM,Vietnam,VNM.26446,Quang Binh
+VNM,Vietnam,VNM.26447,Quang Nam
+VNM,Vietnam,VNM.26448,Quang Ngai
+VNM,Vietnam,VNM.26449,Quang Ninh
+VNM,Vietnam,VNM.26450,Quang Tri
+VNM,Vietnam,VNM.26451,Soc Trang
+VNM,Vietnam,VNM.26452,Son La
+VNM,Vietnam,VNM.26453,Tay Ninh
+VNM,Vietnam,VNM.26454,Thai Binh
+VNM,Vietnam,VNM.26455,Thai Nguyen
+VNM,Vietnam,VNM.26456,Thanh Hoa
+VNM,Vietnam,VNM.26457,Thua Thien-Hue
+VNM,Vietnam,VNM.26458,Tien Giang
+VNM,Vietnam,VNM.26459,Tra Vinh
+VNM,Vietnam,VNM.26460,Tuyen Quang
+VNM,Vietnam,VNM.26461,Vinh Long
+VNM,Vietnam,VNM.26462,Vinh Phuc
+VNM,Vietnam,VNM.26463,Yen Bai
+VUT,Vanuatu,VUT.2623296,Malampa
+VUT,Vanuatu,VUT.2623297,Penama
+VUT,Vanuatu,VUT.2623298,Sanma
+VUT,Vanuatu,VUT.2623299,Shefa
+VUT,Vanuatu,VUT.2623300,Tafea
+VUT,Vanuatu,VUT.2623301,Torba
+WSM,Samoa,WSM.2122618,Administrative unit not available
+YEM,Republic of Yemen,YEM.2691,`Adan
+YEM,Republic of Yemen,YEM.2692,Abyan
+YEM,Republic of Yemen,YEM.2693,Al Bayda'
+YEM,Republic of Yemen,YEM.2694,Al Dali'
+YEM,Republic of Yemen,YEM.2695,Al Hudaydah
+YEM,Republic of Yemen,YEM.2696,Al Jawf
+YEM,Republic of Yemen,YEM.2697,Al Mahrah
+YEM,Republic of Yemen,YEM.2698,Al Mahwit
+YEM,Republic of Yemen,YEM.2699,Amran
+YEM,Republic of Yemen,YEM.26910,Dhamar
+YEM,Republic of Yemen,YEM.26911,Hadramawt
+YEM,Republic of Yemen,YEM.26912,Hajjah
+YEM,Republic of Yemen,YEM.26913,Ibb
+YEM,Republic of Yemen,YEM.26914,Lahij
+YEM,Republic of Yemen,YEM.26915,Ma'rib
+YEM,Republic of Yemen,YEM.26916,Raymah
+YEM,Republic of Yemen,YEM.26917,Sa`dah
+YEM,Republic of Yemen,YEM.26918,San`a'
+YEM,Republic of Yemen,YEM.26919,San`a' [City]
+YEM,Republic of Yemen,YEM.26920,Shabwah
+YEM,Republic of Yemen,YEM.26921,Socotra
+YEM,Republic of Yemen,YEM.26922,Ta`izz
+ZAF,South Africa,ZAF.22777310,Eastern Cape
+ZAF,South Africa,ZAF.2272707,Free State
+ZAF,South Africa,ZAF.2272708,Gauteng
+ZAF,South Africa,ZAF.22777311,KwaZulu-Natal
+ZAF,South Africa,ZAF.22777312,Limpopo
+ZAF,South Africa,ZAF.22777313,Mpumalanga
+ZAF,South Africa,ZAF.22777314,North West
+ZAF,South Africa,ZAF.22777315,Northern Cape
+ZAF,South Africa,ZAF.2272714,Western Cape
+ZMB,Zambia,ZMB.2701,Central
+ZMB,Zambia,ZMB.2702,Copperbelt
+ZMB,Zambia,ZMB.2703,Eastern
+ZMB,Zambia,ZMB.2704,Luapula
+ZMB,Zambia,ZMB.2705,Lusaka
+ZMB,Zambia,ZMB.2706,Muchinga
+ZMB,Zambia,ZMB.2707,North-Western
+ZMB,Zambia,ZMB.2708,Northern
+ZMB,Zambia,ZMB.2709,Southern
+ZMB,Zambia,ZMB.27010,Western
+ZWE,Zimbabwe,ZWE.2713435,Bulawayo
+ZWE,Zimbabwe,ZWE.2713436,Harare
+ZWE,Zimbabwe,ZWE.2713437,Manicaland
+ZWE,Zimbabwe,ZWE.2713438,Mashonaland Central
+ZWE,Zimbabwe,ZWE.27169550,Mashonaland East
+ZWE,Zimbabwe,ZWE.2713440,Mashonaland West
+ZWE,Zimbabwe,ZWE.2713441,Masvingo
+ZWE,Zimbabwe,ZWE.27169549,Matabeleland North
+ZWE,Zimbabwe,ZWE.2713443,Matabeleland South
+ZWE,Zimbabwe,ZWE.2713444,Midlands
+AGO,Angola,AGO.8399,Benguela
+AGO,Angola,AGO.8400,Bié
+AGO,Angola,AGO.8398,Bengo
+AGO,Angola,AGO.8401,Cabinda
+AGO,Angola,AGO.8402,Cuando Cubango
+AGO,Angola,AGO.8407,Cuanza Norte
+AGO,Angola,AGO.8403,Cuanza Sul
+AGO,Angola,AGO.8404,Cunene
+AGO,Angola,AGO.8406,Huíla
+AGO,Angola,AGO.8405,Huambo
+AGO,Angola,AGO.8409,Lunda Norte
+AGO,Angola,AGO.8410,Lunda Sul
+AGO,Angola,AGO.8408,Luanda
+AGO,Angola,AGO.8411,Malanje
+AGO,Angola,AGO.8412,Moxico
+AGO,Angola,AGO.8413,Namibe
+AGO,Angola,AGO.8414,Uíge
+AGO,Angola,AGO.8415,Zaire
+MDA,Moldova,MDA.2721,Regiunea Nord
+MDA,Moldova,MDA.2722,Regiunea Centru
+MDA,Moldova,MDA.2723,Regiunea Sud
+MDA,Moldova,MDA.2724,Unitatea Teritorială Autonomă Găgăuzia
+MDA,Moldova,MDA.2725,Stînga Nistrului
+MDA,Moldova,MDA.2726,Regiunea Chișinău
+MOZ,Mozambique,MOZ.1701,Zambézia
+MOZ,Mozambique,MOZ.1702,Cabo Delgado
+MOZ,Mozambique,MOZ.1703,Nampula
+MOZ,Mozambique,MOZ.1704,Tete
+MOZ,Mozambique,MOZ.1705,Manica
+MOZ,Mozambique,MOZ.1706,Gaza
+MOZ,Mozambique,MOZ.1707,Maputo
+MOZ,Mozambique,MOZ.1708,Sofala
+MOZ,Mozambique,MOZ.1709,Inhambane
+MOZ,Mozambique,MOZ.17010,Niassa
+MOZ,Mozambique,MOZ.17011,Cidade de Maputo
+KHM,Cambodia,KHM.44791,Banteay Meanchey
+KHM,Cambodia,KHM.44792,Battambang
+KHM,Cambodia,KHM.447931,Kampong Cham
+KHM,Cambodia,KHM.44793,Tboung Khmum
+KHM,Cambodia,KHM.44794,Kampong Chhnang
+KHM,Cambodia,KHM.44795,Kampong Speu
+KHM,Cambodia,KHM.44796,Kampong Thom
+KHM,Cambodia,KHM.44797,Kampot
+KHM,Cambodia,KHM.44798,Kandal
+KHM,Cambodia,KHM.44800,Kep
+KHM,Cambodia,KHM.44799,Koh Kong
+KHM,Cambodia,KHM.44802,Preah Sihanouk
+KHM,Cambodia,KHM.44801,Kratie
+KHM,Cambodia,KHM.44803,Mondul Kiri
+KHM,Cambodia,KHM.44804,Otdar Meanchey
+KHM,Cambodia,KHM.44805,Pailin
+KHM,Cambodia,KHM.44806,Phnom Penh
+KHM,Cambodia,KHM.44807,Preah Vihear
+KHM,Cambodia,KHM.44808,Prey Veng
+KHM,Cambodia,KHM.44809,Pursat
+KHM,Cambodia,KHM.44810,Ratanak Kiri
+KHM,Cambodia,KHM.44811,Siem Reap
+KHM,Cambodia,KHM.44812,Stung Treng
+KHM,Cambodia,KHM.44813,Svay Rieng
+KHM,Cambodia,KHM.44814,Takeo
+SLE,Sierra Leone,SLE.2212654,Eastern
+SLE,Sierra Leone,SLE.22126551,North West
+SLE,Sierra Leone,SLE.2212655,Northern
+SLE,Sierra Leone,SLE.2212656,Southern
+SLE,Sierra Leone,SLE.2212657,Western Area
+LBN,Lebanon,LBN.1411798,Beirut
+LBN,Lebanon,LBN.1411797,Baalbek-Hermel
+LBN,Lebanon,LBN.14117971,Bekaa
+LBN,Lebanon,LBN.1411801,Mount Lebanon
+LBN,Lebanon,LBN.1411802,Nabatiye
+LBN,Lebanon,LBN.1411799,Akkar
+LBN,Lebanon,LBN.14117991,North
+LBN,Lebanon,LBN.1411800,South
+COL,Colombia,COL.57939,Boyacá
+COL,Colombia,COL.57948,Cundinamarca
+COL,Colombia,COL.57947,Córdoba
+COL,Colombia,COL.57962,Sucre
+COL,Colombia,COL.57963,Tolima
+COL,Colombia,COL.57936,Arauca
+COL,Colombia,COL.57955,Nariño
+COL,Colombia,COL.57954,Meta
+COL,Colombia,COL.57937,Atlántico
+COL,Colombia,COL.57950,La Guajira
+COL,Colombia,COL.57945,Cesar
+COL,Colombia,COL.57943,Casanare
+COL,Colombia,COL.57941,Caldas
+COL,Colombia,COL.57949,Guainía
+COL,Colombia,COL.57938,Bolívar
+COL,Colombia,COL.57952,Huila
+COL,Colombia,COL.57953,Magdalena
+COL,Colombia,COL.57944,Cauca
+COL,Colombia,COL.57959,Risaralda
+COL,Colombia,COL.57935,Antioquia
+COL,Colombia,COL.57956,Norte de Santander
+COL,Colombia,COL.57961,Santander
+COL,Colombia,COL.57964,Valle del Cauca
+COL,Colombia,COL.57946,Chocó
+COL,Colombia,COL.57965,Vaupés
+COL,Colombia,COL.57934,Amazonas
+COL,Colombia,COL.57942,Caquetá
+COL,Colombia,COL.57958,Quindio
+COL,Colombia,COL.579481,"Bogotá, D.C."
+COL,Colombia,COL.57951,Guaviare
+COL,Colombia,COL.57957,Putumayo
+COL,Colombia,COL.57966,Vichada
+COL,Colombia,COL.57960,"Archipiélago de San Andrés, Providencia y Santa Catalina"
+GHA,Ghana,GHA.941326,Central
+GHA,Ghana,GHA.941,North East
+GHA,Ghana,GHA.941328,Greater Accra
+GHA,Ghana,GHA.941331,Upper West
+GHA,Ghana,GHA.941330,Upper East
+GHA,Ghana,GHA.942,Savannah
+GHA,Ghana,GHA.941325,Brong Ahafo
+GHA,Ghana,GHA.943,Ahafo
+GHA,Ghana,GHA.944,Bono East
+GHA,Ghana,GHA.941332,Volta
+GHA,Ghana,GHA.945,Oti
+GHA,Ghana,GHA.941324,Ashanti
+GHA,Ghana,GHA.941333,Western
+GHA,Ghana,GHA.946,Western North
+GHA,Ghana,GHA.941327,Eastern
+GHA,Ghana,GHA.941329,Northern
+ETH,Ethiopia,ETH.791,Addis Ababa
+ETH,Ethiopia,ETH.792,Afar
+ETH,Ethiopia,ETH.793,Amhara
+ETH,Ethiopia,ETH.794,Benishangul Gumz
+ETH,Ethiopia,ETH.795,Dire Dawa
+ETH,Ethiopia,ETH.796,Gambela
+ETH,Ethiopia,ETH.797,Harari
+ETH,Ethiopia,ETH.798,Oromia
+ETH,Ethiopia,ETH.799,Sidama
+ETH,Ethiopia,ETH.7910,SNNP
+ETH,Ethiopia,ETH.7911,Somali
+ETH,Ethiopia,ETH.7912,Tigray
+HTI,Haiti,HTI.1081,Artibonite
+HTI,Haiti,HTI.1082,Centre
+HTI,Haiti,HTI.1083,Grande'Anse
+HTI,Haiti,HTI.1084,Nippes
+HTI,Haiti,HTI.1085,North
+HTI,Haiti,HTI.1086,North-East
+HTI,Haiti,HTI.1087,North-West
+HTI,Haiti,HTI.1088,South
+HTI,Haiti,HTI.1089,South-East
+HTI,Haiti,HTI.10810,West
+IRQ,Iraq,IRQ.1181,Erbil
+IRQ,Iraq,IRQ.1182,Al-Anbar
+IRQ,Iraq,IRQ.1183,Al-Basrah
+IRQ,Iraq,IRQ.1184,Al-Sulaymaniyah
+IRQ,Iraq,IRQ.1185,Al-Qadissiya
+IRQ,Iraq,IRQ.1186,Al-Muthanna
+IRQ,Iraq,IRQ.1187,Al-Najaf
+IRQ,Iraq,IRQ.1188,Babil
+IRQ,Iraq,IRQ.1189,Baghdad
+IRQ,Iraq,IRQ.11810,Duhok
+IRQ,Iraq,IRQ.11811,Diyala
+IRQ,Iraq,IRQ.11812,Thi Qar
+IRQ,Iraq,IRQ.11813,Salah Al-Din
+IRQ,Iraq,IRQ.11814,Kerbala
+IRQ,Iraq,IRQ.11815,Kirkuk
+IRQ,Iraq,IRQ.11816,Maysan
+IRQ,Iraq,IRQ.11817,Ninewa
+IRQ,Iraq,IRQ.11818,Wassit
+NER,Niger,NER.1811,Agadez
+NER,Niger,NER.1812,Diffa
+NER,Niger,NER.1813,Dosso
+NER,Niger,NER.1814,Maradi
+NER,Niger,NER.1815,Niamey
+NER,Niger,NER.1816,Tahoua
+NER,Niger,NER.1817,Tillabéri
+NER,Niger,NER.1818,Zinder
+DJI,Djibouti,DJI.701,Obock
+DJI,Djibouti,DJI.702,Tadjourah
+DJI,Djibouti,DJI.703,Dilkhil
+DJI,Djibouti,DJI.704,Djibouti
+DJI,Djibouti,DJI.705,Ali Sabeh
+KEN,Kenya,KEN.1331,Uasin Gishu
+KEN,Kenya,KEN.1332,Kericho
+KEN,Kenya,KEN.1333,Nandi
+KEN,Kenya,KEN.1334,Siaya
+KEN,Kenya,KEN.1335,Migori
+KEN,Kenya,KEN.1336,Nakuru
+KEN,Kenya,KEN.1337,Garissa
+KEN,Kenya,KEN.1338,Mandera
+KEN,Kenya,KEN.1339,Baringo
+KEN,Kenya,KEN.13310,Kisii
+KEN,Kenya,KEN.13311,Bomet
+KEN,Kenya,KEN.13312,Nyamira
+KEN,Kenya,KEN.13313,Busia
+KEN,Kenya,KEN.13314,Bungoma
+KEN,Kenya,KEN.13315,Tana River
+KEN,Kenya,KEN.13316,Kakamega
+KEN,Kenya,KEN.13317,Meru
+KEN,Kenya,KEN.13318,Mombasa
+KEN,Kenya,KEN.13319,Trans Nzoia
+KEN,Kenya,KEN.13320,Nairobi
+KEN,Kenya,KEN.13321,Wajir
+KEN,Kenya,KEN.13322,Vihiga
+KEN,Kenya,KEN.13323,Narok
+KEN,Kenya,KEN.13324,Embu
+KEN,Kenya,KEN.13325,Kilifi
+KEN,Kenya,KEN.13326,Murang'a
+KEN,Kenya,KEN.13327,Kiambu
+KEN,Kenya,KEN.13328,Kirinyaga
+KEN,Kenya,KEN.13329,Homa Bay
+KEN,Kenya,KEN.13330,Isiolo
+KEN,Kenya,KEN.13331,West Pokot
+KEN,Kenya,KEN.13332,Makueni
+KEN,Kenya,KEN.13333,Kajiado
+KEN,Kenya,KEN.13334,Machakos
+KEN,Kenya,KEN.13335,Elgeyo-Marakwet
+KEN,Kenya,KEN.13336,Nyeri
+KEN,Kenya,KEN.13337,Kwale
+KEN,Kenya,KEN.13338,Nyandarua
+KEN,Kenya,KEN.13339,Kisumu
+KEN,Kenya,KEN.13340,Kitui
+KEN,Kenya,KEN.13341,Laikipia
+KEN,Kenya,KEN.13342,Marsabit
+KEN,Kenya,KEN.13343,Lamu
+KEN,Kenya,KEN.13344,Turkana
+KEN,Kenya,KEN.13345,Tharaka-Nithi
+KEN,Kenya,KEN.13346,Taita Taveta
+KEN,Kenya,KEN.13347,Samburu
+SSD,South Sudan,SSD.741,Central Equatoria
+SSD,South Sudan,SSD.742,Eastern Equatoria
+SSD,South Sudan,SSD.743,Jonglei
+SSD,South Sudan,SSD.744,Pibor Administrative Area
+SSD,South Sudan,SSD.745,Lakes
+SSD,South Sudan,SSD.746,Northern Bahr el Ghazal
+SSD,South Sudan,SSD.747,Ruweng Administrative Area
+SSD,South Sudan,SSD.748,Unity
+SSD,South Sudan,SSD.749,Upper Nile
+SSD,South Sudan,SSD.7410,Warrap
+SSD,South Sudan,SSD.7411,Western Bahr el Ghazal
+SSD,South Sudan,SSD.7412,Western Equatoria
+MEX,Mexico,MEX.1621,Aguascalientes
+MEX,Mexico,MEX.1622,Campeche
+MEX,Mexico,MEX.1623,Coahuila de Zaragoza
+MEX,Mexico,MEX.1624,Chiapas
+MEX,Mexico,MEX.1625,Ciudad de M‚xico
+MEX,Mexico,MEX.1626,Durango
+MEX,Mexico,MEX.1627,Guanajuato
+MEX,Mexico,MEX.1628,Guerrero
+MEX,Mexico,MEX.1629,Hidalgo
+MEX,Mexico,MEX.16210,Jalisco
+MEX,Mexico,MEX.16211,M‚xico
+MEX,Mexico,MEX.16212,Michoac n de Ocampo
+MEX,Mexico,MEX.16213,Morelos
+MEX,Mexico,MEX.16214,Nuevo Le¢n
+MEX,Mexico,MEX.16215,Oaxaca
+MEX,Mexico,MEX.16216,Puebla
+MEX,Mexico,MEX.16217,Quer‚taro
+MEX,Mexico,MEX.16218,Quintana Roo
+MEX,Mexico,MEX.16219,San Luis Potos¡
+MEX,Mexico,MEX.16220,Tabasco
+MEX,Mexico,MEX.16221,Tamaulipas
+MEX,Mexico,MEX.16222,Tlaxcala
+MEX,Mexico,MEX.16223,Veracruz de Ignacio de la Llave
+MEX,Mexico,MEX.16224,Yucat n
+MEX,Mexico,MEX.16225,Zacatecas
+MEX,Mexico,MEX.16226,Baja California
+MEX,Mexico,MEX.16227,Baja California Sur
+MEX,Mexico,MEX.16228,Colima
+MEX,Mexico,MEX.16229,Chihuahua
+MEX,Mexico,MEX.16230,Nayarit
+MEX,Mexico,MEX.16231,Sinaloa
+MEX,Mexico,MEX.16232,Sonora
