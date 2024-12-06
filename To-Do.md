@@ -1,4 +1,4 @@
-## Code
+### Code
 1. API request to download the data
 2. Processing to make sure the data are matching the VIEWS country-month or country-year format
   + Confusion: What is the VIEWS country-month/country-year format? // VIEWS documentation, download exemplary data, try out’
