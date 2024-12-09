@@ -40,5 +40,10 @@
 	- ...
 - tx84rr // Excess Mortality
 	- ...
+
+- https://cckpapi.worldbank.org/cckp/v1/cru-x0.5_timeseries_tas_timeseries_monthly_1901-2022_mean_historical_cru_ts4.07_mean/all_countries?_format=json
+- https://cckpapi.worldbank.org/cckp/v1/cru-x0.5_timeseries_tasmax_timeseries_monthly_1901-2022_mean_historical_cru_ts4.07_mean/all_countries?_format=json
+- https://cckpapi.worldbank.org/cckp/v1/cru-x0.5_timeseries_tasmin_timeseries_monthly_1901-2022_mean_historical_cru_ts4.07_mean/all_countries?_format=json
+
 - txx // Maximum of Daily Max-Temperature
 	- ...
