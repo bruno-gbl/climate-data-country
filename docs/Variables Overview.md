@@ -62,9 +62,6 @@
 - tnn
 	- Minimum of Daily Min-Temperature
  	- G: -
-- tx84rr
-	- Excess Mortality
-	- G: -
 - txx
 	- Maximum of Daily Max-Temperature
 	- G: -	
@@ -143,6 +140,10 @@
 - wsdi
 	- Warm Spell Duration Index
 	- Only annual data
+- tx84rr
+	- Excess Mortality
+	- G: -
+ 	- Problem: API is empty
 
 ----
 
