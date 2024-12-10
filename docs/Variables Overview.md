@@ -145,6 +145,13 @@
 	- G: -
  	- Problem: API is empty
 
+- hd45
+	- Number of Hot Days (Tmax > 45°C)
+	- G: -
+	- Only daily maximum temperature per month/year.
+ - Problem: API is empty
+
+
 ----
 
 ## Variables used by Garrett on the PRIO-Grid Level
