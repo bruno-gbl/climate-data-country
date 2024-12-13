@@ -1,9 +1,12 @@
 ### Code
-1. Country IDs and Month IDs.
+1. Quality Check
+  + Check quality of data.
+  + Reflect on and list potential inaccuracies in data.
+2. Country IDs and Month IDs.
   + Coordinate with Jim for qualified decision on how to deal with lack of data on older geographic entities, like pre 2011 Sudan.
-2. Ingestion
+3. Ingestion
   + Propose code for ingestion.
-3. Hand-In
+4. Hand-In
   + Transfer code to Jim. // Maybe only in January.
 
 
