@@ -73,9 +73,6 @@
 - hd30
 	- Number of Hot Days (Tmax > 30°C)
 	- G: - // Only daily maximum temperature per month/year.
-- hd45
-	- Number of Hot Days (Tmax > 45°C)
-	- G: - // Only daily maximum temperature per month/year.	
 - hd50
 	- Number of Hot Days (Tmax > 50°C)
 	- G: - // Only daily maximum temperature per month/year.	
