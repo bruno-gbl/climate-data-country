@@ -1,10 +1,13 @@
 ### Code
-1. Processing to make sure the data are matching the VIEWS country-month or country-year format
-  + Confusion: What is the VIEWS country-month/country-year format? // VIEWS documentation, download exemplary data, try out’
-  + Focus (P): country code convention // Mihai’s ingested manual: https://github.com/UppsalaConflictDataProgram/ingester3_loaders/blob/gadm_pg/Ingester3_documentation.ipynb.
-  + Advice (P): Use viewser functions to process the data (checking for duplicates, converting country identifiers)
-2. Ingestion
-  + Actual ingestion does not need to be included, maybe play around with it
+1. Quality Check
+  + Check quality of data.
+  + Reflect on and list potential inaccuracies in data.
+2. Country IDs and Month IDs.
+  + Coordinate with Jim for qualified decision on how to deal with lack of data on older geographic entities, like pre 2011 Sudan.
+3. Ingestion
+  + Propose code for ingestion.
+4. Hand-In
+  + Transfer code to Jim. // Maybe only in January.
 
 
 
