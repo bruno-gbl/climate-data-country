@@ -14,7 +14,7 @@
 
 ---
 
-## New variables: World Bank @country Level, not covered by Garrett's PRIO-GRID variables
+## New variables: World Bank Climate Data @country level, not covered by Garrett's PRIO-GRID variables
 
 ### Variables that should definitely be adopted.
 - tas
