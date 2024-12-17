@@ -1,5 +1,5 @@
 ## Final points
-2. Country IDs
+1. Country IDs
   + Coordinate with Jim for a qualified decision on how to deal with lack of data on older geographic entities, like pre 2011 Sudan.
 2. Ommitted territories
   + Figure out, whether there is a way to not omit the data from the smaller autonomous regions etc. that do not exist in VIEWS, like Åland, Antigua etc.
