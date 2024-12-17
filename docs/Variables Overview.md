@@ -218,7 +218,7 @@
 - **"warm_days"**
 - **"warm_nights"**
 
-### Overview from the EU's "[Climate Data Portal](https://cds.climate.copernicus.eu/datasets/sis-extreme-indices-cmip6?tab=overview)", from which the pgm-level climata data is drawn.
+### Overview from the EU's "[Climate Data Store](https://cds.climate.copernicus.eu/datasets/sis-extreme-indices-cmip6?tab=overview)", from which the pgm-level climata data is drawn.
 - **Cold days**
 	- %
 	- Percentage of days with maximum temperature below the corresponding calendar day 10th percentile of maximum temperature for a 5-day moving window in the base period. The ETCCDI short name for this variable is "TX10p".
