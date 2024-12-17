@@ -1,14 +1,15 @@
-### Code
-1. Quality Check
-  + Check quality of data.
-  + Reflect on and list potential inaccuracies in data.
-2. Country IDs and Month IDs.
-  + Coordinate with Jim for qualified decision on how to deal with lack of data on older geographic entities, like pre 2011 Sudan.
+## Final points
+2. Country IDs
+  + Coordinate with Jim for a qualified decision on how to deal with lack of data on older geographic entities, like pre 2011 Sudan.
+2. Ommitted territories
+  + Figure out, whether there is a way to not omit the data from the smaller autonomous regions etc. that do not exist in VIEWS, like Åland, Antigua etc.
+  + Arguably most relevant case: Is Greenland coded as part of Denmark in VIEWS?
 3. Ingestion
   + Propose code for ingestion.
+4. Decision on variables
+  + Coordinate with Paola which variables should be adopted and which should be ommitted.
 4. Hand-In
-  + Transfer code to Jim. // Maybe only in January.
-
+  + Transfer code to Jim.
 
 
 ## Done
@@ -23,4 +24,7 @@
   + All indicators at the pg-level: https://cds.climate.copernicus.eu/datasets/sis-extreme-indices-cmip6?tab=overview
 
 ### Code
-1. API request to download the data
++ API request to download the data
++ Tranform individual JSON files into one unitary dataframe
++ Insert month_id column
++ Prepare decision on c_id column.
