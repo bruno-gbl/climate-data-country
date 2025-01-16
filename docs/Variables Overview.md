@@ -91,23 +91,12 @@
 	- G: Almost identical variable // G: count variable // Here: Average over time, i.e. data period. Smoothed-out, long-term perspective of Frost Days; Less interesting for forecasting.	
 - id
 	- Number of Ice Days (Tmax < 0°C)
-	- G: Almost identical variable // G: count variable // Here: Average over time, i.e. data period. Smoothed-out, long-term perspective of Ice Days; Less interesting for forecasting.	
-
-### Variables that should definitely not be adopted.
+	- G: Almost identical variable // G: count variable // Here: Average over time, i.e. data period. Smoothed-out, long-term perspective of Ice Days; Less interesting for forecasting.
 - cdd
 	- Maximum number of consecutive dry days
 	- G: Identical variable
-- csdi
-	- Cold Spell Duration Index
-	- Only annual data
 - cwd
 	- Max Number of Consecutive Wet Days
-	- G: Identical variable
-- gslend
-	- Growing Season Length End
-	- G: Identical variable
-- gslstart
-	- Growing Season Length Start
 	- G: Identical variable
 - r20mm
 	- Number of Days with Precipitation >20mm
@@ -118,19 +107,31 @@
 - tr
 	- Number of Tropical Nights (T-min > 20°C)
 	- G: Identical Variable
+
+### Variables that should definitely not be adopted.
+- csdi
+	- Cold Spell Duration Index
+	- Only annual data
 - wsdi
 	- Warm Spell Duration Index
 	- Only annual data
+- gslend
+	- Growing Season Length End
+	- G: Identical variable
+	- Problem: API is empty
+- gslstart
+	- Growing Season Length Start
+	- G: Identical variable
+	- Problem: API is empty
 - tx84rr
 	- Excess Mortality
 	- G: -
  	- Problem: API is empty
-
 - hd45
 	- Number of Hot Days (Tmax > 45°C)
 	- G: -
 	- Only daily maximum temperature per month/year.
- - Problem: API is empty
+ 	- Problem: API is empty
 
 
 ----
